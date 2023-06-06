@@ -30,8 +30,8 @@ jobs:
       - name: Build
         run: |
           echo "+++++" ${{ secrets.ACTIONS_DEPLOY_KEY }}
-          echo "-----" $HUGO_PARAMS_GITALK_CLIENTID
-          echo "-----" ${{ HUGO_PARAMS_GITALK_CLIENTID }}
+          # echo "-----" $HUGO_PARAMS_GITALK_CLIENTID
+          # echo "-----" ${{ HUGO_PARAMS_GITALK_CLIENTID }}
           hugo --minify
 
       - name: Deploy
