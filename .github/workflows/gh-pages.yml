@@ -28,7 +28,9 @@ jobs:
         shell: bash
 
       - name: Build
-        run: hugo --minify
+        run: |
+          echo "-----" ${{HUGO_PARAMS_GITALK_CLIENTID}}
+          hugo --minify
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
