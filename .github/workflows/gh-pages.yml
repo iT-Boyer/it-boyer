@@ -28,11 +28,8 @@ jobs:
         shell: bash
 
       - name: Build
-        run: |
-          echo "+++++" ${{ secrets.ACTIONS_DEPLOY_KEY }}
-          # echo "-----" $HUGO_PARAMS_GITALK_CLIENTID
-          # echo "-----" ${{ HUGO_PARAMS_GITALK_CLIENTID }}
-          hugo --minify
+        shell: echo "+++++" ${{ secrets.ACTIONS_DEPLOY_KEY }}
+        run: hugo --minify
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
