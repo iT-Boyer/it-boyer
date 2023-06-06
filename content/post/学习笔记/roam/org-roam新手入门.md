@@ -2,6 +2,8 @@
 title = "org-roam新手入门"
 description = "博客简介"
 date = 2023-06-04T19:01:00+08:00
+tags = ["翻译", "org-roam"]
+categories = ["学习笔记"]
 draft = false
 creator = "Emacs 30.0.50 (Org mode 9.6.1 + ox-hugo)"
 authors = ["iTBoyer"]
@@ -87,7 +89,7 @@ password = ""
 
 此外,Org-roam 网络是有向无环图(DAG)。这意味着: 
 
-1.  网络中的每个节点至多有一个父节点。这避免了在网络中形成&ldquo;环&rdquo;。
+1.  网络中的每个节点至多有一个父节点。这避免了在网络中形成"环"。
 
 2.  网络可以由多个根节点组成。文件节点始终是网络中的根节点。
 
