@@ -1,5 +1,5 @@
 +++
-title = "30 GNU FM"
+title = "配置emmsFM平台和个人音频流媒体"
 description = "博客简介"
 date = 2023-06-06T18:59:00+08:00
 tags = ["翻译"]
