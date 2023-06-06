@@ -1,7 +1,7 @@
 +++
 title = "设置音频播放状态在modeline上的展示样式"
 description = "博客简介"
-date = 2023-06-06T19:28:00+08:00
+date = 2023-06-06T08:10:00+08:00
 tags = ["翻译"]
 categories = ["学习笔记"]
 draft = false
@@ -9,7 +9,7 @@ authors = ["iTBoyer"]
 password = ""
 +++
 
-CLOSED: <span class="timestamp-wrapper"><span class="timestamp">&lt;2023-06-06 周二 08:10&gt;</span></span> 我们可以使用包'`emms-mode-line`'(由文件 `emms-mode-line.el` 提供)在 Emacs 模式行上显示当前播放曲目的信息。 
+我们可以使用包'`emms-mode-line`'(由文件 `emms-mode-line.el` 提供)在 Emacs 模式行上显示当前播放曲目的信息。 
 
 要激活此功能,请调用: 
 
