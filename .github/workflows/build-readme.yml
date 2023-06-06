@@ -62,7 +62,7 @@ jobs:
 
       - name: Build
         run: |
-          echo $HUGO_PARAMS_GITALK_CLIENTID
+          echo "----" $HUGO_PARAMS_GITALK_CLIENTID
           echo $HUGO_PARAMS_GITALK_CLIENTSECRET
           hugo --minify --config config_resume.toml
 
