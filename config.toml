@@ -139,8 +139,8 @@ fancybox = true           # see https://github.com/fancyapps/fancybox           
 # algolia
 algolia = false  # 是否启用algolia
   index = "qikqiak-blog"
-  key = HUGO_ALGOLIA_KEY
-  appID = HUGO_ALGOLIA_APPID
+  key = $HUGO_ALGOLIA_KEY
+  appID = $HUGO_ALGOLIA_APPID
   
 # mathjax
 mathjax = false           # see https://www.mathjax.org/                              # 是否使用mathjax（数学公式）
@@ -201,8 +201,8 @@ repo = ""               # The repo to store comments
 [params.gitalk]           # Gitalk is a comment system based on GitHub issues. see https://github.com/gitalk/gitalk
 owner = "it-boyer"              # Your GitHub ID
 repo = "it-boyer.github.io"               # The repo to store comments
-clientId = HUGO_GITALK_CLIENTID           # Your client ID
-clientSecret = HUGO_GITALK_CLIENTSECRET       # Your client secret
+clientId = $HUGO_GITALK_CLIENTID           # Your client ID
+clientSecret = $HUGO_GITALK_CLIENTSECRET       # Your client secret
 
 # Valine.
 # You can get your appid and appkey from https://leancloud.cn
