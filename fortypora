@@ -1,0 +1,29 @@
+#!/bin/bash
+
+# 执行后确保用Typora打开本地md文件可以正常渲染，特别是数学公式。
+# 将`{{</* katex [display] */>}}latex{{</* /katex */>}}`
+# 转换成$$格式
+# ./fortypora
+
+function action(){
+    for file in `ls $1`
+    do
+        if [ -d $1"/"$file ]
+        then
+            action $1"/"$file
+        elif [ "${file#*.}"x = "md"x ]
+        then
+            # 方便用typora阅读
+            sed -i 's/{{<\s*katex\s*>}}/$$/g; s/{{<\s*katex\s*display\s*>}}/$$/g; s/{{<\s*\/katex\s*>}}/$$/g; s/\$\$\([^$]*\)\$\$/$\1$/g; s/\[\([^[]*\)\]({{<\s*roamlink\s*"\1"\s*>}})/[[\1]]/g; s/\[\([^[]*\)\]({{<\s*roamlink\s*"\([^"]*\)"\s*>}})/[[\2|\1]]/g; '  $1"/"$file
+        fi
+    done
+}
+
+if [ -d "./content" ]
+then
+    echo "确保Markdown可解析,转换中..."
+    action ./content
+    echo "确保Markdown可解析,转换完成！"
+else
+    echo "此脚本只能在包含content的目录notes中执行"
+fi

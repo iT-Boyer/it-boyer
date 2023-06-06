@@ -1,0 +1,36 @@
++++
+title = "优化网络实现方式,重构SDImage组件调用接口"
+date = 2019-08-09T11:47:00+08:00
+lastmod = 2019-08-09T17:50:15+08:00
+tags = ["文档"]
+categories= ["解决方案"]
+draft = false
+author = "iTBoyer"
+#password = 1234
++++
+
+-----BEGIN PGP MESSAGE-----
+
+jA0EBwMCUlTuBCTI8Rbk0ukBersHDQQnHsO5+FaUQKR/ZYY6m1lxq+gbwYyCaV0y
+rDRbuteR30Hqyipc72CjIUWnE1DdqbSsiy7GZdh+oWUPb/cxZUFvZ0tOXStliAHC
+wGsqab2ewbfstgM9vfHv2dMmfUvbFIFBED0z8Oo7psXyjvUv/06yMLM07Ap9C7jD
+kARn3Q88hdeHTorDGKPF4sPteAyCA/h0kdgglUSlpAOZP+KqDyz8kj4gGPp/zW3t
+zJHuYjS8ZrtWjhr0UifLAmgOjIS7glKX2clOTVGv7nyUCfK3ctWOxjtA1Rbf6cKA
+LTgVrwwLps7E8oe8ATgi4H+0FyQ0gwpt/y6fDzmoelEzHD1MhFkNWAlZJn5USaGI
+2E425Zv4MgzfmwAYbr65JUmyNuZAq2JlkvSFFDNZPQ1N2edmpyZf8ZB2LQf9bOcy
+836RjOmebZca5ARuFHcUAG/5SjoXf5vL2hPusWhHhPlK9oJNr15rwNt5tFQVv0zL
+YQUGUtzSAe5iN08sgb7Vj5ZeRDqcIfAm+QbTGSSe5jFIIt3zR4lfaATz7f6g797h
+vPm11zneE6wu90ltmdZQVkwE2Mq3zGpN5NUwoDDpehoGReZszLfPr+in0khzxgYj
+bNjeT95BDAHqMdQp/g6YJItGsdlcJzMrcU1JoQkVu4t1pBsz4JSpxqu2VbJCQqDq
+OsEVNzys/TACtP35rqD3HVPpCypp79gjb+/vTcUlESYRQvHUlemGAJTMGqiu6GUu
+VwhGvW2+Xii1UJtlN1h0XqKddb6cNJXnjSMaGQOH1mnSVxn5OZxrVm9UCqm8pN1G
+9WMEzB8lcJo5nS5DdzbsD/X7hydnARX//Ge/aTQ8Cruw7CTILwqnBaw529HMP8Q4
+iFBJcacVfnYz4AEeevvIGXSavzrUkTQGViaoHh/t5rHRLnW7V4EYmykUrbqVKohs
+pmy77RuQfMA3r37qVKqmKE7Qxy04EGyh/JDhYXCZWmoDW6C1amJfmHzJcKENo22P
+577ldYhgZ5GUQ9IEWN/RqxT4sD+2RY+YTf+Ja1jRisN7ocdg7JOLo776MsohS99C
+XHUv+NhaZC0rWoqX3ge652TmZJp9cDEeE6PxgWPRHKRPHTQeDdErSQSTjfQCUnGT
+szvB7XFJh/SEf4PjyeWqV5t9d+lLlW37EwuB+ovzFd94GU8tnNlTNnkjPpqobsWy
+JaljzhDDQXomL+EDaGePIBKB9/fi6CChFNNnGtuuSPCpK6c7/XlUNIRVsI1pOWcs
+FU29dsxewXfclRW7jl3hs1+FVwErKHwpPVXYTGkIaCSkBUpiDo11Yg==
+=2Zpw
+-----END PGP MESSAGE-----

@@ -1,0 +1,13 @@
+{{ define "content" }}
+<h1>{{ .Params.name }}</h1>
+{{ .Render "photo" }}
+
+<!-- <h2>作者简介</h2> -->
+{{ .Content }}
+
+<h2>贡献</h2>
+ {{ range .Data.Pages }}
+ {{ .Render "article" }}
+ {{ end }}
+
+{{ end }}

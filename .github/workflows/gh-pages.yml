@@ -1,0 +1,46 @@
+name: github pages
+
+on:
+  push:
+    branches:
+      - main # Set a branch to deploy
+  pull_request:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          submodules: true # Fetch Hugo themes (true OR recursive)
+          fetch-depth: 0 # Fetch all history for .GitInfo and .Lastmod
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: "latest"
+          extended: true
+
+      ## 将[[abc|efg]]  置换成 [efg]({{< roamlink "abc" >}})
+      ## 将[[abc]]  置换成 [abc]({{< roamlink "abc" >}})
+      - name: roamlink #处理双向连接
+        run: ./forroamlink
+        shell: bash
+
+      - name: Build
+        run: hugo --minify
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        if: github.ref == 'refs/heads/main'
+        with:
+          # 再gh-page发布库设置－deploy中
+          # 添加ssh公钥
+          #      github_token: ${{ secrets.GITHUB_TOKEN }}
+          #      博客源码库中secret－action中
+          #      添加ssh私钥，名称ACTIONS_DEPLOY_KEY
+          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          publish_dir: ./public # 对应config.toml配置publish_dir
+          external_repository: it-boyer/it-boyer.github.io
+          publish_branch: master # default: gh-pages
+          force_orphan: true

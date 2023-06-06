@@ -1,0 +1,48 @@
+#!/bin/bash
+
+# 执行后确保用Hugo生成的站点可以正常渲染，特别是数学公式。
+# 将`$$`
+# 转换成`{{</* katex [display] */>}}latex{{</* /katex */>}}`
+# ./forroamlink
+
+function action(){
+    for file in `ls $1`
+    do
+        if [ -d $1"/"$file ]
+        then
+            action $1"/"$file
+        elif [ "${file#*.}"x = "md"x ]
+        then
+            # 方便发布到gitee
+            # 1）跳过行内代码: ```online code```
+            # 2）跳过行间代码:
+            # ```
+            # multiline code
+            # ```
+            # 3）多行公式变换:
+            # $$
+            # multiline latex
+            # $$
+            # 4）行内公式变换: $$online latex$$
+            # 5）行内公式变换: $online latex$
+            # 6）图片链接变换
+            #sed -i '/```[^`]*```/n; /^```/ { :begin1; /^```.*\s*\n\s*```/! { $! { N; b begin1 }; }; n; }; /\$\$/ { :begin2; /\$\$[^$]*\$\$/! { $! { N; b begin2 }; }; }; s/\$\$\(\n[^$]*\n\)\$\$/{{< katex display >}}\1{{< \/katex >}}/g; s/\$\$\([^$]*\)\$\$/{{< katex >}}\1{{< \/katex >}}/g; s/\$\([^$]*\)\$/{{< katex >}}\1{{< \/katex >}}/g; s/\[\[\([^[]*\)|\([^[]*\)\]\]/[\2]({{< roamlink "\1" >}})/g; s/\[\[\([^[|]*\)\]\]/[\1]({{< roamlink "\1" >}})/g; '  $1"/"$file
+            # 进处理Excalidraw/Drawing图片链接
+            sed -i 's/\[\[Drawing\([^[]*\)|\([^[]*\)\]\]/[\2](\/Excalidraw\/Drawing\1)/g; s/\[\[Drawing\([^[|]*\)\]\]/[\1](\/Excalidraw\/Drawing\1)/g; ' $1"/"$file
+            # mac 终端测试命令, 修改文件时，要有空字符分割。
+            #sed -i '' 's/\[\[Drawing\([^[]*\)|\([^[]*\)\]\]/[\2](\/Excalidraw\/Drawing\1)/g; s/\[\[Drawing\([^[|]*\)\]\]/[\1](\/Excalidraw\/Drawing\1)/g;' 验证ob绘图工具结合双向链接嵌套和Hugo的兼容性.md
+
+            #替换markdown \` 为 `
+            sed -i 's/\\`/`/g' $1"/"$file
+        fi
+    done
+}
+
+if [ -d "./content" ]
+then
+    echo "确保站点可解析,转换中..."
+    action ./content
+    echo "确保站点可解析,转换完成！"
+else
+    echo "此脚本只能在包含content的目录notes中执行"
+fi

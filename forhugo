@@ -1,0 +1,28 @@
+#!/usr/bin/env sh
+
+#!/bin/bash
+
+# ./forroamlink 先处理roamlink
+# 再执行 hugo [servere] -D 命令
+# ./forhugo      # 站点发布（生成静态文件）
+# ./forhugo server  # 站点预览
+# ./fortypora   复原
+
+
+if [ -d "./content" ]
+then
+    # 处理双向链接
+    ./forroamlink
+    if [ "$1"x = "server"x ]
+    then
+        hugo server --disableFastRender -D
+    else
+        rm -rf public
+        hugo -D
+    fi
+
+    # 复原
+    ./fortypora
+else
+    echo "此脚本只能在包含content的目录notes中执行"
+fi
