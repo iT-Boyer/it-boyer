@@ -61,7 +61,10 @@ jobs:
           extended: true
 
       - name: Build
-        run: hugo --minify --config config_resume.toml
+        run: |
+          echo $HUGO_PARAMS_GITALK_CLIENTID
+          echo $HUGO_PARAMS_GITALK_CLIENTSECRET
+          hugo --minify --config config_resume.toml
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3

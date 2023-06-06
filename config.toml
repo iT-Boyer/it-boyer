@@ -139,8 +139,8 @@ fancybox = true           # see https://github.com/fancyapps/fancybox           
 # algolia
 algolia = false  # 是否启用algolia
   index = "qikqiak-blog"
-  key = $HUGO_ALGOLIA_KEY
-  appID = $HUGO_ALGOLIA_APPID
+  key = "" #$HUGO_ALGOLIA_KEY
+  appID = "" #$HUGO_ALGOLIA_APPID
   
 # mathjax
 mathjax = false           # see https://www.mathjax.org/                              # 是否使用mathjax（数学公式）
