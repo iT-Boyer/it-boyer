@@ -28,9 +28,6 @@ jobs:
         shell: bash
 
       - name: Build
-        shell: |
-          echo "-----" $HUGO_PARAMS_GITALK_CLIENTID
-          echo "+++++" ${{ HUGO_PARAMS_GITALK_CLIENTID }}
         run: hugo --minify
 
       - name: Deploy
