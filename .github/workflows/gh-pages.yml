@@ -28,7 +28,9 @@ jobs:
         shell: bash
 
       - name: Build
-        shell: echo "+++++" ${{ secrets.ACTIONS_DEPLOY_KEY }}
+        shell: |
+          echo "-----" $HUGO_PARAMS_GITALK_CLIENTID
+          echo "+++++" ${{ HUGO_PARAMS_GITALK_CLIENTID }}
         run: hugo --minify
 
       - name: Deploy
