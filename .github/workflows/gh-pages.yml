@@ -39,7 +39,7 @@ jobs:
           #      github_token: ${{ secrets.GITHUB_TOKEN }}
           #      博客源码库中secret－action中
           #      添加ssh私钥，名称ACTIONS_DEPLOY_KEY
-          deploy_key: ${{ secrets.SSH_PRIVATE_KEY }}
+          deploy_key: ${{ secrets.DEPLOY_TO_GH_PAGES }}
           publish_dir: ./public # 对应config.toml配置publish_dir
           external_repository: it-boyer/it-boyer.github.io
           publish_branch: master # default: gh-pages
