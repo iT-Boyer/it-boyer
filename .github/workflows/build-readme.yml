@@ -27,7 +27,7 @@ jobs:
           COMMIT_MESSAGE: "生成wakatime统计"
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.IT_BOT_KEY }} # only required if using the action in repository other than profile
-          REPOSITORY: it-boyer/it-boyer
+          # REPOSITORY: it-boyer/it-boyer
           STATS_RANGE: "last_7_days"
 
       # 生成README
