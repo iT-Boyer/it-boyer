@@ -23,7 +23,6 @@ jobs:
         uses: athul/waka-readme@master
         with:
           BRANCH_NAME: main # 当前库的分支
-          IMAGES_FOLDER: resume/static/wakatime
           COMMIT_MESSAGE: "生成wakatime统计"
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           # GH_TOKEN: ${{ secrets.IT_BOT_KEY }} # only required if using the action in repository other than profile
