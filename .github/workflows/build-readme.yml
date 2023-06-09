@@ -31,6 +31,7 @@ jobs:
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
           LANG_COUNT: 10
+          
 
       # 生成README
       - name: Set up Python
@@ -52,7 +53,7 @@ jobs:
           BOT_TOKEN: ${{ secrets.IT_BOT_KEY }}
         run: |-
           python build_readme.py
-          # cat README.md
+          cat README.md
           cp README.* resume/static
 
       # 使用 hugo 发布
