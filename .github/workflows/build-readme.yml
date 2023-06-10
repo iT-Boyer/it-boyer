@@ -52,9 +52,9 @@ jobs:
         env:
           BOT_TOKEN: ${{ secrets.IT_BOT_KEY }}
         run: |-
-          cat README.md
-          python build_readme.py
           #cat README.md
+          python build_readme.py
+          cat README.md
           cp README.* resume/static
 
       # 使用 hugo 发布
