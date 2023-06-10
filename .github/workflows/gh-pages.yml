@@ -27,7 +27,7 @@ jobs:
         run: ./forroamlink
         shell: bash
 
-      - name: Build
+      - name: Build gh
         run: hugo --minify
 
       - name: Deploy
@@ -43,4 +43,17 @@ jobs:
           publish_dir: ./public # 对应config.toml配置publish_dir
           external_repository: it-boyer/it-boyer.github.io
           publish_branch: master # default: gh-pages
+          force_orphan: true
+
+      - name: Build readme
+        run: hugo --minify --config config_resume.toml
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        if: github.ref == 'refs/heads/main'
+        with:
+          deploy_key: ${{ secrets.DEPLOY_TO_IT_BOYER_PAGES }}
+          publish_dir: ./docs # 对应config.toml配置publish_dir
+          external_repository: it-boyer/it-boyer
+          publish_branch: gh-pages # default: gh-pages
           force_orphan: true
