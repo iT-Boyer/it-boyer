@@ -74,11 +74,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Org                        33 hrs 27 mins  ████████░░░░░░░░░░░░░░░░░   31.46 %
-Other                      24 hrs 30 mins  █████▓░░░░░░░░░░░░░░░░░░░   23.05 %
-Emacs Lisp                 24 hrs 5 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.65 %
-JavaScript                 8 hrs 1 min     ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 %
-Markdown                   4 hrs 52 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
+From: 17 September 2022 - To: 09 June 2023
+
+Total Time: 203 hrs 58 mins
+
+Other                      89 hrs 33 mins  ███████████░░░░░░░░░░░░░░   43.90 %
+Org                        55 hrs 28 mins  ██████▓░░░░░░░░░░░░░░░░░░   27.20 %
+Emacs Lisp                 28 hrs 11 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.82 %
+JavaScript                 8 hrs 2 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
+Markdown                   5 hrs 53 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
+Swift                      3 hrs 44 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
+Git                        3 hrs 27 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+YAML                       2 hrs 38 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+Bash                       2 hrs 14 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+Python                     1 hr 19 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
 ```
 
 <!--END_SECTION:waka-->
