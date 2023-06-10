@@ -30,7 +30,7 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
 
 disablePathToLower = true
 # 制定RSS最大条数 0:返回全部 特殊符合：~^H~，需要清理。
-rssLimit = 30
+rssLimit = 10
 
 # todo-css 无效果问题解决 ：https://stackoverflow.com/questions/63198652/hugo-shortcode-ignored-saying-raw-html-omitted
 [markup]
