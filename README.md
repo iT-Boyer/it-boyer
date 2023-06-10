@@ -90,7 +90,7 @@ Swift                      1 hr 45 mins    ▓░░░░░░░░░░░�
 #### 🤾‍♂️ <a href="https://it-boyer-github.io" target="_blank">动态</a>
 
 <!-- blog starts -->
-<a herf=http://it-boyer.github.io/post/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/emms%E9%85%8D%E7%BD%AE%E4%B8%80%E4%B8%AAmpv%E7%9A%84%E6%A1%88%E4%BE%8B/>通过 emms 定制 mpv 播放器的案例</a>
+<a herf="http://it-boyer.github.io/post/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/emms%E9%85%8D%E7%BD%AE%E4%B8%80%E4%B8%AAmpv%E7%9A%84%E6%A1%88%E4%BE%8B/">通过 emms 定制 mpv 播放器的案例</a>
 <a herf=http://it-boyer.github.io/post/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E7%BC%96%E8%BE%91%E9%9F%B3%E9%A2%91%E6%96%87%E4%BB%B6%E5%85%83%E6%95%B0%E6%8D%AE/>编辑音频标签和文件名称</a>
 <a herf=http://it-boyer.github.io/post/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/emms%E7%AE%A1%E7%90%86%E6%92%AD%E6%94%BE%E5%88%97%E8%A1%A8/>使用EMMS管理多媒体播放列表</a>
 <a herf=http://it-boyer.github.io/post/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E9%85%8D%E7%BD%AEemmsFM%E5%B9%B3%E5%8F%B0%E5%92%8C%E4%B8%AA%E4%BA%BA%E9%9F%B3%E9%A2%91%E6%B5%81%E5%AA%92%E4%BD%93/>配置emmsFM平台和个人音频流媒体</a>
