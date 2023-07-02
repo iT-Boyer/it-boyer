@@ -73,14 +73,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 June 2023 - To: 01 July 2023
+From: 25 June 2023 - To: 02 July 2023
 
-Total Time: 8 hrs 24 mins
+Total Time: 4 hrs 35 mins
 
-Other   7 hrs 56 mins   ███████████████████████▓░   94.32 %
-Org     16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
-Bash    6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
-Git     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+Other   4 hrs 14 mins   ███████████████████████░░   92.12 %
+Org     9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
+Bash    6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
+Git     5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
 ```
 
 <!--END_SECTION:waka-->
