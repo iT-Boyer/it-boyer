@@ -73,12 +73,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 July 2023 - To: 13 July 2023
+From: 07 July 2023 - To: 14 July 2023
 
-Total Time: 4 hrs 43 mins
+Total Time: 4 hrs 32 mins
 
-Other   4 hrs 31 mins   ████████████████████████░   96.06 %
-Org     11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
+Other   4 hrs 26 mins   ████████████████████████▒   97.76 %
+Org     6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
 ```
 
 <!--END_SECTION:waka-->
