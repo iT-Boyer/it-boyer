@@ -15,8 +15,7 @@
 <td valign="top" width="50%">
 
 <!-- dairy starts -->
- 🚩今日毕
- - [ ] 温习阅读技巧
+🚩今日毕🎉🎉🎉
 <!-- dairy ends -->
 
 </td>
