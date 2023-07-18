@@ -73,15 +73,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 July 2023 - To: 17 July 2023
+From: 11 July 2023 - To: 18 July 2023
 
-Total Time: 19 hrs
+Total Time: 18 hrs 34 mins
 
-Other        11 hrs 42 mins  ███████████████▒░░░░░░░░░   61.60 %
-Emacs Lisp   2 hrs 9 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.35 %
-Org          1 hr 30 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 %
-YAML         1 hr            █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
-Bash         51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
+Other        10 hrs 30 mins  ██████████████░░░░░░░░░░░   56.61 %
+Emacs Lisp   2 hrs 27 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.24 %
+Org          1 hr 55 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.34 %
+YAML         1 hr            █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 %
+Bash         51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
 ```
 
 <!--END_SECTION:waka-->
