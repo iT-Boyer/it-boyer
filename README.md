@@ -15,6 +15,10 @@
 <td valign="top" width="50%">
 
 <!-- dairy starts -->
+ 🚩今日毕
+ - [ ] 在 elfeed 阅读时，挖掘 AI 使用场景
+ - [ ] 开发 Auto-GPT 不同角色的助手，制作 prompt 模板
+
  Other items
  - [ ] 我的经历是什么？
 <!-- dairy ends -->
