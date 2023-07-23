@@ -6,28 +6,9 @@ X-WR-TIMEZONE:CST
 X-WR-CALDESC:
 CALSCALE:GREGORIAN
 BEGIN:VTODO
-UID:TODO-415752fc-c3ae-4667-ac55-a5cb35499490
-DTSTAMP:20230603T162940Z
-DTSTART:20230604T002900
-SUMMARY:使用 org-roam 管理 awesomes 知识库 [0/2]
-DESCRIPTION:现有的 awesomes 清单：\n┌────\n│ ├── IPTV\n│ ├── Tvlist-awesome-m3u-m
- 3u8\n│ ├── awesome-cli-apps\n│ ├── awesome-github-profile-readme\n│ ├── aw
- esome-podcasts\n│ ├── awesome-swift\n│ ├── github-cheat-sheet\n│ ├── m3u8\
- n│ └── open-source-ios-apps\n└────\n\n熟悉这些知识库，可以关注不同领域中的知识体系和具体的应用场景等。\n\n
- 如何把这些库作为知识体系，实现在日常决策中，作为依据候选方案。\n\n例如：在手敲一个工具之前，先在 awesomes 库中，检索满足需求的知识点，
- 找\n到类似功能启发灵感，再做具体的开发设计等。如果有具体的实现，可以直接拿\n来使用，或二次开发。目的就是减少在工具上，不必要的时间浪费。\n\n
- 理想状态：借助 emacs 的检索功能，将 awesomes 作为知识库，在决策之前，\n先问问 awesomes ，可以想 ChatGPT 一样懂
- 我。\n\n要做的事情：\n• ☐ 基于 projectile 工具管理不同的库\n• ☐ 基于 org-roam 整合 awesomes 知识库\
- n• ☐ 基于 org-fc 知识循环记忆
-CATEGORIES:project,???
-SEQUENCE:1
-PRIORITY:1
-STATUS:NEEDS-ACTION
-END:VTODO
-BEGIN:VTODO
-UID:TODO-50d30830-05e5-4496-9e9a-34b6223a039c
-DTSTAMP:20230603T162940Z
-DTSTART:20230604T002900
+UID:TODO-9bfb8c65-8b1f-4056-a4c7-c516d8f05f1d
+DTSTAMP:20230723T084427Z
+DTSTART:20230723T164400
 SUMMARY:使用 elfeed 作为阅读器，订阅日常感兴趣的主题 [0/2]
 DESCRIPTION:如何通过 emacs 阅读最新消息，在阅读中，能够随时作笔记，收集灵感。发挥\nemacs 中创作的欲望。\n\nelfeed
   是 RSS 工具，能够同个订阅感兴趣的内容，获取到最新社会焦点，博客\n状态，还支持 podcasts 播客，订阅商家活动等。\n\n更多感兴趣的
@@ -41,8 +22,8 @@ STATUS:NEEDS-ACTION
 END:VTODO
 BEGIN:VTODO
 UID:TODO-4d988c22-0141-4a9b-a912-0134ff6ab73f
-DTSTAMP:20230603T162940Z
-DTSTART:20230604T002900
+DTSTAMP:20230723T084427Z
+DTSTART:20230723T164400
 SUMMARY:按照个人角色训练AI模板优化工作流 [0/2]
 DESCRIPTION:主要关注的工作流有，几个专注模式：阅读，个人，工作，开发，餐饮，运动，\n游戏。\n\n个人主要包含七个习惯的养成，日常的时间
  管理，任务进度管理，复盘等。要熟\n练应用 agenda ，capture ，做好 modd 自动化配置，搭建自己的知识体系。在\nAI 方面，和 
