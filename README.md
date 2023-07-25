@@ -78,15 +78,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 July 2023 - To: 24 July 2023
+From: 18 July 2023 - To: 25 July 2023
 
-Total Time: 20 hrs 51 mins
+Total Time: 24 hrs 52 mins
 
-Other        9 hrs 32 mins   ███████████▒░░░░░░░░░░░░░   45.74 %
-Org          7 hrs 26 mins   █████████░░░░░░░░░░░░░░░░   35.69 %
-Python       1 hr 32 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 %
-Emacs Lisp   1 hr 3 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
-Swift        32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
+Other        12 hrs 3 mins   ████████████░░░░░░░░░░░░░   48.50 %
+Org          8 hrs 43 mins   ████████▓░░░░░░░░░░░░░░░░   35.08 %
+Python       1 hr 32 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 %
+Emacs Lisp   1 hr 1 min      █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
+Swift        35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
 ```
 
 <!--END_SECTION:waka-->
