@@ -1,0 +1,8 @@
+周计划
+
+ blink+ 开发
+  难点调研                                        :@项目总结:project:
+
+ 整理工具库演练使用场景搭建知识体系
+  TODO [#A] 使用 elfeed 作为阅读器，订阅日常感兴趣的主题 [0/2] :@Inbox:project:project:
+  TODO [#A] 按照个人角色训练AI模板优化工作流 [0/2] :@Inbox:project:project:

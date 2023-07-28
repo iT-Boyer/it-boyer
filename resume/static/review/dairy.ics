@@ -5,29 +5,4 @@ PRODID:-//iTBoyer//Emacs with Org mode//EN
 X-WR-TIMEZONE:CST
 X-WR-CALDESC:
 CALSCALE:GREGORIAN
-BEGIN:VEVENT
-DTSTAMP:20230723T084427Z
-UID:SC-311d2277-7a75-49ec-a98d-97637de649a2
-DTSTART:20230723T140000
-DTEND:20230723T160000
-SUMMARY:S: 我的经历是什么？
-DESCRIPTION:从上一次，使用 emacs 已经过了一个月了。当时是什么导致了一下子没有了坚\n持的动力。\n\n先看看，在这几步中用了哪些技
- 术。agenda 时间管理工具同步到 README 的机\n功能。hugo 发布等wakatime 时间统计工具modd 工具方格笔记的方式记录思维
- \n转换七个习惯没有第一时间应用到现实生活中来。现在结合七个习惯，整理\nemacs agenda github shortcut 等方式。
-CATEGORIES:???
-URL:org-protocol://gdt?id=
-END:VEVENT
-BEGIN:VTODO
-UID:TODO-311d2277-7a75-49ec-a98d-97637de649a2
-DTSTAMP:20230723T084427Z
-DTSTART:20230723T140000
-SUMMARY:我的经历是什么？
-DESCRIPTION:从上一次，使用 emacs 已经过了一个月了。当时是什么导致了一下子没有了坚\n持的动力。\n\n先看看，在这几步中用了哪些技
- 术。agenda 时间管理工具同步到 README 的机\n功能。hugo 发布等wakatime 时间统计工具modd 工具方格笔记的方式记录思维
- \n转换七个习惯没有第一时间应用到现实生活中来。现在结合七个习惯，整理\nemacs agenda github shortcut 等方式。
-CATEGORIES:???
-SEQUENCE:1
-PRIORITY:2
-STATUS:NEEDS-ACTION
-END:VTODO
 END:VCALENDAR

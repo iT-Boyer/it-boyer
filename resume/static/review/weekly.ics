@@ -6,9 +6,9 @@ X-WR-TIMEZONE:CST
 X-WR-CALDESC:
 CALSCALE:GREGORIAN
 BEGIN:VTODO
-UID:TODO-9bfb8c65-8b1f-4056-a4c7-c516d8f05f1d
-DTSTAMP:20230723T084427Z
-DTSTART:20230723T164400
+UID:TODO-95f2f2c1-7d64-416e-a903-f49029e51408
+DTSTAMP:20230728T225154Z
+DTSTART:20230729T065100
 SUMMARY:使用 elfeed 作为阅读器，订阅日常感兴趣的主题 [0/2]
 DESCRIPTION:如何通过 emacs 阅读最新消息，在阅读中，能够随时作笔记，收集灵感。发挥\nemacs 中创作的欲望。\n\nelfeed
   是 RSS 工具，能够同个订阅感兴趣的内容，获取到最新社会焦点，博客\n状态，还支持 podcasts 播客，订阅商家活动等。\n\n更多感兴趣的
@@ -22,8 +22,8 @@ STATUS:NEEDS-ACTION
 END:VTODO
 BEGIN:VTODO
 UID:TODO-4d988c22-0141-4a9b-a912-0134ff6ab73f
-DTSTAMP:20230723T084427Z
-DTSTART:20230723T164400
+DTSTAMP:20230728T225154Z
+DTSTART:20230729T065100
 SUMMARY:按照个人角色训练AI模板优化工作流 [0/2]
 DESCRIPTION:主要关注的工作流有，几个专注模式：阅读，个人，工作，开发，餐饮，运动，\n游戏。\n\n个人主要包含七个习惯的养成，日常的时间
  管理，任务进度管理，复盘等。要熟\n练应用 agenda ，capture ，做好 modd 自动化配置，搭建自己的知识体系。在\nAI 方面，和 

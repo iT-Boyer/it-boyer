@@ -6,48 +6,8 @@ X-WR-TIMEZONE:CST
 X-WR-CALDESC:
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230723T084433Z
-UID:SC-943b5e87-41f5-47a3-a956-c9b61b189071
-DTSTART:20230723T130000
-DTEND:20230723T150000
-SUMMARY:S: 在 elfeed 阅读时，挖掘 AI 使用场景
-DESCRIPTION:如何在阅读博客的时候，进行创作。在创作上，AI 就能发挥很大的用
-CATEGORIES:???
-URL:org-protocol://gdt?id=
-END:VEVENT
-BEGIN:VTODO
-UID:TODO-943b5e87-41f5-47a3-a956-c9b61b189071
-DTSTAMP:20230723T084433Z
-DTSTART:20230723T130000
-SUMMARY:在 elfeed 阅读时，挖掘 AI 使用场景
-DESCRIPTION:如何在阅读博客的时候，进行创作。在创作上，AI 就能发挥很大的用
-CATEGORIES:???
-SEQUENCE:1
-PRIORITY:2
-STATUS:NEEDS-ACTION
-END:VTODO
-BEGIN:VEVENT
-DTSTAMP:20230723T084433Z
-UID:SC-4226b077-21b4-409a-98a4-079fad48a3db
-DTSTART:20230723T140000
-DTEND:20230723T160000
-SUMMARY:S: 开发 Auto-GPT 不同角色的助手，制作 prompt 模板
-CATEGORIES:???
-URL:org-protocol://gdt?id=
-END:VEVENT
-BEGIN:VTODO
-UID:TODO-4226b077-21b4-409a-98a4-079fad48a3db
-DTSTAMP:20230723T084433Z
-DTSTART:20230723T140000
-SUMMARY:开发 Auto-GPT 不同角色的助手，制作 prompt 模板
-CATEGORIES:???
-SEQUENCE:1
-PRIORITY:2
-STATUS:NEEDS-ACTION
-END:VTODO
-BEGIN:VEVENT
-DTSTAMP:20230723T084433Z
-UID:SC-916a5a42-3697-4558-bca7-142aac85a2e3
+DTSTAMP:20230728T225201Z
+UID:SC-8a0832a5-69ee-4ead-9f4c-2fdd4ce16ce8
 DTSTART:20230716T190000
 DTEND:20230716T210000
 SUMMARY:S: 温习阅读技巧
@@ -57,8 +17,8 @@ CATEGORIES:???
 URL:org-protocol://gdt?id=
 END:VEVENT
 BEGIN:VTODO
-UID:TODO-916a5a42-3697-4558-bca7-142aac85a2e3
-DTSTAMP:20230723T084433Z
+UID:TODO-8a0832a5-69ee-4ead-9f4c-2fdd4ce16ce8
+DTSTAMP:20230728T225201Z
 DTSTART:20230716T190000
 SUMMARY:温习阅读技巧
 DESCRIPTION:在阅读了作者在太平间的描写，写出了死者和村民之间的关系，一个人的承诺，\n让死者有一个安息。在幼小的心灵里，确实描写的足够真实
@@ -69,8 +29,8 @@ PRIORITY:2
 STATUS:NEEDS-ACTION
 END:VTODO
 BEGIN:VEVENT
-DTSTAMP:20230723T084433Z
-UID:SC-d76689c3-ada0-4440-b9c5-c5092ae4f497
+DTSTAMP:20230728T225202Z
+UID:SC-4afdb886-1932-4878-9091-9de45498224a
 DTSTART:20230716T200000
 DTEND:20230716T220000
 SUMMARY:S: 开始新的生活方式
@@ -81,8 +41,8 @@ CATEGORIES:???
 URL:org-protocol://gdt?id=
 END:VEVENT
 BEGIN:VTODO
-UID:TODO-d76689c3-ada0-4440-b9c5-c5092ae4f497
-DTSTAMP:20230723T084433Z
+UID:TODO-4afdb886-1932-4878-9091-9de45498224a
+DTSTAMP:20230728T225202Z
 DTSTART:20230716T200000
 SUMMARY:开始新的生活方式
 DESCRIPTION:接下来要做的事情\n1. 温习 helm 工具，使用 agenda 管理任务\n2. 维护 readme ，展示个人信息和任务
@@ -94,8 +54,8 @@ PRIORITY:2
 STATUS:NEEDS-ACTION
 END:VTODO
 BEGIN:VEVENT
-DTSTAMP:20230723T084433Z
-UID:SC-ceb1b879-9aa0-4808-bf16-4da29ff20ce3
+DTSTAMP:20230728T225202Z
+UID:SC-9a8fbee4-1ff8-460f-ad1e-e1d83d75b8a9
 DTSTART:20230615T110000
 DTEND:20230615T130000
 SUMMARY:S: 在 RSSHub 中筛选订阅关注的频道
@@ -103,8 +63,8 @@ CATEGORIES:???
 URL:org-protocol://gdt?id=
 END:VEVENT
 BEGIN:VTODO
-UID:TODO-ceb1b879-9aa0-4808-bf16-4da29ff20ce3
-DTSTAMP:20230723T084433Z
+UID:TODO-9a8fbee4-1ff8-460f-ad1e-e1d83d75b8a9
+DTSTAMP:20230728T225202Z
 DTSTART:20230615T110000
 SUMMARY:在 RSSHub 中筛选订阅关注的频道
 CATEGORIES:???
@@ -113,8 +73,8 @@ PRIORITY:2
 STATUS:NEEDS-ACTION
 END:VTODO
 BEGIN:VEVENT
-DTSTAMP:20230723T084433Z
-UID:SC-ee191bfd-266b-440d-b765-31eadcd47f9e
+DTSTAMP:20230728T225202Z
+UID:SC-f77cee43-f52c-4387-a6fc-a22e8aed18c4
 DTSTART:20230615T120000
 DTEND:20230615T140000
 SUMMARY:S: 演练 elfeed 使用场景，对频道添加标签和分类管理
@@ -122,8 +82,8 @@ CATEGORIES:???
 URL:org-protocol://gdt?id=
 END:VEVENT
 BEGIN:VTODO
-UID:TODO-ee191bfd-266b-440d-b765-31eadcd47f9e
-DTSTAMP:20230723T084433Z
+UID:TODO-f77cee43-f52c-4387-a6fc-a22e8aed18c4
+DTSTAMP:20230728T225202Z
 DTSTART:20230615T120000
 SUMMARY:演练 elfeed 使用场景，对频道添加标签和分类管理
 CATEGORIES:???
@@ -131,10 +91,141 @@ SEQUENCE:1
 PRIORITY:2
 STATUS:NEEDS-ACTION
 END:VTODO
+BEGIN:VEVENT
+DTSTAMP:20230728T225202Z
+UID:SC-fc436e75-6965-4673-9d95-3b5484c47d6b
+DTSTART:20230723T130000
+DTEND:20230723T150000
+SUMMARY:S: 在 elfeed 阅读时，挖掘 AI 使用场景
+DESCRIPTION:如何在阅读博客的时候，进行创作。在创作上，AI 就能发挥很大的用
+CATEGORIES:???
+URL:org-protocol://gdt?id=
+END:VEVENT
 BEGIN:VTODO
-UID:TODO-0963213c-0343-4e52-863b-c1743971ce8a
-DTSTAMP:20230723T084434Z
-DTSTART:20230723T164400
+UID:TODO-fc436e75-6965-4673-9d95-3b5484c47d6b
+DTSTAMP:20230728T225202Z
+DTSTART:20230723T130000
+SUMMARY:在 elfeed 阅读时，挖掘 AI 使用场景
+DESCRIPTION:如何在阅读博客的时候，进行创作。在创作上，AI 就能发挥很大的用
+CATEGORIES:???
+SEQUENCE:1
+PRIORITY:2
+STATUS:NEEDS-ACTION
+END:VTODO
+BEGIN:VEVENT
+DTSTAMP:20230728T225203Z
+UID:SC-afa862b6-6908-4893-b615-f91f4ba9d9ab
+DTSTART:20230723T140000
+DTEND:20230723T160000
+SUMMARY:S: 开发 Auto-GPT 不同角色的助手，制作 prompt 模板
+CATEGORIES:???
+URL:org-protocol://gdt?id=
+END:VEVENT
+BEGIN:VTODO
+UID:TODO-afa862b6-6908-4893-b615-f91f4ba9d9ab
+DTSTAMP:20230728T225203Z
+DTSTART:20230723T140000
+SUMMARY:开发 Auto-GPT 不同角色的助手，制作 prompt 模板
+CATEGORIES:???
+SEQUENCE:1
+PRIORITY:2
+STATUS:NEEDS-ACTION
+END:VTODO
+BEGIN:VEVENT
+DTSTAMP:20230728T225203Z
+UID:SC-ca0005ce-952e-405f-bd1d-f45342ad05ae
+DTSTART:20230723T140000
+DTEND:20230723T160000
+SUMMARY:S: 我的经历是什么？
+DESCRIPTION:从上一次，使用 emacs 已经过了一个月了。当时是什么导致了一下子没有了坚\n持的动力。\n\n先看看，在这几步中用了哪些技
+ 术。agenda 时间管理工具同步到 README 的机\n功能。hugo 发布等wakatime 时间统计工具modd 工具方格笔记的方式记录思维
+ \n转换七个习惯没有第一时间应用到现实生活中来。现在结合七个习惯，整理\nemacs agenda github shortcut 等方式。
+CATEGORIES:???
+URL:org-protocol://gdt?id=
+END:VEVENT
+BEGIN:VTODO
+UID:TODO-ca0005ce-952e-405f-bd1d-f45342ad05ae
+DTSTAMP:20230728T225203Z
+DTSTART:20230723T140000
+SUMMARY:我的经历是什么？
+DESCRIPTION:从上一次，使用 emacs 已经过了一个月了。当时是什么导致了一下子没有了坚\n持的动力。\n\n先看看，在这几步中用了哪些技
+ 术。agenda 时间管理工具同步到 README 的机\n功能。hugo 发布等wakatime 时间统计工具modd 工具方格笔记的方式记录思维
+ \n转换七个习惯没有第一时间应用到现实生活中来。现在结合七个习惯，整理\nemacs agenda github shortcut 等方式。
+CATEGORIES:???
+SEQUENCE:1
+PRIORITY:2
+STATUS:NEEDS-ACTION
+END:VTODO
+BEGIN:VEVENT
+DTSTAMP:20230728T225202Z
+UID:SC-c2d0e128-a573-48bc-84bd-ed2946145452
+DTSTART:20230723T190000
+DTEND:20230723T210000
+SUMMARY:S: 早操演练
+DESCRIPTION:洗澡是一个很好的心态调节的作用。要把洗澡的时间表列出来，要把这个\n好习惯轨道身心健康的重要事件中。\n\n现在身心健康主要有
+ 两个方面，一个是早起健身，个人卫生健康，要注重\n仪表。VR 健身，AI 对话聊天。个人卫生，洗脸刷牙，运动之后，每天冲\n澡。\n\n早上跑步有哪
+ 些选择：路线，是先卫生，还是先运动。6 点到7 点，输入\n小范围运动，还需要在运动之后，有清醒的头脑之后，还需要坐在电脑前，\n开始二项限思维的修
+ 炼，到8 半，然后，就可以出门到图书馆学习。\n\n这是在达到心灵演练，形成一个思维转换，改变行为。这个最重要的步骤。\n要充分使用空雨伞的方法，整
+ 理要做的事情，充分演练，就不信我罗嗦的\n内容没有一处可以记录到原则中的。\n\n早餐的问题，现在有微波炉，有电饭煲，和快餐盒。怎么使用这工具，改\
+ n变现在的行为。\n\n晚上煮水饺，在冰箱中保存，一次两顿的量。第二天早餐使用电饭煲做。\n\n煮粥和鸡蛋，一碗粥，两个鸡蛋。\n\n跑步不仅仅是为
+ 了锻炼身体，更重要的是有一个清醒的头脑，为把事情搞\n明白。避免抑郁的出现。\n\n餐饮先有这些：晚饭煮水饺，早餐使用电饭煲煮粥和鸡蛋。
+CATEGORIES:???
+URL:org-protocol://gdt?id=
+END:VEVENT
+BEGIN:VTODO
+UID:TODO-c2d0e128-a573-48bc-84bd-ed2946145452
+DTSTAMP:20230728T225203Z
+DTSTART:20230723T190000
+SUMMARY:早操演练
+DESCRIPTION:洗澡是一个很好的心态调节的作用。要把洗澡的时间表列出来，要把这个\n好习惯轨道身心健康的重要事件中。\n\n现在身心健康主要有
+ 两个方面，一个是早起健身，个人卫生健康，要注重\n仪表。VR 健身，AI 对话聊天。个人卫生，洗脸刷牙，运动之后，每天冲\n澡。\n\n早上跑步有哪
+ 些选择：路线，是先卫生，还是先运动。6 点到7 点，输入\n小范围运动，还需要在运动之后，有清醒的头脑之后，还需要坐在电脑前，\n开始二项限思维的修
+ 炼，到8 半，然后，就可以出门到图书馆学习。\n\n这是在达到心灵演练，形成一个思维转换，改变行为。这个最重要的步骤。\n要充分使用空雨伞的方法，整
+ 理要做的事情，充分演练，就不信我罗嗦的\n内容没有一处可以记录到原则中的。\n\n早餐的问题，现在有微波炉，有电饭煲，和快餐盒。怎么使用这工具，改\
+ n变现在的行为。\n\n晚上煮水饺，在冰箱中保存，一次两顿的量。第二天早餐使用电饭煲做。\n\n煮粥和鸡蛋，一碗粥，两个鸡蛋。\n\n跑步不仅仅是为
+ 了锻炼身体，更重要的是有一个清醒的头脑，为把事情搞\n明白。避免抑郁的出现。\n\n餐饮先有这些：晚饭煮水饺，早餐使用电饭煲煮粥和鸡蛋。
+CATEGORIES:???
+SEQUENCE:1
+PRIORITY:2
+STATUS:NEEDS-ACTION
+END:VTODO
+BEGIN:VEVENT
+DTSTAMP:20230728T225202Z
+UID:SC-3a59af7d-1f0e-4c9b-9374-ca9618ddefa1
+DTSTART:20230723T200000
+DTEND:20230723T220000
+SUMMARY:S: 购买五谷杂粮和绿豆
+DESCRIPTION:一斤五谷杂粮，豆沙包五个。面包片
+CATEGORIES:shop,???
+URL:org-protocol://gdt?id=
+END:VEVENT
+BEGIN:VTODO
+UID:TODO-3a59af7d-1f0e-4c9b-9374-ca9618ddefa1
+DTSTAMP:20230728T225202Z
+DTSTART:20230723T200000
+SUMMARY:购买五谷杂粮和绿豆
+DESCRIPTION:一斤五谷杂粮，豆沙包五个。面包片
+CATEGORIES:shop,???
+SEQUENCE:1
+PRIORITY:2
+STATUS:NEEDS-ACTION
+END:VTODO
+BEGIN:VTODO
+UID:TODO-50b28668-bafe-4f4a-8885-8122b8bbded0
+DTSTAMP:20230728T225203Z
+DTSTART:20230729T065200
+SUMMARY:整理 blink 文档和 shortcut 开发文档
+DESCRIPTION:blink 文档通过翻译，了解 blink 的代码框架和知识体系。目的，将 whisper\n功能集成到 blink\, 并新
+ 增类似于 facecam 命令一样，浮动在界面上，展示录\n入状态。在转入文本之后，将内容返回给 shortcut 。执行 emacs 相关操作。
+CATEGORIES:???
+SEQUENCE:1
+PRIORITY:2
+STATUS:NEEDS-ACTION
+END:VTODO
+BEGIN:VTODO
+UID:TODO-e44ea49b-06bc-4af6-9ef5-3837e636ba4f
+DTSTAMP:20230728T225203Z
+DTSTART:20230729T065200
 SUMMARY:使用 org-roam 管理 awesomes 知识库 [2/2]
 DESCRIPTION:现有的 awesomes 清单：\n┌────\n│ ├── IPTV\n│ ├── Tvlist-awesome-m3u-m
  3u8\n│ ├── awesome-cli-apps\n│ ├── awesome-github-profile-readme\n│ ├── aw
@@ -148,31 +239,6 @@ DESCRIPTION:现有的 awesomes 清单：\n┌────\n│ ├── IPTV\n�
 CATEGORIES:project,???
 SEQUENCE:1
 PRIORITY:1
-STATUS:NEEDS-ACTION
-END:VTODO
-BEGIN:VEVENT
-DTSTAMP:20230723T084434Z
-UID:SC-6411cb84-ab99-48bb-841b-491553a4dc64
-DTSTART:20230723T140000
-DTEND:20230723T160000
-SUMMARY:S: 我的经历是什么？
-DESCRIPTION:从上一次，使用 emacs 已经过了一个月了。当时是什么导致了一下子没有了坚\n持的动力。\n\n先看看，在这几步中用了哪些技
- 术。agenda 时间管理工具同步到 README 的机\n功能。hugo 发布等wakatime 时间统计工具modd 工具方格笔记的方式记录思维
- \n转换七个习惯没有第一时间应用到现实生活中来。现在结合七个习惯，整理\nemacs agenda github shortcut 等方式。
-CATEGORIES:???
-URL:org-protocol://gdt?id=
-END:VEVENT
-BEGIN:VTODO
-UID:TODO-6411cb84-ab99-48bb-841b-491553a4dc64
-DTSTAMP:20230723T084434Z
-DTSTART:20230723T140000
-SUMMARY:我的经历是什么？
-DESCRIPTION:从上一次，使用 emacs 已经过了一个月了。当时是什么导致了一下子没有了坚\n持的动力。\n\n先看看，在这几步中用了哪些技
- 术。agenda 时间管理工具同步到 README 的机\n功能。hugo 发布等wakatime 时间统计工具modd 工具方格笔记的方式记录思维
- \n转换七个习惯没有第一时间应用到现实生活中来。现在结合七个习惯，整理\nemacs agenda github shortcut 等方式。
-CATEGORIES:???
-SEQUENCE:1
-PRIORITY:2
 STATUS:NEEDS-ACTION
 END:VTODO
 END:VCALENDAR
