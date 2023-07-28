@@ -78,15 +78,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 July 2023 - To: 27 July 2023
+From: 21 July 2023 - To: 28 July 2023
 
-Total Time: 39 hrs 33 mins
+Total Time: 40 hrs 9 mins
 
-Other         19 hrs 40 mins  ████████████▒░░░░░░░░░░░░   49.76 %
-Org           11 hrs 53 mins  ███████▓░░░░░░░░░░░░░░░░░   30.06 %
-Emacs Lisp    3 hrs 58 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.05 %
-Python        1 hr 32 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
-Markdown      35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+Other         19 hrs 52 mins  ████████████▒░░░░░░░░░░░░   49.49 %
+Org           12 hrs 17 mins  ███████▓░░░░░░░░░░░░░░░░░   30.62 %
+Emacs Lisp    3 hrs 58 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.90 %
+Python        1 hr 31 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
+Markdown      44 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
 ```
 
 <!--END_SECTION:waka-->
