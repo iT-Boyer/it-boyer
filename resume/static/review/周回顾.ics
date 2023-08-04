@@ -6,8 +6,8 @@ X-WR-TIMEZONE:CST
 X-WR-CALDESC:
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230728T225155Z
-UID:SC-4f33517e-0ef5-4c56-a65f-d8163a062203
+DTSTAMP:20230804T012654Z
+UID:SC-f1a6943b-3630-4a9c-9d58-8e7bfb483d29
 DTSTART:20230716T190000
 DTEND:20230716T210000
 SUMMARY:S: 温习阅读技巧
@@ -17,8 +17,8 @@ CATEGORIES:???
 URL:org-protocol://gdt?id=
 END:VEVENT
 BEGIN:VTODO
-UID:TODO-4f33517e-0ef5-4c56-a65f-d8163a062203
-DTSTAMP:20230728T225155Z
+UID:TODO-f1a6943b-3630-4a9c-9d58-8e7bfb483d29
+DTSTAMP:20230804T012654Z
 DTSTART:20230716T190000
 SUMMARY:温习阅读技巧
 DESCRIPTION:在阅读了作者在太平间的描写，写出了死者和村民之间的关系，一个人的承诺，\n让死者有一个安息。在幼小的心灵里，确实描写的足够真实
@@ -29,8 +29,8 @@ PRIORITY:2
 STATUS:NEEDS-ACTION
 END:VTODO
 BEGIN:VEVENT
-DTSTAMP:20230728T225155Z
-UID:SC-68ae88a2-b59a-40e9-a09a-3b19e67b3959
+DTSTAMP:20230804T012654Z
+UID:SC-8cfa6f3c-136b-4988-a01a-ef25541ae586
 DTSTART:20230716T200000
 DTEND:20230716T220000
 SUMMARY:S: 开始新的生活方式
@@ -41,8 +41,8 @@ CATEGORIES:???
 URL:org-protocol://gdt?id=
 END:VEVENT
 BEGIN:VTODO
-UID:TODO-68ae88a2-b59a-40e9-a09a-3b19e67b3959
-DTSTAMP:20230728T225155Z
+UID:TODO-8cfa6f3c-136b-4988-a01a-ef25541ae586
+DTSTAMP:20230804T012654Z
 DTSTART:20230716T200000
 SUMMARY:开始新的生活方式
 DESCRIPTION:接下来要做的事情\n1. 温习 helm 工具，使用 agenda 管理任务\n2. 维护 readme ，展示个人信息和任务
@@ -53,21 +53,9 @@ SEQUENCE:1
 PRIORITY:2
 STATUS:NEEDS-ACTION
 END:VTODO
-BEGIN:VTODO
-UID:TODO-b3faec7a-4bf5-49d3-8645-35af6d4d45fb
-DTSTAMP:20230728T225155Z
-DTSTART:20230729T065100
-SUMMARY:整理 blink 文档和 shortcut 开发文档
-DESCRIPTION:blink 文档通过翻译，了解 blink 的代码框架和知识体系。目的，将 whisper\n功能集成到 blink\, 并新
- 增类似于 facecam 命令一样，浮动在界面上，展示录\n入状态。在转入文本之后，将内容返回给 shortcut 。执行 emacs 相关操作。
-CATEGORIES:???
-SEQUENCE:1
-PRIORITY:2
-STATUS:NEEDS-ACTION
-END:VTODO
 BEGIN:VEVENT
-DTSTAMP:20230728T225156Z
-UID:SC-b31e3630-b994-480a-a97a-a1964269c6a5
+DTSTAMP:20230804T012654Z
+UID:SC-53077980-f486-49c8-9e4f-8f996f39a6ab
 DTSTART:20230615T110000
 DTEND:20230615T130000
 SUMMARY:S: 在 RSSHub 中筛选订阅关注的频道
@@ -75,8 +63,8 @@ CATEGORIES:???
 URL:org-protocol://gdt?id=
 END:VEVENT
 BEGIN:VTODO
-UID:TODO-b31e3630-b994-480a-a97a-a1964269c6a5
-DTSTAMP:20230728T225156Z
+UID:TODO-53077980-f486-49c8-9e4f-8f996f39a6ab
+DTSTAMP:20230804T012654Z
 DTSTART:20230615T110000
 SUMMARY:在 RSSHub 中筛选订阅关注的频道
 CATEGORIES:???
@@ -85,8 +73,8 @@ PRIORITY:2
 STATUS:NEEDS-ACTION
 END:VTODO
 BEGIN:VEVENT
-DTSTAMP:20230728T225156Z
-UID:SC-0c3b61f6-93a6-4a66-8fd8-e5c677813d31
+DTSTAMP:20230804T012654Z
+UID:SC-88f7766c-5644-4b4f-9916-573f72d3bdd4
 DTSTART:20230615T120000
 DTEND:20230615T140000
 SUMMARY:S: 演练 elfeed 使用场景，对频道添加标签和分类管理
@@ -94,8 +82,8 @@ CATEGORIES:???
 URL:org-protocol://gdt?id=
 END:VEVENT
 BEGIN:VTODO
-UID:TODO-0c3b61f6-93a6-4a66-8fd8-e5c677813d31
-DTSTAMP:20230728T225156Z
+UID:TODO-88f7766c-5644-4b4f-9916-573f72d3bdd4
+DTSTAMP:20230804T012654Z
 DTSTART:20230615T120000
 SUMMARY:演练 elfeed 使用场景，对频道添加标签和分类管理
 CATEGORIES:???
@@ -104,8 +92,8 @@ PRIORITY:2
 STATUS:NEEDS-ACTION
 END:VTODO
 BEGIN:VEVENT
-DTSTAMP:20230728T225156Z
-UID:SC-5e7aa9dc-b20c-4573-a683-22eefd311e5f
+DTSTAMP:20230804T012654Z
+UID:SC-700c3e59-f1e1-4c0d-9be5-ae61a695b1a7
 DTSTART:20230723T130000
 DTEND:20230723T150000
 SUMMARY:S: 在 elfeed 阅读时，挖掘 AI 使用场景
@@ -114,8 +102,8 @@ CATEGORIES:???
 URL:org-protocol://gdt?id=
 END:VEVENT
 BEGIN:VTODO
-UID:TODO-5e7aa9dc-b20c-4573-a683-22eefd311e5f
-DTSTAMP:20230728T225156Z
+UID:TODO-700c3e59-f1e1-4c0d-9be5-ae61a695b1a7
+DTSTAMP:20230804T012654Z
 DTSTART:20230723T130000
 SUMMARY:在 elfeed 阅读时，挖掘 AI 使用场景
 DESCRIPTION:如何在阅读博客的时候，进行创作。在创作上，AI 就能发挥很大的用
@@ -125,8 +113,8 @@ PRIORITY:2
 STATUS:NEEDS-ACTION
 END:VTODO
 BEGIN:VEVENT
-DTSTAMP:20230728T225156Z
-UID:SC-fb1f2902-f743-4da2-b748-79d1175b3986
+DTSTAMP:20230804T012654Z
+UID:SC-3f9a765f-a44c-4a0d-8eb9-a77a5e8e450c
 DTSTART:20230723T140000
 DTEND:20230723T160000
 SUMMARY:S: 开发 Auto-GPT 不同角色的助手，制作 prompt 模板
@@ -134,8 +122,8 @@ CATEGORIES:???
 URL:org-protocol://gdt?id=
 END:VEVENT
 BEGIN:VTODO
-UID:TODO-fb1f2902-f743-4da2-b748-79d1175b3986
-DTSTAMP:20230728T225156Z
+UID:TODO-3f9a765f-a44c-4a0d-8eb9-a77a5e8e450c
+DTSTAMP:20230804T012654Z
 DTSTART:20230723T140000
 SUMMARY:开发 Auto-GPT 不同角色的助手，制作 prompt 模板
 CATEGORIES:???
@@ -143,64 +131,10 @@ SEQUENCE:1
 PRIORITY:2
 STATUS:NEEDS-ACTION
 END:VTODO
-BEGIN:VEVENT
-DTSTAMP:20230728T225156Z
-UID:SC-3118856b-4f74-4495-ad85-76cff97ed00e
-DTSTART:20230723T190000
-DTEND:20230723T210000
-SUMMARY:S: 早操演练
-DESCRIPTION:洗澡是一个很好的心态调节的作用。要把洗澡的时间表列出来，要把这\n个好习惯轨道身心健康的重要事件中。\n\n现在身心健康主要有
- 两个方面，一个是早起健身，个人卫生健康，要注\n重仪表。VR 健身，AI 对话聊天。个人卫生，洗脸刷牙，运动之后，每\n天冲澡。\n\n早上跑步有哪
- 些选择：路线，是先卫生，还是先运动。6 点到7 点，输\n入小范围运动，还需要在运动之后，有清醒的头脑之后，还需要坐在电\n脑前，开始二项限思维的修
- 炼，到8 半，然后，就可以出门到图书馆学\n习。\n\n这是在达到心灵演练，形成一个思维转换，改变行为。这个最重要的步\n骤。要充分使用空雨伞的方法
- ，整理要做的事情，充分演练，就不信我\n罗嗦的内容没有一处可以记录到原则中的。\n\n早餐的问题，现在有微波炉，有电饭煲，和快餐盒。怎么使用这工具，
- \n改变现在的行为。\n\n晚上煮水饺，在冰箱中保存，一次两顿的量。第二天早餐使用电饭煲做。\n\n煮粥和鸡蛋，一碗粥，两个鸡蛋。\n\n跑步不仅仅
- 是为了锻炼身体，更重要的是有一个清醒的头脑，为把事情\n搞明白。避免抑郁的出现。\n\n餐饮先有这些：晚饭煮水饺，早餐使用电饭煲煮粥和鸡蛋。
-CATEGORIES:???
-URL:org-protocol://gdt?id=
-END:VEVENT
 BEGIN:VTODO
-UID:TODO-3118856b-4f74-4495-ad85-76cff97ed00e
-DTSTAMP:20230728T225156Z
-DTSTART:20230723T190000
-SUMMARY:早操演练
-DESCRIPTION:洗澡是一个很好的心态调节的作用。要把洗澡的时间表列出来，要把这\n个好习惯轨道身心健康的重要事件中。\n\n现在身心健康主要有
- 两个方面，一个是早起健身，个人卫生健康，要注\n重仪表。VR 健身，AI 对话聊天。个人卫生，洗脸刷牙，运动之后，每\n天冲澡。\n\n早上跑步有哪
- 些选择：路线，是先卫生，还是先运动。6 点到7 点，输\n入小范围运动，还需要在运动之后，有清醒的头脑之后，还需要坐在电\n脑前，开始二项限思维的修
- 炼，到8 半，然后，就可以出门到图书馆学\n习。\n\n这是在达到心灵演练，形成一个思维转换，改变行为。这个最重要的步\n骤。要充分使用空雨伞的方法
- ，整理要做的事情，充分演练，就不信我\n罗嗦的内容没有一处可以记录到原则中的。\n\n早餐的问题，现在有微波炉，有电饭煲，和快餐盒。怎么使用这工具，
- \n改变现在的行为。\n\n晚上煮水饺，在冰箱中保存，一次两顿的量。第二天早餐使用电饭煲做。\n\n煮粥和鸡蛋，一碗粥，两个鸡蛋。\n\n跑步不仅仅
- 是为了锻炼身体，更重要的是有一个清醒的头脑，为把事情\n搞明白。避免抑郁的出现。\n\n餐饮先有这些：晚饭煮水饺，早餐使用电饭煲煮粥和鸡蛋。
-CATEGORIES:???
-SEQUENCE:1
-PRIORITY:2
-STATUS:NEEDS-ACTION
-END:VTODO
-BEGIN:VEVENT
-DTSTAMP:20230728T225156Z
-UID:SC-66da045c-a4be-4158-9e23-50724be7cc8e
-DTSTART:20230723T200000
-DTEND:20230723T220000
-SUMMARY:S: 购买五谷杂粮和绿豆
-DESCRIPTION:一斤五谷杂粮，豆沙包五个。面包片
-CATEGORIES:shop,???
-URL:org-protocol://gdt?id=
-END:VEVENT
-BEGIN:VTODO
-UID:TODO-66da045c-a4be-4158-9e23-50724be7cc8e
-DTSTAMP:20230728T225156Z
-DTSTART:20230723T200000
-SUMMARY:购买五谷杂粮和绿豆
-DESCRIPTION:一斤五谷杂粮，豆沙包五个。面包片
-CATEGORIES:shop,???
-SEQUENCE:1
-PRIORITY:2
-STATUS:NEEDS-ACTION
-END:VTODO
-BEGIN:VTODO
-UID:TODO-8010b175-f2ab-40d1-bf77-6fdd0d7ec532
-DTSTAMP:20230728T225157Z
-DTSTART:20230729T065100
+UID:TODO-0b7322af-b4b6-4aee-bda3-e0d13a3a7639
+DTSTAMP:20230804T012654Z
+DTSTART:20230804T092600
 SUMMARY:使用 org-roam 管理 awesomes 知识库 [2/2]
 DESCRIPTION:现有的 awesomes 清单：\n┌────\n│ ├── IPTV\n│ ├── Tvlist-awesome-m3u-m
  3u8\n│ ├── awesome-cli-apps\n│ ├── awesome-github-profile-readme\n│ ├── aw
@@ -217,9 +151,9 @@ PRIORITY:1
 STATUS:NEEDS-ACTION
 END:VTODO
 BEGIN:VTODO
-UID:TODO-1cda4f6b-64ba-4364-8fc2-60b68fc50fd0
-DTSTAMP:20230728T225157Z
-DTSTART:20230729T065100
+UID:TODO-99171b0a-4366-49f6-af18-5e2be876886a
+DTSTAMP:20230804T012654Z
+DTSTART:20230804T092600
 SUMMARY:使用 elfeed 作为阅读器，订阅日常感兴趣的主题 [0/2]
 DESCRIPTION:如何通过 emacs 阅读最新消息，在阅读中，能够随时作笔记，收集灵感。发挥\nemacs 中创作的欲望。\n\nelfeed
   是 RSS 工具，能够同个订阅感兴趣的内容，获取到最新社会焦点，博客\n状态，还支持 podcasts 播客，订阅商家活动等。\n\n更多感兴趣的
@@ -233,9 +167,9 @@ STATUS:NEEDS-ACTION
 END:VTODO
 BEGIN:VTODO
 UID:TODO-4d988c22-0141-4a9b-a912-0134ff6ab73f
-DTSTAMP:20230728T225157Z
-DTSTART:20230729T065100
-SUMMARY:按照个人角色训练AI模板优化工作流 [0/2]
+DTSTAMP:20230804T012654Z
+DTSTART:20230804T092600
+SUMMARY:按照个人角色训练 AI 模板优化工作流 [0/2]
 DESCRIPTION:主要关注的工作流有，几个专注模式：阅读，个人，工作，开发，餐饮，运动，\n游戏。\n\n个人主要包含七个习惯的养成，日常的时间
  管理，任务进度管理，复盘等。要熟\n练应用 agenda ，capture ，做好 modd 自动化配置，搭建自己的知识体系。在\nAI 方面，和 
  Auto-GPT 集成，训练成角色分明，使命明确，关注影响圈，在自\n我领导方面，要充分挖掘 AI 潜能，作出高质量可行的行动计划。做到自我管理。\
@@ -259,8 +193,8 @@ PRIORITY:1
 STATUS:NEEDS-ACTION
 END:VTODO
 BEGIN:VEVENT
-DTSTAMP:20230728T225157Z
-UID:SC-c9180419-5b57-4b17-afdb-b1e4c1b43668
+DTSTAMP:20230804T012654Z
+UID:SC-44b82dbe-48c2-4fc8-be55-fc906ea616b8
 DTSTART:20230723T140000
 DTEND:20230723T160000
 SUMMARY:S: 我的经历是什么？
@@ -271,8 +205,8 @@ CATEGORIES:???
 URL:org-protocol://gdt?id=
 END:VEVENT
 BEGIN:VTODO
-UID:TODO-c9180419-5b57-4b17-afdb-b1e4c1b43668
-DTSTAMP:20230728T225157Z
+UID:TODO-44b82dbe-48c2-4fc8-be55-fc906ea616b8
+DTSTAMP:20230804T012654Z
 DTSTART:20230723T140000
 SUMMARY:我的经历是什么？
 DESCRIPTION:从上一次，使用 emacs 已经过了一个月了。当时是什么导致了一下子没有了\n坚持的动力。\n\n先看看，在这几步中用了哪些技
@@ -284,74 +218,74 @@ PRIORITY:2
 STATUS:NEEDS-ACTION
 END:VTODO
 BEGIN:VEVENT
-DTSTAMP:20230728T225157Z
-UID:TS1-2a5caf9c-3444-4784-be63-49a99872b1ed
+DTSTAMP:20230804T012654Z
+UID:TS1-8a8e2a8b-4b0d-46e7-8b16-4509c24b2eb3
 DTSTART:20230529T024100
 DTEND:20230529T044100
 SUMMARY:要完成流程
-DESCRIPTION:<2023-05-29 周一 02:41>\n• ☐ 阅读模块的流程，以elfeed 为入口\n• ☐ 知识积累，总结温习 o
- rg-roam 工具\n• ☐ 总结 fc 工具和 anki 的用法\n\n  在总结过程中要使用 AI 中可以吸收的经验，丰富培训职能的AI\n\
- n  几个模板和提示语，参考 obs 中的插件AI 输出的格式，统一使用 org 格式\n\n  elfeed整理出自己的阅读习惯，作出具体分类，优
- 先级，存储，和书签的引\n    用。作为知识体系的元数据来源。参考[Elfeed Rules! :: Noonker —\n    thought
- s\, guides\, etc]\n    (<https://noonker.github.io/posts/2020-04-22-elfeed
- />)\n\n  org-roam 在之前理解的基础上，系统下具体的工作模式。\n  1. capture 功能\n\n  2. 双向链接功能\n\
- n  3. 温习之前的用法，整理出成熟的模板。\n\n     实现知识循环，积累。配合 fc 插件，提炼操作步骤。\n\n\n七个习惯，时间管理，
- 项目管理，博客写作。使用 org-roam 整理出七个习惯的\n知识体系，并实现方便温习的操作流程。\n\n使用时间管理工具 agenda使用收集箱
- ，分析，处理，免打扰时间。理解二象限\n思维，实战第四代时间管理法，提高效率养成的习惯，积极主动，以终为始，要\n事第一。\n\n发挥30 分钟，把
- 上述的灵感，整理出要做的几件事情，给出具体的时间安排和\n产出内容\n\n\n\n** 收集灵感，处理分析\n:Effort: 0:30
+DESCRIPTION:<2023-05-29 周Mon 02:41>\n• ☐ 阅读模块的流程，以 elfeed 为入口\n• ☐ 知识积累，总结温
+ 习 org-roam 工具\n• ☐ 总结 fc 工具和 anki 的用法\n\n  在总结过程中要使用 AI 中可以吸收的经验，丰富培训职能的 A
+ I\n\n  几个模板和提示语，参考 obs 中的插件AI 输出的格式，统一使用 org 格式\n\n  elfeed 整理出自己的阅读习惯，作出具
+ 体分类，优先级，存储，和书签的\n    引用。作为知识体系的元数据来源。参考[Elfeed Rules! :: Noonker —\n    th
+ oughts\, guides\, etc]\n    (<https://noonker.github.io/posts/2020-04-22-e
+ lfeed/>)\n\n  org-roam 在之前理解的基础上，系统下具体的工作模式。\n  1. capture 功能\n\n  2. 双向链接
+ 功能\n\n  3. 温习之前的用法，整理出成熟的模板。\n\n     实现知识循环，积累。配合 fc 插件，提炼操作步骤。\n\n\n七个习惯，
+ 时间管理，项目管理，博客写作。使用 org-roam 整理出七个习惯的\n知识体系，并实现方便温习的操作流程。\n\n使用时间管理工具 agenda
+ 使用收集箱，分析，处理，免打扰时间。理解二象限\n思维，实战第四代时间管理法，提高效率养成的习惯，积极主动，以终为始，要\n事第一。\n\n发挥 3
+ 0 分钟，把上述的灵感，整理出要做的几件事情，给出具体的时间安排和\n产出内容\n\n\n\n** 收集灵感，处理分析\n:Effort: 0:30
 CATEGORIES:灵感,inbox,???
 URL:org-protocol://gdt?id=
 END:VEVENT
 BEGIN:VTODO
-UID:TODO-2a5caf9c-3444-4784-be63-49a99872b1ed
-DTSTAMP:20230728T225157Z
-DTSTART:20230729T065100
+UID:TODO-8a8e2a8b-4b0d-46e7-8b16-4509c24b2eb3
+DTSTAMP:20230804T012654Z
+DTSTART:20230804T092600
 SUMMARY:要完成流程
-DESCRIPTION:<2023-05-29 周一 02:41>\n• ☐ 阅读模块的流程，以elfeed 为入口\n• ☐ 知识积累，总结温习 o
- rg-roam 工具\n• ☐ 总结 fc 工具和 anki 的用法\n\n  在总结过程中要使用 AI 中可以吸收的经验，丰富培训职能的AI\n\
- n  几个模板和提示语，参考 obs 中的插件AI 输出的格式，统一使用 org 格式\n\n  elfeed整理出自己的阅读习惯，作出具体分类，优
- 先级，存储，和书签的引\n    用。作为知识体系的元数据来源。参考[Elfeed Rules! :: Noonker —\n    thought
- s\, guides\, etc]\n    (<https://noonker.github.io/posts/2020-04-22-elfeed
- />)\n\n  org-roam 在之前理解的基础上，系统下具体的工作模式。\n  1. capture 功能\n\n  2. 双向链接功能\n\
- n  3. 温习之前的用法，整理出成熟的模板。\n\n     实现知识循环，积累。配合 fc 插件，提炼操作步骤。\n\n\n七个习惯，时间管理，
- 项目管理，博客写作。使用 org-roam 整理出七个习惯的\n知识体系，并实现方便温习的操作流程。\n\n使用时间管理工具 agenda使用收集箱
- ，分析，处理，免打扰时间。理解二象限\n思维，实战第四代时间管理法，提高效率养成的习惯，积极主动，以终为始，要\n事第一。\n\n发挥30 分钟，把
- 上述的灵感，整理出要做的几件事情，给出具体的时间安排和\n产出内容\n\n\n\n** 收集灵感，处理分析\n:Effort: 0:30
+DESCRIPTION:<2023-05-29 周Mon 02:41>\n• ☐ 阅读模块的流程，以 elfeed 为入口\n• ☐ 知识积累，总结温
+ 习 org-roam 工具\n• ☐ 总结 fc 工具和 anki 的用法\n\n  在总结过程中要使用 AI 中可以吸收的经验，丰富培训职能的 A
+ I\n\n  几个模板和提示语，参考 obs 中的插件AI 输出的格式，统一使用 org 格式\n\n  elfeed 整理出自己的阅读习惯，作出具
+ 体分类，优先级，存储，和书签的\n    引用。作为知识体系的元数据来源。参考[Elfeed Rules! :: Noonker —\n    th
+ oughts\, guides\, etc]\n    (<https://noonker.github.io/posts/2020-04-22-e
+ lfeed/>)\n\n  org-roam 在之前理解的基础上，系统下具体的工作模式。\n  1. capture 功能\n\n  2. 双向链接
+ 功能\n\n  3. 温习之前的用法，整理出成熟的模板。\n\n     实现知识循环，积累。配合 fc 插件，提炼操作步骤。\n\n\n七个习惯，
+ 时间管理，项目管理，博客写作。使用 org-roam 整理出七个习惯的\n知识体系，并实现方便温习的操作流程。\n\n使用时间管理工具 agenda
+ 使用收集箱，分析，处理，免打扰时间。理解二象限\n思维，实战第四代时间管理法，提高效率养成的习惯，积极主动，以终为始，要\n事第一。\n\n发挥 3
+ 0 分钟，把上述的灵感，整理出要做的几件事情，给出具体的时间安排和\n产出内容\n\n\n\n** 收集灵感，处理分析\n:Effort: 0:30
 CATEGORIES:灵感,inbox,???
 SEQUENCE:1
 PRIORITY:2
 STATUS:NEEDS-ACTION
 END:VTODO
 BEGIN:VEVENT
-DTSTAMP:20230728T225157Z
-UID:SC-9d75142a-6446-41a9-b353-0a657206039e
+DTSTAMP:20230804T012654Z
+UID:SC-de04052a-80ca-491b-af1c-ae692b6fd3dc
 DTSTART;VALUE=DATE:20230531
 DTEND;VALUE=DATE:20230601
 SUMMARY:S: 写博客，确定三个习惯
 DESCRIPTION:1. 时间管理，每天早上，二象限+ 专注模式 watch 作为时间管理的思想和工具\n   要善用 agenda ，在养成时间
  管理的习惯之前，最好规定每一个小时，查看\n   一下 agenda 视图。每次都要确保自己的时间都在 agenda 中，有记录有依\n   据。要
- 探索 AI 在时间管理上能发挥什么作用，例如评估计划安排是否合理，\n   任务计划分解部分，让AI 协助完成，要善用auto-gpt工具\n2. 
- 阅读习惯的养成，使用整理 elfeed 和 calibre 阅读工具，和博客写作，为\n   主题写一篇博客，整理出阅读习惯。要体现出空雨伞，RIA
-  的模板，要利用\n   AI 帮助提供灵感建议，写大纲。要善用 claude 和 auto-gpt\n3. org-roam 知识体系积累，要温习
-  roam 的有点，capture\, 双向链接。在阅\n   读，写作，和灵感收集过程中，发挥好org-mode 的功能。配合 org-fc 做到
- \n   知识循环，培养通过 roamUI 整理模块，积累经验。在这个习惯下，要探索\n   AI\,摸索一套可以借助AI完成的任务。多参考obsi
- dian 工具的用法，实现智\n   能的org编辑。
+ 探索 AI 在时间管理上能发挥什么作用，例如评估计划安排是否合理，\n   任务计划分解部分，让 AI 协助完成，要善用 auto-gpt 工具\n
+ 2. 阅读习惯的养成，使用整理 elfeed 和 calibre 阅读工具，和博客写作，为\n   主题写一篇博客，整理出阅读习惯。要体现出空雨伞，
+ RIA 的模板，要利用\n   AI 帮助提供灵感建议，写大纲。要善用 claude 和 auto-gpt\n3. org-roam 知识体系积累，
+ 要温习 roam 的有点，capture\, 双向链接。在阅\n   读，写作，和灵感收集过程中，发挥好 org-mode 的功能。配合 org-f
+ c 做\n   到知识循环，培养通过 roamUI 整理模块，积累经验。在这个习惯下，要探\n   索 AI\,摸索一套可以借助 AI 完成的任务。
+ 多参考 obsidian 工具的用法，\n   实现智能的 org 编辑。
 CATEGORIES:reader,???
 URL:org-protocol://gdt?id=
 END:VEVENT
 BEGIN:VTODO
-UID:TODO-9d75142a-6446-41a9-b353-0a657206039e
-DTSTAMP:20230728T225157Z
+UID:TODO-de04052a-80ca-491b-af1c-ae692b6fd3dc
+DTSTAMP:20230804T012654Z
 DTSTART;VALUE=DATE:20230531
 SUMMARY:写博客，确定三个习惯
 DESCRIPTION:1. 时间管理，每天早上，二象限+ 专注模式 watch 作为时间管理的思想和工具\n   要善用 agenda ，在养成时间
  管理的习惯之前，最好规定每一个小时，查看\n   一下 agenda 视图。每次都要确保自己的时间都在 agenda 中，有记录有依\n   据。要
- 探索 AI 在时间管理上能发挥什么作用，例如评估计划安排是否合理，\n   任务计划分解部分，让AI 协助完成，要善用auto-gpt工具\n2. 
- 阅读习惯的养成，使用整理 elfeed 和 calibre 阅读工具，和博客写作，为\n   主题写一篇博客，整理出阅读习惯。要体现出空雨伞，RIA
-  的模板，要利用\n   AI 帮助提供灵感建议，写大纲。要善用 claude 和 auto-gpt\n3. org-roam 知识体系积累，要温习
-  roam 的有点，capture\, 双向链接。在阅\n   读，写作，和灵感收集过程中，发挥好org-mode 的功能。配合 org-fc 做到
- \n   知识循环，培养通过 roamUI 整理模块，积累经验。在这个习惯下，要探索\n   AI\,摸索一套可以借助AI完成的任务。多参考obsi
- dian 工具的用法，实现智\n   能的org编辑。
+ 探索 AI 在时间管理上能发挥什么作用，例如评估计划安排是否合理，\n   任务计划分解部分，让 AI 协助完成，要善用 auto-gpt 工具\n
+ 2. 阅读习惯的养成，使用整理 elfeed 和 calibre 阅读工具，和博客写作，为\n   主题写一篇博客，整理出阅读习惯。要体现出空雨伞，
+ RIA 的模板，要利用\n   AI 帮助提供灵感建议，写大纲。要善用 claude 和 auto-gpt\n3. org-roam 知识体系积累，
+ 要温习 roam 的有点，capture\, 双向链接。在阅\n   读，写作，和灵感收集过程中，发挥好 org-mode 的功能。配合 org-f
+ c 做\n   到知识循环，培养通过 roamUI 整理模块，积累经验。在这个习惯下，要探\n   索 AI\,摸索一套可以借助 AI 完成的任务。
+ 多参考 obsidian 工具的用法，\n   实现智能的 org 编辑。
 CATEGORIES:reader,???
 SEQUENCE:1
 PRIORITY:2
@@ -359,8 +293,8 @@ STATUS:NEEDS-ACTION
 END:VTODO
 BEGIN:VTODO
 UID:TODO-7dbb358e-dd3c-4f90-8019-c0ef5af5ff32
-DTSTAMP:20230728T225157Z
-DTSTART:20230729T065100
+DTSTAMP:20230804T012654Z
+DTSTART:20230804T092600
 SUMMARY:17 The Browser
 DESCRIPTION:浏览器允许您浏览元数据缓存并将曲目添加到播放列表。它包含强大的交互模式。\n\n浏览器在 `emms-browser.el' 
  中定义\,并包含在 `emms-all' 设置级别中。有关\nEmms 设置级别的更多信息\,请参阅设置。\n\n您也可以通过手动将浏览器添加到 E
@@ -373,9 +307,9 @@ PRIORITY:1
 STATUS:NEEDS-ACTION
 END:VTODO
 BEGIN:VTODO
-UID:TODO-bef9448d-c946-4879-b669-1c292a890a90
-DTSTAMP:20230728T225158Z
-DTSTART:20230729T065100
+UID:TODO-3f219e51-d33f-4c9c-9dc1-ef414f5c8c1d
+DTSTAMP:20230804T012654Z
+DTSTART:20230804T092600
 SUMMARY:28 Bookmarks
 DESCRIPTION:Emms 可以通过 `emms-bookmarks' 在媒体文件中保存 “暂时书签”。文件\n`emms-bookmarks.
  el' 提供 `emms-bookmarks' 包。\n\n在播放某些媒体时\,调用 `M-x emms-bookmarks-add' 会首先暂停播
@@ -388,9 +322,9 @@ PRIORITY:1
 STATUS:NEEDS-ACTION
 END:VTODO
 BEGIN:VTODO
-UID:TODO-fef08ce4-be2f-435c-b85c-56fca26e6294
-DTSTAMP:20230728T225158Z
-DTSTART:20230729T065100
+UID:TODO-b75557a9-77d7-416d-aa0c-033381625cb3
+DTSTAMP:20230804T012654Z
+DTSTART:20230804T092600
 SUMMARY:Use async
 DESCRIPTION:If `org-ql' is loaded byte-compiled\, the argument lists are no
  t named\nproperly (not sure why\, as `help-function-arglist' is supposed t
@@ -402,72 +336,9 @@ PRIORITY:2
 STATUS:NEEDS-ACTION
 END:VTODO
 BEGIN:VTODO
-UID:TODO-7eefc9fc-c2ce-488a-90ab-a7dce7561c90
-DTSTAMP:20230728T225159Z
-DTSTART:20230729T065100
-SUMMARY:模板系统
-DESCRIPTION:Org-roam 扩展了 `org-capture' 系统\,提供了更顺畅的记笔记体验。但是\,这些\n扩展意味着 Org-r
- oam 捕获模板与 `org-capture' 模板不兼容。\n\nOrg-roam 的模板由 `org-roam-capture-template
- s' 指定。就像\n`org-capture-templates' 一样\, `org-roam-capture-templates' 可以包含多\
- n个模板。如果 `org-roam-capture-templates' 只包含一个模板\,则不会提示选\n择模板。
-CATEGORIES:???
-SEQUENCE:1
-PRIORITY:1
-STATUS:NEEDS-ACTION
-END:VTODO
-BEGIN:VTODO
-UID:TODO-5d5a4fd6-6e4e-4e16-89f6-bd049d3404c7
-DTSTAMP:20230728T225159Z
-DTSTART:20230729T065100
-SUMMARY:Org-roam 模板扩展
-DESCRIPTION:Org-roam 的模板定义也扩展了 org-capture 的模板语法\,以允许预填充字符串。\n我们在模板演练 *Temp
- late Walkthrough* 中已经瞥见这一点。\n\nOrg-roam 提供 `${foo}' 语法来替换已知字符串的变量。 `${foo}
- ' 的替换过\n程如下:\n\n1. 如果 `foo' 是函数\,则以当前节点作为参数调用 `foo' 。\n2. 如果 `org-roam-nod
- e-foo' 是函数\,则以当前节点作为参数调用 `foo' 。\n   `org-roam-node-' 前缀定义了许多 Org-roam 的节点
- 访问器\,如\n   `org-roam-node-title' 和 `org-roam-node-level' 。\n3. 否则查找 `org-r
- oam-capture--info' 的 `foo' 值。这是一个在捕获过程开\n   始前设置的内部变量。\n4. 如果上述都不适用\,使用 `c
- ompleting-read' 读取字符串。\n   a. Org-roam 还提供 `${foo=default_val}' 语法\,如果提供默认
- 值\,将是\n      `foo' 键在 minibuffer 完成期间的初始值。\n\n可以通过检查 `org-roam-node' 结构来查看
- 节点的可用键列表。在撰写本文时\,\n它是:\n\n┌────\n│ (cl-defstruct (org-roam-node (:construc
- tor org-roam-node-create)\n│                              (:copier nil))\n
- │   "A heading or top level file with an assigned ID property."\n│   file 
- file-hash file-atime file-mtime\n│   id level point todo priority schedule
- d deadline title properties olp\n│   tags aliases refs)\n└────\n\n这使得 `${f
- ile}'\, `${file-hash}' 等都是有效的替换。
-CATEGORIES:???
-SEQUENCE:1
-PRIORITY:1
-STATUS:NEEDS-ACTION
-END:VTODO
-BEGIN:VTODO
-UID:TODO-2cd7187a-81de-43ff-ba1f-b67566cdd419
-DTSTAMP:20230728T225158Z
-DTSTART:20230729T065100
-SUMMARY:扩展捕获系统
-DESCRIPTION:Org-roam 对 Org 的捕获系统应用了一些修补\,以改善用户体验\,有时最好使用\nOrg-roam 的捕获系统。扩展
- 中使用的公开函数是 `org-roam-capture-':\n\n• 函数: `org-roam-capture- &key goto keys 
- node info props templates'\n\n  主入口点。GOTO和KEYS对应于 `org-capture' 参数。INFO 是一
- 个填充\n  Org-roam 捕获模板的 plist。NODE 是一个包含有关节点信息的\n  org-roam-node 构造。PROPS 是每
- 个模板的其他 Org-roam 属性的 plist。\n  TEMPLATES 是 org-roam 模板列表。\n\n使用 `org-roam-c
- apture-' 的扩展示例是 `org-roam-dailies' 本身:\n\n┌────\n│ (defun org-roam-dailies
- --capture (time &optional goto)\n│   "根据TIME捕获每日笔记中的条目\,如有必要创建它。\n│\n│   当
- GOTO非nil时\,转到笔记而不创建条目。"\n│   (org-roam-capture- :goto (when goto '(4))\n│ 
-                      :node (org-roam-node-create)\n│                      
- :templates org-roam-dailies-capture-templates\n│                      :pro
- ps (list :override-default-time time))\n│   (when goto (run-hooks 'org-roa
- m-dailies-find-file-hook)))\n└────\n\n使用 `org-roam-capture-'\,扩展可以:\n\n• 指
- 定要跳转到的位置(通过:goto参数)\n• 提供节点信息(通过:node参数)\n• 提供用于填充模板的信息(通过:info参数)\n• 指定模板
- (通过:templates参数)\n• 提供其他模板属性(通过:props参数)\n\n所以\,使用 `org-roam-capture-'\,扩展
- 可以获得 Org-roam 捕获系统的全部功能\,从\n而实现复杂而强大的捕获行为。
-CATEGORIES:???
-SEQUENCE:1
-PRIORITY:1
-STATUS:NEEDS-ACTION
-END:VTODO
-BEGIN:VTODO
-UID:TODO-c00be6f7-8717-4d50-a428-91026bbcf87e
-DTSTAMP:20230728T225159Z
-DTSTART:20230729T065100
+UID:TODO-7aa58074-adde-4b17-a611-440a184916f3
+DTSTAMP:20230804T012654Z
+DTSTART:20230804T092600
 SUMMARY:Figure out how to exclude screenshots from info page but not GitHub
   rendering
 CATEGORIES:???
@@ -476,9 +347,9 @@ PRIORITY:2
 STATUS:NEEDS-ACTION
 END:VTODO
 BEGIN:VTODO
-UID:TODO-6c1fa25d-99b8-4dea-b7fa-85c13337d7ec
-DTSTAMP:20230728T225158Z
-DTSTART:20230729T065100
+UID:TODO-e182031e-5d9a-4d65-9804-13b80b6afd9c
+DTSTAMP:20230804T012654Z
+DTSTART:20230804T092600
 SUMMARY:Export examples to info page
 CATEGORIES:???
 SEQUENCE:1
@@ -487,8 +358,8 @@ STATUS:NEEDS-ACTION
 END:VTODO
 BEGIN:VTODO
 UID:TODO-d2b3d0b8-85cc-4f5d-9e4f-42ed0afbfbbf
-DTSTAMP:20230728T225158Z
-DTSTART:20230729T065100
+DTSTAMP:20230804T012654Z
+DTSTART:20230804T092600
 SUMMARY:诚信原则
 CATEGORIES:???
 SEQUENCE:1
@@ -497,8 +368,8 @@ STATUS:NEEDS-ACTION
 END:VTODO
 BEGIN:VTODO
 UID:TODO-f637d923-84cc-4f9e-9988-f179fb57d407
-DTSTAMP:20230728T225158Z
-DTSTART:20230729T065100
+DTSTAMP:20230804T012654Z
+DTSTART:20230804T092600
 SUMMARY:成长原则
 CATEGORIES:???
 SEQUENCE:1
@@ -507,51 +378,17 @@ STATUS:NEEDS-ACTION
 END:VTODO
 BEGIN:VTODO
 UID:TODO-457c7ed2-b215-4e18-9392-fd28200acc4c
-DTSTAMP:20230728T225158Z
-DTSTART:20230729T065100
+DTSTAMP:20230804T012654Z
+DTSTART:20230804T092600
 SUMMARY:自我管理原则
 CATEGORIES:???
 SEQUENCE:1
 PRIORITY:2
 STATUS:NEEDS-ACTION
 END:VTODO
-BEGIN:VTODO
-UID:TODO-3f9c4bad-c4a3-4696-98ee-71e931670da4
-DTSTAMP:20230728T225158Z
-DTSTART:20230729T065100
-SUMMARY:运动
-DESCRIPTION:跑步时长，散步，VR健身，跑步，溜冰等活动每天坚持半个小时的散步\n• ☐ 滑板一个小时\n• ☐ 跑步一个小时\n• ☐ V
- R 运动一个小时
-CATEGORIES:???
-SEQUENCE:1
-PRIORITY:1
-STATUS:NEEDS-ACTION
-END:VTODO
-BEGIN:VTODO
-UID:TODO-082c8ede-ab0f-42e2-bde7-9a23ea18258c
-DTSTAMP:20230728T225159Z
-DTSTART:20230729T065100
-SUMMARY:卫生
-DESCRIPTION:• ☐ 洗漱刷牙\n• ☐ 皮肤保养
-CATEGORIES:???
-SEQUENCE:1
-PRIORITY:1
-STATUS:NEEDS-ACTION
-END:VTODO
-BEGIN:VTODO
-UID:TODO-a408b645-9ae7-4c8f-8928-33659c40bad7
-DTSTAMP:20230728T225159Z
-DTSTART:20230729T065100
-SUMMARY:餐饮
-DESCRIPTION:• ☐ 早餐：煮粥 + 鸡蛋\n• ☐ 晚餐：煮水饺，打包午餐
-CATEGORIES:???
-SEQUENCE:1
-PRIORITY:1
-STATUS:NEEDS-ACTION
-END:VTODO
 BEGIN:VEVENT
-DTSTAMP:20230728T225159Z
-UID:DL-be93bd50-3e03-4581-86dd-67b2da3a876e
+DTSTAMP:20230804T012654Z
+UID:DL-48e4fb19-b468-47ae-a510-af0dac830849
 DTSTART:20230408T080000
 DTEND:20230408T100000
 SUMMARY:DL: 思考最重要的事情撰写使命宣言
@@ -560,19 +397,19 @@ DESCRIPTION:为什么在七个习惯中努力该怎么应用七个习惯为什�
  的应用。这种观念是否不适用现在的自己。\n\n通过书写的方式，和自己对话，在不同领域创造自身价值。\n\n第一个原则就是效能平衡原则，第一个习惯就从
  积极主动开始。\n\n先不在乎使命宣言，同样不影响一个积极向上的生活。\n\n在保持积极向上的之后，一切困难就会迎刃而解了。\n\n\n整理七个习惯
  的原则和使命宣言，找到自己最重要的事情。要整理七个习惯，严\n格一七个习惯为准则，提高生活质量和勇气。\n• ☐ 尝试通过快速敲打的过程，熟悉复习七
- 个习惯\n• ☐ 梳理记录整理出结果，激活emacs 管理经验，积累roam 知识体系\n• ☐ 知识循环，提升信心，达到能每日复习学习。加固知识积
- 累的信心。\n\n我该怎么面对现实，我现在为什么会变成现在这个样子，该怎么摆脱现在的状态，\n把该有的时间用在最重要的事情上，我为什么没有这个魄力。
- \n\n是什么把自己逼到了这个地域，我还有什么值得争取和向往的生活吗？\n\n到底该怎么办，我现在真的是在浪费时间，再找不到自救的办法，就真的要伤了
- \n所有的感情，我到底在逃避什么，是什么在阻挠我前进的动力，是七个习惯在作\n祟，我现在内心想的是高效能，实际达不到心理预期，开始造成的心理落差，无
- \n法抚平的伤痛，该怎么修复这种状态。\n\n唯一办法就是赶紧执行实施，要做的事情赶紧去做，要学的东西赶紧去学，不要\n在浪费时间就行，要有人生目标
- ，要有自我意识，自我思考掌控的自信心，不要\n在每天痛苦的煎熬了，过着内耗的日子，是时候做计划，把事情做好的决心了耐\n力，要站起来，战斗！\n\n
- 开始阅读吧，把负面情绪淡化掉，开启新的生活方式。
+ 个习惯\n• ☐ 梳理记录整理出结果，激活 emacs 管理经验，积累 roam 知识体系\n• ☐ 知识循环，提升信心，达到能每日复习学习。加固知
+ 识积累的信心。\n\n我该怎么面对现实，我现在为什么会变成现在这个样子，该怎么摆脱现在的状态，\n把该有的时间用在最重要的事情上，我为什么没有这个魄
+ 力。\n\n是什么把自己逼到了这个地域，我还有什么值得争取和向往的生活吗？\n\n到底该怎么办，我现在真的是在浪费时间，再找不到自救的办法，就真的要
+ 伤了\n所有的感情，我到底在逃避什么，是什么在阻挠我前进的动力，是七个习惯在作\n祟，我现在内心想的是高效能，实际达不到心理预期，开始造成的心理落差
+ ，无\n法抚平的伤痛，该怎么修复这种状态。\n\n唯一办法就是赶紧执行实施，要做的事情赶紧去做，要学的东西赶紧去学，不要\n在浪费时间就行，要有人生
+ 目标，要有自我意识，自我思考掌控的自信心，不要\n在每天痛苦的煎熬了，过着内耗的日子，是时候做计划，把事情做好的决心了耐\n力，要站起来，战斗！\n
+ \n开始阅读吧，把负面情绪淡化掉，开启新的生活方式。
 CATEGORIES:blue,???
 URL:org-protocol://gdt?id=
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230728T225159Z
-UID:SC-be93bd50-3e03-4581-86dd-67b2da3a876e
+DTSTAMP:20230804T012654Z
+UID:SC-48e4fb19-b468-47ae-a510-af0dac830849
 DTSTART:20230408T063000
 DTEND:20230408T083000
 SUMMARY:S: 思考最重要的事情撰写使命宣言
@@ -581,19 +418,19 @@ DESCRIPTION:为什么在七个习惯中努力该怎么应用七个习惯为什�
  的应用。这种观念是否不适用现在的自己。\n\n通过书写的方式，和自己对话，在不同领域创造自身价值。\n\n第一个原则就是效能平衡原则，第一个习惯就从
  积极主动开始。\n\n先不在乎使命宣言，同样不影响一个积极向上的生活。\n\n在保持积极向上的之后，一切困难就会迎刃而解了。\n\n\n整理七个习惯
  的原则和使命宣言，找到自己最重要的事情。要整理七个习惯，严\n格一七个习惯为准则，提高生活质量和勇气。\n• ☐ 尝试通过快速敲打的过程，熟悉复习七
- 个习惯\n• ☐ 梳理记录整理出结果，激活emacs 管理经验，积累roam 知识体系\n• ☐ 知识循环，提升信心，达到能每日复习学习。加固知识积
- 累的信心。\n\n我该怎么面对现实，我现在为什么会变成现在这个样子，该怎么摆脱现在的状态，\n把该有的时间用在最重要的事情上，我为什么没有这个魄力。
- \n\n是什么把自己逼到了这个地域，我还有什么值得争取和向往的生活吗？\n\n到底该怎么办，我现在真的是在浪费时间，再找不到自救的办法，就真的要伤了
- \n所有的感情，我到底在逃避什么，是什么在阻挠我前进的动力，是七个习惯在作\n祟，我现在内心想的是高效能，实际达不到心理预期，开始造成的心理落差，无
- \n法抚平的伤痛，该怎么修复这种状态。\n\n唯一办法就是赶紧执行实施，要做的事情赶紧去做，要学的东西赶紧去学，不要\n在浪费时间就行，要有人生目标
- ，要有自我意识，自我思考掌控的自信心，不要\n在每天痛苦的煎熬了，过着内耗的日子，是时候做计划，把事情做好的决心了耐\n力，要站起来，战斗！\n\n
- 开始阅读吧，把负面情绪淡化掉，开启新的生活方式。
+ 个习惯\n• ☐ 梳理记录整理出结果，激活 emacs 管理经验，积累 roam 知识体系\n• ☐ 知识循环，提升信心，达到能每日复习学习。加固知
+ 识积累的信心。\n\n我该怎么面对现实，我现在为什么会变成现在这个样子，该怎么摆脱现在的状态，\n把该有的时间用在最重要的事情上，我为什么没有这个魄
+ 力。\n\n是什么把自己逼到了这个地域，我还有什么值得争取和向往的生活吗？\n\n到底该怎么办，我现在真的是在浪费时间，再找不到自救的办法，就真的要
+ 伤了\n所有的感情，我到底在逃避什么，是什么在阻挠我前进的动力，是七个习惯在作\n祟，我现在内心想的是高效能，实际达不到心理预期，开始造成的心理落差
+ ，无\n法抚平的伤痛，该怎么修复这种状态。\n\n唯一办法就是赶紧执行实施，要做的事情赶紧去做，要学的东西赶紧去学，不要\n在浪费时间就行，要有人生
+ 目标，要有自我意识，自我思考掌控的自信心，不要\n在每天痛苦的煎熬了，过着内耗的日子，是时候做计划，把事情做好的决心了耐\n力，要站起来，战斗！\n
+ \n开始阅读吧，把负面情绪淡化掉，开启新的生活方式。
 CATEGORIES:blue,???
 URL:org-protocol://gdt?id=
 END:VEVENT
 BEGIN:VTODO
-UID:TODO-be93bd50-3e03-4581-86dd-67b2da3a876e
-DTSTAMP:20230728T225159Z
+UID:TODO-48e4fb19-b468-47ae-a510-af0dac830849
+DTSTAMP:20230804T012654Z
 DTSTART:20230408T063000
 DUE:20230408T080000
 SUMMARY:思考最重要的事情撰写使命宣言
@@ -602,21 +439,21 @@ DESCRIPTION:为什么在七个习惯中努力该怎么应用七个习惯为什�
  的应用。这种观念是否不适用现在的自己。\n\n通过书写的方式，和自己对话，在不同领域创造自身价值。\n\n第一个原则就是效能平衡原则，第一个习惯就从
  积极主动开始。\n\n先不在乎使命宣言，同样不影响一个积极向上的生活。\n\n在保持积极向上的之后，一切困难就会迎刃而解了。\n\n\n整理七个习惯
  的原则和使命宣言，找到自己最重要的事情。要整理七个习惯，严\n格一七个习惯为准则，提高生活质量和勇气。\n• ☐ 尝试通过快速敲打的过程，熟悉复习七
- 个习惯\n• ☐ 梳理记录整理出结果，激活emacs 管理经验，积累roam 知识体系\n• ☐ 知识循环，提升信心，达到能每日复习学习。加固知识积
- 累的信心。\n\n我该怎么面对现实，我现在为什么会变成现在这个样子，该怎么摆脱现在的状态，\n把该有的时间用在最重要的事情上，我为什么没有这个魄力。
- \n\n是什么把自己逼到了这个地域，我还有什么值得争取和向往的生活吗？\n\n到底该怎么办，我现在真的是在浪费时间，再找不到自救的办法，就真的要伤了
- \n所有的感情，我到底在逃避什么，是什么在阻挠我前进的动力，是七个习惯在作\n祟，我现在内心想的是高效能，实际达不到心理预期，开始造成的心理落差，无
- \n法抚平的伤痛，该怎么修复这种状态。\n\n唯一办法就是赶紧执行实施，要做的事情赶紧去做，要学的东西赶紧去学，不要\n在浪费时间就行，要有人生目标
- ，要有自我意识，自我思考掌控的自信心，不要\n在每天痛苦的煎熬了，过着内耗的日子，是时候做计划，把事情做好的决心了耐\n力，要站起来，战斗！\n\n
- 开始阅读吧，把负面情绪淡化掉，开启新的生活方式。
+ 个习惯\n• ☐ 梳理记录整理出结果，激活 emacs 管理经验，积累 roam 知识体系\n• ☐ 知识循环，提升信心，达到能每日复习学习。加固知
+ 识积累的信心。\n\n我该怎么面对现实，我现在为什么会变成现在这个样子，该怎么摆脱现在的状态，\n把该有的时间用在最重要的事情上，我为什么没有这个魄
+ 力。\n\n是什么把自己逼到了这个地域，我还有什么值得争取和向往的生活吗？\n\n到底该怎么办，我现在真的是在浪费时间，再找不到自救的办法，就真的要
+ 伤了\n所有的感情，我到底在逃避什么，是什么在阻挠我前进的动力，是七个习惯在作\n祟，我现在内心想的是高效能，实际达不到心理预期，开始造成的心理落差
+ ，无\n法抚平的伤痛，该怎么修复这种状态。\n\n唯一办法就是赶紧执行实施，要做的事情赶紧去做，要学的东西赶紧去学，不要\n在浪费时间就行，要有人生
+ 目标，要有自我意识，自我思考掌控的自信心，不要\n在每天痛苦的煎熬了，过着内耗的日子，是时候做计划，把事情做好的决心了耐\n力，要站起来，战斗！\n
+ \n开始阅读吧，把负面情绪淡化掉，开启新的生活方式。
 CATEGORIES:blue,???
 SEQUENCE:1
 PRIORITY:2
 STATUS:NEEDS-ACTION
 END:VTODO
 BEGIN:VEVENT
-DTSTAMP:20230728T225200Z
-UID:DL-08ae9df2-fbe2-40d5-b9a2-f99f8c0be83f
+DTSTAMP:20230804T012655Z
+UID:DL-56bb16ef-3b06-48e2-ac08-26c704e0268d
 DTSTART:20230408T150000
 DTEND:20230408T170000
 SUMMARY:DL: 拓宽思路的过程
@@ -625,8 +462,8 @@ CATEGORIES:anki,???
 URL:org-protocol://gdt?id=
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230728T225200Z
-UID:SC-08ae9df2-fbe2-40d5-b9a2-f99f8c0be83f
+DTSTAMP:20230804T012655Z
+UID:SC-56bb16ef-3b06-48e2-ac08-26c704e0268d
 DTSTART:20230408T130000
 DTEND:20230408T150000
 SUMMARY:S: 拓宽思路的过程
@@ -635,8 +472,8 @@ CATEGORIES:anki,???
 URL:org-protocol://gdt?id=
 END:VEVENT
 BEGIN:VTODO
-UID:TODO-08ae9df2-fbe2-40d5-b9a2-f99f8c0be83f
-DTSTAMP:20230728T225200Z
+UID:TODO-56bb16ef-3b06-48e2-ac08-26c704e0268d
+DTSTAMP:20230804T012655Z
 DTSTART:20230408T130000
 DUE:20230408T150000
 SUMMARY:拓宽思路的过程
@@ -647,9 +484,9 @@ PRIORITY:2
 STATUS:NEEDS-ACTION
 END:VTODO
 BEGIN:VTODO
-UID:TODO-2d813bc4-5eba-4b01-8d3d-7add9b8d5e05
-DTSTAMP:20230728T225159Z
-DTSTART:20230729T065100
+UID:TODO-e21a7dd3-d7e9-4f0e-af25-e86a941dde26
+DTSTAMP:20230804T012654Z
+DTSTART:20230804T092600
 SUMMARY:开发 auto-gpt emacs 插件
 CATEGORIES:???
 SEQUENCE:1
@@ -657,9 +494,9 @@ PRIORITY:2
 STATUS:NEEDS-ACTION
 END:VTODO
 BEGIN:VTODO
-UID:TODO-ab257551-f042-4b04-a7e4-802ae768e5a8
-DTSTAMP:20230728T225200Z
-DTSTART:20230729T065200
+UID:TODO-9c320ea5-bcc3-48b6-99c4-d193ccdcd3a6
+DTSTAMP:20230804T012655Z
+DTSTART:20230804T092600
 SUMMARY:捷径通过 emacsclient 命令，或 ifff 集成 Auto-GPT
 CATEGORIES:???
 SEQUENCE:1
@@ -667,70 +504,70 @@ PRIORITY:2
 STATUS:NEEDS-ACTION
 END:VTODO
 BEGIN:VEVENT
-DTSTAMP:20230728T225159Z
-UID:TS1-923d8142-5018-4333-90a7-eeb0eb229e70
+DTSTAMP:20230804T012654Z
+UID:TS1-827f198e-5d4b-4509-ac55-8345a7d46fd4
 DTSTART:20230117T002900
 DTEND:20230117T022900
 SUMMARY:cowuoshi
-DESCRIPTION:<2023-01-17 周二 00:29>
+DESCRIPTION:<2023-01-17 周Tue 00:29>
 CATEGORIES:???
 URL:org-protocol://gdt?id=
 END:VEVENT
 BEGIN:VTODO
-UID:TODO-923d8142-5018-4333-90a7-eeb0eb229e70
-DTSTAMP:20230728T225159Z
-DTSTART:20230729T065100
+UID:TODO-827f198e-5d4b-4509-ac55-8345a7d46fd4
+DTSTAMP:20230804T012654Z
+DTSTART:20230804T092600
 SUMMARY:cowuoshi
-DESCRIPTION:<2023-01-17 周二 00:29>
+DESCRIPTION:<2023-01-17 周Tue 00:29>
 CATEGORIES:???
 SEQUENCE:1
 PRIORITY:2
 STATUS:NEEDS-ACTION
 END:VTODO
 BEGIN:VEVENT
-DTSTAMP:20230728T225200Z
-UID:TS1-cca426cc-ff39-4a49-bafb-5176fffe5157
+DTSTAMP:20230804T012654Z
+UID:TS1-e32ef826-5675-4ee5-9e70-730f86515c93
 DTSTART:20230117T103000
 DTEND:20230117T123000
 SUMMARY:开始计划
-DESCRIPTION:<2023-01-17 周二 10:30>
+DESCRIPTION:<2023-01-17 周Tue 10:30>
 CATEGORIES:???
 URL:org-protocol://gdt?id=
 END:VEVENT
 BEGIN:VTODO
-UID:TODO-cca426cc-ff39-4a49-bafb-5176fffe5157
-DTSTAMP:20230728T225200Z
-DTSTART:20230729T065200
+UID:TODO-e32ef826-5675-4ee5-9e70-730f86515c93
+DTSTAMP:20230804T012654Z
+DTSTART:20230804T092600
 SUMMARY:开始计划
-DESCRIPTION:<2023-01-17 周二 10:30>
+DESCRIPTION:<2023-01-17 周Tue 10:30>
 CATEGORIES:???
 SEQUENCE:1
 PRIORITY:2
 STATUS:NEEDS-ACTION
 END:VTODO
 BEGIN:VEVENT
-DTSTAMP:20230728T225200Z
-UID:TS1-3ccfd2f3-8312-47cb-a5d7-fefb5e871e3c
+DTSTAMP:20230804T012655Z
+UID:TS1-c43b7f9a-f38a-4c5f-a4a3-d5998c48a6f4
 DTSTART:20230118T120000
 DTEND:20230118T140000
 SUMMARY:明天到家
-DESCRIPTION:<2023-01-18 周三 12:00>
+DESCRIPTION:<2023-01-18 周Wed 12:00>
 CATEGORIES:???
 URL:org-protocol://gdt?id=
 END:VEVENT
 BEGIN:VTODO
-UID:TODO-3ccfd2f3-8312-47cb-a5d7-fefb5e871e3c
-DTSTAMP:20230728T225200Z
-DTSTART:20230729T065200
+UID:TODO-c43b7f9a-f38a-4c5f-a4a3-d5998c48a6f4
+DTSTAMP:20230804T012655Z
+DTSTART:20230804T092600
 SUMMARY:明天到家
-DESCRIPTION:<2023-01-18 周三 12:00>
+DESCRIPTION:<2023-01-18 周Wed 12:00>
 CATEGORIES:???
 SEQUENCE:1
 PRIORITY:2
 STATUS:NEEDS-ACTION
 END:VTODO
 BEGIN:VEVENT
-DTSTAMP:20230728T225200Z
+DTSTAMP:20230804T012655Z
 UID:SC-90cd57fa-79e2-4d9b-81d1-a13f34f35c3e
 DTSTART:20211015T133300
 DTEND:20211015T153300
@@ -740,7 +577,7 @@ URL:org-protocol://gdt?id=90cd57fa-79e2-4d9b-81d1-a13f34f35c3e
 END:VEVENT
 BEGIN:VTODO
 UID:TODO-90cd57fa-79e2-4d9b-81d1-a13f34f35c3e
-DTSTAMP:20230728T225200Z
+DTSTAMP:20230804T012655Z
 DTSTART:20211015T133300
 SUMMARY:hackingWithSwift
 CATEGORIES:???

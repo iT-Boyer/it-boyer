@@ -6,35 +6,35 @@ X-WR-TIMEZONE:CST
 X-WR-CALDESC:
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230728T225152Z
-UID:SC-946cd10a-9f53-459b-b794-75eaa9b112fb
+DTSTAMP:20230804T012646Z
+UID:SC-973ab6b1-623a-4132-824d-7f5504629517
 DTSTART;VALUE=DATE:20230531
 DTEND;VALUE=DATE:20230601
 SUMMARY:S: 写博客，确定三个习惯
 DESCRIPTION:1. 时间管理，每天早上，二象限+ 专注模式 watch 作为时间管理的思想和工具\n   要善用 agenda ，在养成时间
  管理的习惯之前，最好规定每一个小时，查看\n   一下 agenda 视图。每次都要确保自己的时间都在 agenda 中，有记录有依\n   据。要
- 探索 AI 在时间管理上能发挥什么作用，例如评估计划安排是否合理，\n   任务计划分解部分，让AI 协助完成，要善用auto-gpt工具\n2. 
- 阅读习惯的养成，使用整理 elfeed 和 calibre 阅读工具，和博客写作，为\n   主题写一篇博客，整理出阅读习惯。要体现出空雨伞，RIA
-  的模板，要利用\n   AI 帮助提供灵感建议，写大纲。要善用 claude 和 auto-gpt\n3. org-roam 知识体系积累，要温习
-  roam 的有点，capture\, 双向链接。在阅\n   读，写作，和灵感收集过程中，发挥好org-mode 的功能。配合 org-fc 做到
- \n   知识循环，培养通过 roamUI 整理模块，积累经验。在这个习惯下，要探索\n   AI\,摸索一套可以借助AI完成的任务。多参考obsi
- dian 工具的用法，实现智\n   能的org编辑。
+ 探索 AI 在时间管理上能发挥什么作用，例如评估计划安排是否合理，\n   任务计划分解部分，让 AI 协助完成，要善用 auto-gpt 工具\n
+ 2. 阅读习惯的养成，使用整理 elfeed 和 calibre 阅读工具，和博客写作，为\n   主题写一篇博客，整理出阅读习惯。要体现出空雨伞，
+ RIA 的模板，要利用\n   AI 帮助提供灵感建议，写大纲。要善用 claude 和 auto-gpt\n3. org-roam 知识体系积累，
+ 要温习 roam 的有点，capture\, 双向链接。在阅\n   读，写作，和灵感收集过程中，发挥好 org-mode 的功能。配合 org-f
+ c 做\n   到知识循环，培养通过 roamUI 整理模块，积累经验。在这个习惯下，要探\n   索 AI\,摸索一套可以借助 AI 完成的任务。
+ 多参考 obsidian 工具的用法，\n   实现智能的 org 编辑。
 CATEGORIES:reader,???
 URL:org-protocol://gdt?id=
 END:VEVENT
 BEGIN:VTODO
-UID:TODO-946cd10a-9f53-459b-b794-75eaa9b112fb
-DTSTAMP:20230728T225152Z
+UID:TODO-973ab6b1-623a-4132-824d-7f5504629517
+DTSTAMP:20230804T012646Z
 DTSTART;VALUE=DATE:20230531
 SUMMARY:写博客，确定三个习惯
 DESCRIPTION:1. 时间管理，每天早上，二象限+ 专注模式 watch 作为时间管理的思想和工具\n   要善用 agenda ，在养成时间
  管理的习惯之前，最好规定每一个小时，查看\n   一下 agenda 视图。每次都要确保自己的时间都在 agenda 中，有记录有依\n   据。要
- 探索 AI 在时间管理上能发挥什么作用，例如评估计划安排是否合理，\n   任务计划分解部分，让AI 协助完成，要善用auto-gpt工具\n2. 
- 阅读习惯的养成，使用整理 elfeed 和 calibre 阅读工具，和博客写作，为\n   主题写一篇博客，整理出阅读习惯。要体现出空雨伞，RIA
-  的模板，要利用\n   AI 帮助提供灵感建议，写大纲。要善用 claude 和 auto-gpt\n3. org-roam 知识体系积累，要温习
-  roam 的有点，capture\, 双向链接。在阅\n   读，写作，和灵感收集过程中，发挥好org-mode 的功能。配合 org-fc 做到
- \n   知识循环，培养通过 roamUI 整理模块，积累经验。在这个习惯下，要探索\n   AI\,摸索一套可以借助AI完成的任务。多参考obsi
- dian 工具的用法，实现智\n   能的org编辑。
+ 探索 AI 在时间管理上能发挥什么作用，例如评估计划安排是否合理，\n   任务计划分解部分，让 AI 协助完成，要善用 auto-gpt 工具\n
+ 2. 阅读习惯的养成，使用整理 elfeed 和 calibre 阅读工具，和博客写作，为\n   主题写一篇博客，整理出阅读习惯。要体现出空雨伞，
+ RIA 的模板，要利用\n   AI 帮助提供灵感建议，写大纲。要善用 claude 和 auto-gpt\n3. org-roam 知识体系积累，
+ 要温习 roam 的有点，capture\, 双向链接。在阅\n   读，写作，和灵感收集过程中，发挥好 org-mode 的功能。配合 org-f
+ c 做\n   到知识循环，培养通过 roamUI 整理模块，积累经验。在这个习惯下，要探\n   索 AI\,摸索一套可以借助 AI 完成的任务。
+ 多参考 obsidian 工具的用法，\n   实现智能的 org 编辑。
 CATEGORIES:reader,???
 SEQUENCE:1
 PRIORITY:2

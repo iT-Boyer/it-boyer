@@ -2,16 +2,13 @@
 
  Scheduled earlier
 
-  TODO 温习阅读技巧  13d ago                      :project:
-  TODO 开始新的生活方式  13d ago                  :project:
-  TODO 在 RSSHub 中筛选订阅关注的频道  44d ago    :@Inbox:project:
-  TODO 演练 elfeed 使用场景，对频道添加标签和分类管理  44d ago :@Inbox:project:
-  TODO 在 elfeed 阅读时，挖掘 AI 使用场景  6d ago :@Inbox:project:
-  TODO 开发 Auto-GPT 不同角色的助手，制作 prompt 模板  6d ago :@Inbox:project:
-  TODO 我的经历是什么？  6d ago                   :@周报:project:
-  TODO 早操演练  6d ago                           :@周报:project:
-  TODO 购买五谷杂粮和绿豆  6d ago                 :@周报:project:shop:
+  TODO 温习阅读技巧  19d ago                      :project:
+  TODO 开始新的生活方式  19d ago                  :project:
+  TODO 在 RSSHub 中筛选订阅关注的频道  50d ago    :@Inbox:project:
+  TODO 演练 elfeed 使用场景，对频道添加标签和分类管理  50d ago :@Inbox:project:
+  TODO 在 elfeed 阅读时，挖掘 AI 使用场景  12d ago :@Inbox:project:
+  TODO 开发 Auto-GPT 不同角色的助手，制作 prompt 模板  12d ago :@Inbox:project:
+  TODO 我的经历是什么？  12d ago                  :@周报:project:
 
  Other items
-  TODO 整理 blink 文档和 shortcut 开发文档        :@项目总结:project:
   TODO [#A] 使用 org-roam 管理 awesomes 知识库 [2/2] :@Inbox:project:project:
