@@ -73,15 +73,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 August 2023 - To: 23 August 2023
+From: 17 August 2023 - To: 24 August 2023
 
-Total Time: 11 hrs 59 mins
+Total Time: 8 hrs 42 mins
 
-Other      8 hrs 34 mins   ██████████████████░░░░░░░   71.59 %
-Org        2 hrs 24 mins   █████░░░░░░░░░░░░░░░░░░░░   20.07 %
-Swift      58 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 %
-Git        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Other      7 hrs 43 mins   ██████████████████████▒░░   88.68 %
+Swift      58 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.28 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
