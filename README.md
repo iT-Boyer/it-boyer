@@ -40,7 +40,6 @@
 <!-- inbox starts -->
  ✨收集箱️
  - [ ] 写博客，确定三个习惯
- - [ ] test22 测试
 <!-- inbox ends -->
 
 </td>
