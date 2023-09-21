@@ -8,7 +8,7 @@
   TODO [#B] 资产达人  34d ago                     :habit:
   TODO [#A] 复盘达人 [0/0]  7d ago                :habit:
   七个习惯
-  TODO 健康达人 [0/0]  34d ago                    :habit:
+  TODO 健康达人 [0/3]  34d ago                    :habit:
 
  Other items
   使用个人模板训练 ChatGPT 提升效能  113d ago     :@Inbox:
