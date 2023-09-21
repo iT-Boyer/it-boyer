@@ -6,11 +6,11 @@
   TODO [#B] 饭桌礼仪  7d ago                      :habit:
   TODO [#B] 社交达人  60d ago                     :habit:
   TODO [#B] 资产达人  34d ago                     :habit:
-  TODO [#A] 复盘达人 [0/0]  7d ago                :habit:
+  TODO [#A] 复盘达人 [0/0]  in 1d                 :habit:
   七个习惯
-  TODO 健康达人 [0/3]  34d ago                    :habit:
 
  Other items
+  TODO 健康达人 [0/0]  3d ago                     :habit:
   使用个人模板训练 ChatGPT 提升效能  113d ago     :@Inbox:
   早起的时光不错                                  :@周报:
   撰写愿景  43d ago
