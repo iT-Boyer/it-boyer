@@ -17,10 +17,9 @@
   TODO [#B] 资产达人  34d ago                     :habit:
   TODO [#A] 复盘达人 [0/0]  7d ago                :habit:
   七个习惯
-  TODO 健康达人 [0/0]  34d ago                    :habit:
+  TODO 健康达人 [0/3]  34d ago                    :habit:
 
  Other items
-  TODO [#A] 运动                                  :habit:
   TODO [#A] 卫生                                  :habit:
   TODO [#A] 餐饮 [0/2]                            :habit:
   TODO [#A] hackingWithSwift  706d ago
