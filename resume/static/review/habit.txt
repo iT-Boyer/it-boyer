@@ -1,13 +1,13 @@
 充电中
 
  🚀充电中
+  七个习惯
   TODO [#B] 睡眠模式  34d ago                     :habit:
+  TODO [#A] 复盘达人 [0/0]  in 1d                 :habit:
   TODO [#B] 学习达人  60d ago                     :habit:
   TODO [#B] 饭桌礼仪  7d ago                      :habit:
   TODO [#B] 社交达人  60d ago                     :habit:
   TODO [#B] 资产达人  34d ago                     :habit:
-  TODO [#A] 复盘达人 [0/0]  in 1d                 :habit:
-  七个习惯
 
  Other items
   TODO 健康达人 [0/0]  3d ago                     :habit:
