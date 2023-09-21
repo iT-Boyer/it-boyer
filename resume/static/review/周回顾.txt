@@ -2,48 +2,34 @@
 
  今日毕
 
-  TODO 温习阅读技巧  19d ago                      :project:
-  TODO 开始新的生活方式  19d ago                  :project:
-  TODO 在 RSSHub 中筛选订阅关注的频道  50d ago    :@Inbox:project:
-  TODO 演练 elfeed 使用场景，对频道添加标签和分类管理  50d ago :@Inbox:project:
-  TODO 在 elfeed 阅读时，挖掘 AI 使用场景  12d ago :@Inbox:project:
-  TODO 开发 Auto-GPT 不同角色的助手，制作 prompt 模板  12d ago :@Inbox:project:
+  TODO 阅读一本书的第一章  today                  :@Inbox:project:
+  TODO 整理 blink 文档和 shortcut 开发文档        :@项目总结:project:
+  TODO 早操演练  60d ago                          :@周报:project:
 
  周计划
-  TODO [#A] 使用 org-roam 管理 awesomes 知识库 [2/2] :@Inbox:project:project:
-  TODO [#A] 使用 elfeed 作为阅读器，订阅日常感兴趣的主题 [0/2] :@Inbox:project:project:
-  TODO [#A] 按照个人角色训练 AI 模板优化工作流 [0/2] :@Inbox:project:project:
-  TODO 我的经历是什么？  12d ago                  :@周报:project:
-
- 收集箱
-  TODO 要完成流程                                 :@Inbox:灵感:inbox:
-  TODO 写博客，确定三个习惯  65d ago              :@Inbox:灵感:inbox:reader:
+  TODO 我的经历是什么？  60d ago                  :@周报:project:
 
  充电中
+  TODO [#B] 睡眠模式  34d ago                     :habit:
+  TODO [#B] 学习达人  60d ago                     :habit:
+  TODO [#B] 饭桌礼仪  7d ago                      :habit:
+  TODO [#B] 社交达人  60d ago                     :habit:
+  TODO [#B] 资产达人  34d ago                     :habit:
+  TODO [#A] 复盘达人 [0/0]  7d ago                :habit:
   七个习惯
-  TODO 健身模式  11d ago                          :habit:habit:
-  TODO [#A] 二象限模式[0/3]  11d ago              :habit:habit:
-  TODO [#B] 工作模式  12d ago                     :habit:habit:
-  TODO [#B] 阅读模式  12d ago                     :habit:habit:
-  TODO [#B] 饭桌礼仪  12d ago                     :habit:habit:
-  TODO [#B] 社交模式  12d ago                     :habit:habit:
-  [#B] 反省模式  12d ago                          :habit:habit:
-  [#B] 睡眠模式  12d ago                          :habit:habit:
+  TODO 健康达人 [0/0]  34d ago                    :habit:
 
  Other items
-  TODO [#A] 17 The Browser                        :翻译:
-  TODO [#A] 28 Bookmarks                          :翻译:
-  TODO Use async                                  :noexport:
-  TODO Figure out how to exclude screenshots from info page but not GitHub rendering :noexport:
-  TODO Export examples to info page               :noexport:
+  TODO [#A] 运动                                  :habit:
+  TODO [#A] 卫生                                  :habit:
+  TODO [#A] 餐饮 [0/2]                            :habit:
+  TODO [#A] hackingWithSwift  706d ago
   TODO 诚信原则
   TODO 成长原则
   TODO 自我管理原则
-  TODO 思考最重要的事情撰写使命宣言  118d ago     :@Inbox:blue:
-  TODO [#B] 拓宽思路的过程  118d ago              :@Inbox:anki:
-  TODO 开发 auto-gpt emacs 插件                   :@Inbox:灵感:
-  TODO 捷径通过 emacsclient 命令，或 ifff 集成 Auto-GPT :@Inbox:灵感:
   TODO cowuoshi                                   :@周报:
   TODO 开始计划                                   :@周报:
   TODO 明天到家                                   :@周报:
-  TODO [#A] hackingWithSwift  658d ago
+  TODO 演练明天要做的事情                         :@周报:
+  TODO 多线程学习                                 :@周报:
+  TODO 抖音博客                                   :@周报:

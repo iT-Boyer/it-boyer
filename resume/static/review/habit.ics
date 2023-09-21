@@ -5,4 +5,225 @@ PRODID:-//iTBoyer//Emacs with Org mode//EN
 X-WR-TIMEZONE:CST
 X-WR-CALDESC:
 CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20230921T095121Z
+UID:SC-2f38025f-e60f-4aa0-b01f-6a00c5c0d31b
+DTSTART:20230818T230000
+DTEND:20230819T010000
+RRULE:FREQ=DAILY;INTERVAL=1
+SUMMARY:S: 睡眠模式
+DESCRIPTION:定时间睡眠，早睡早起。正念模式
+CATEGORIES:???
+URL:org-protocol://gdt?id=2f38025f-e60f-4aa0-b01f-6a00c5c0d31b
+END:VEVENT
+BEGIN:VTODO
+UID:TODO-2f38025f-e60f-4aa0-b01f-6a00c5c0d31b
+DTSTAMP:20230921T095121Z
+DTSTART:20230818T230000
+SUMMARY:睡眠模式
+DESCRIPTION:定时间睡眠，早睡早起。正念模式
+CATEGORIES:???
+SEQUENCE:1
+PRIORITY:2
+STATUS:NEEDS-ACTION
+END:VTODO
+BEGIN:VEVENT
+DTSTAMP:20230921T095121Z
+UID:SC-ba86f1f8-af4c-4184-a4ac-a0f35343ca0f
+DTSTART:20230723T080000
+DTEND:20230723T100000
+RRULE:FREQ=DAILY;INTERVAL=1
+SUMMARY:S: 学习达人
+DESCRIPTION:工作，进入项目中开始专注
+CATEGORIES:???
+URL:org-protocol://gdt?id=ba86f1f8-af4c-4184-a4ac-a0f35343ca0f
+END:VEVENT
+BEGIN:VTODO
+UID:TODO-ba86f1f8-af4c-4184-a4ac-a0f35343ca0f
+DTSTAMP:20230921T095121Z
+DTSTART:20230723T080000
+SUMMARY:学习达人
+DESCRIPTION:工作，进入项目中开始专注
+CATEGORIES:???
+SEQUENCE:1
+PRIORITY:2
+STATUS:NEEDS-ACTION
+END:VTODO
+BEGIN:VEVENT
+DTSTAMP:20230921T095121Z
+UID:SC-7db9a513-52f5-4f9e-a544-a8a2175e8095
+DTSTART:20230914T113000
+DTEND:20230914T133000
+RRULE:FREQ=DAILY;INTERVAL=1
+SUMMARY:S: 饭桌礼仪
+DESCRIPTION:每周一次丰盛晚餐，感受用餐环境，克服餐桌的脑子空白的，不知道吃什么，说\n什么的无知感。
+CATEGORIES:???
+URL:org-protocol://gdt?id=7db9a513-52f5-4f9e-a544-a8a2175e8095
+END:VEVENT
+BEGIN:VTODO
+UID:TODO-7db9a513-52f5-4f9e-a544-a8a2175e8095
+DTSTAMP:20230921T095121Z
+DTSTART:20230914T113000
+SUMMARY:饭桌礼仪
+DESCRIPTION:每周一次丰盛晚餐，感受用餐环境，克服餐桌的脑子空白的，不知道吃什么，说\n什么的无知感。
+CATEGORIES:???
+SEQUENCE:1
+PRIORITY:2
+STATUS:NEEDS-ACTION
+END:VTODO
+BEGIN:VEVENT
+DTSTAMP:20230921T095121Z
+UID:SC-848d9a72-0e73-43d9-bf58-f12a76c5000c
+DTSTART:20230723T190000
+DTEND:20230723T210000
+RRULE:FREQ=DAILY;INTERVAL=1
+SUMMARY:S: 社交达人
+DESCRIPTION:聊天，朋友，社交软件，聊生活和思想，看知乎参加互动，看视频发弹幕。参加\n阅读会，分享书籍。\n\n读一本书，理财，技能，传记
+ ，然后写读后感，整理知识体系
+CATEGORIES:???
+URL:org-protocol://gdt?id=848d9a72-0e73-43d9-bf58-f12a76c5000c
+END:VEVENT
+BEGIN:VTODO
+UID:TODO-848d9a72-0e73-43d9-bf58-f12a76c5000c
+DTSTAMP:20230921T095121Z
+DTSTART:20230723T190000
+SUMMARY:社交达人
+DESCRIPTION:聊天，朋友，社交软件，聊生活和思想，看知乎参加互动，看视频发弹幕。参加\n阅读会，分享书籍。\n\n读一本书，理财，技能，传记
+ ，然后写读后感，整理知识体系
+CATEGORIES:???
+SEQUENCE:1
+PRIORITY:2
+STATUS:NEEDS-ACTION
+END:VTODO
+BEGIN:VEVENT
+DTSTAMP:20230921T095121Z
+UID:SC-78cbd0aa-6f3d-4979-9cc1-1eca205b6351
+DTSTART:20230818T210000
+DTEND:20230818T230000
+RRULE:FREQ=DAILY;INTERVAL=1
+SUMMARY:S: 资产达人
+CATEGORIES:???
+URL:org-protocol://gdt?id=78cbd0aa-6f3d-4979-9cc1-1eca205b6351
+END:VEVENT
+BEGIN:VTODO
+UID:TODO-78cbd0aa-6f3d-4979-9cc1-1eca205b6351
+DTSTAMP:20230921T095121Z
+DTSTART:20230818T210000
+SUMMARY:资产达人
+CATEGORIES:???
+SEQUENCE:1
+PRIORITY:2
+STATUS:NEEDS-ACTION
+END:VTODO
+BEGIN:VEVENT
+DTSTAMP:20230921T095121Z
+UID:SC-05c60b4f-20fe-43bc-9ab1-0190b89a7133
+DTSTART:20230914T070000
+DTEND:20230914T090000
+RRULE:FREQ=DAILY;INTERVAL=1
+SUMMARY:S: 复盘达人 [0/0]
+DESCRIPTION:以终为始模式，要事第一模式每天早上起来，做计划安排，了解今天做到什么程\n度，使用agenda 优化七天计划。
+CATEGORIES:???
+URL:org-protocol://gdt?id=05c60b4f-20fe-43bc-9ab1-0190b89a7133
+END:VEVENT
+BEGIN:VTODO
+UID:TODO-05c60b4f-20fe-43bc-9ab1-0190b89a7133
+DTSTAMP:20230921T095121Z
+DTSTART:20230914T070000
+SUMMARY:复盘达人 [0/0]
+DESCRIPTION:以终为始模式，要事第一模式每天早上起来，做计划安排，了解今天做到什么程\n度，使用agenda 优化七天计划。
+CATEGORIES:???
+SEQUENCE:1
+PRIORITY:1
+STATUS:NEEDS-ACTION
+END:VTODO
+BEGIN:VEVENT
+DTSTAMP:20230921T095121Z
+UID:SC-52a16b85-5447-4de0-b045-e8ff3ac53cca
+DTSTART:20230818T060000
+DTEND:20230818T080000
+RRULE:FREQ=DAILY;INTERVAL=1
+SUMMARY:S: 健康达人 [0/0]
+DESCRIPTION:愿景：\n\n使用手表和健康app 记录身体健康状况，要做到身体和心理上的监测，在心理出\n现落差时，能及时调整状态，保持每天
+ 有一个积极主动的待人处事的态度。\n\n目标：心理状态：手表记录心理健康，在晨练中，找到每天的动力。身体状况：\n通过运动保持精神活力，在饮食上，要
+ 注意肠胃，备用肠胃药和补钾的食谱。\n\n使命宣言：
+CATEGORIES:???
+URL:org-protocol://gdt?id=52a16b85-5447-4de0-b045-e8ff3ac53cca
+END:VEVENT
+BEGIN:VTODO
+UID:TODO-52a16b85-5447-4de0-b045-e8ff3ac53cca
+DTSTAMP:20230921T095121Z
+DTSTART:20230818T060000
+SUMMARY:健康达人 [0/0]
+DESCRIPTION:愿景：\n\n使用手表和健康app 记录身体健康状况，要做到身体和心理上的监测，在心理出\n现落差时，能及时调整状态，保持每天
+ 有一个积极主动的待人处事的态度。\n\n目标：心理状态：手表记录心理健康，在晨练中，找到每天的动力。身体状况：\n通过运动保持精神活力，在饮食上，要
+ 注意肠胃，备用肠胃药和补钾的食谱。\n\n使命宣言：
+CATEGORIES:???
+SEQUENCE:1
+PRIORITY:2
+STATUS:NEEDS-ACTION
+END:VTODO
+BEGIN:VEVENT
+DTSTAMP:20230921T095121Z
+UID:SC-9781faf4-f419-4c11-a3ff-1087dc2c4fef
+DTSTART;VALUE=DATE:20230531
+DTEND;VALUE=DATE:20230601
+SUMMARY:S: 使用个人模板训练 ChatGPT 提升效能
+DESCRIPTION:模板的思考\n\n使用 cupture 采集灵感，采集之后在执行 AI 命令，实现分析选择 AI 的\nprompt 模板，例
+ 如： 翻译，总结等。学习扩展 org-ai 插件，尝试编写自己的\n方法，传入 capture 内容，直接执行 org-ai 功能。\n\n捷径相关
+ 的灵感\n\n结合 RIAI 捷径中的操作，现在支持分步分析内容，尝试提供一套模板和用户输\n入内容，组合之后，请求 AI第一种使用 claude 
+ 对话，第二种使用 ssh\nemacsclient 命令，使用 cupture 特性，和 org-ai 结合使用\n\n预期效果：发挥捷径的特点，对
+ 话模式实现不同模板，灵感来源 obsidian 中的\nQuickAdd 模板替换的文本。在对话完成之后，产出完成的 prompt ，然后发送\nC
+ laude 或调动 ssh 命令，执行 AI 操作。\n\ncupture 执行命令org-ai 扩展命令auto-gpt emacs 插件捷径支持
+  QuickAdd 模\n板，使用 ssh 命令对接 cupture ，或使用 org-ai 命令。\n\n\n• ☐ 接下来要做的就是如何丰富 p
+ rompt 的库，找到自己的常用的角色，功能。\n\n  现在通过 swift 脚本收集在 prompt.org 中，需要进一步管理，扩展几个\n 
+  角色。\n  1. emacs 开发\n  2. 项目管理\n  3. 时间管理\n  4. swift 开发\n  5. 空雨伞模板\n  6.
+  拆为己用模板\n  要针对这几个方面训练 prompt ，在网上收集内容，提取关键点，打造输入\n  自己的 prompt 模板的训练\n\n  
+ 现在有的，给出标题，让：chatgpt 给出意见\n  1. 给出内容，作总结\n  2. 给出日程安排，狱取管理建议\n  3. 给出问谈笔记，获
+ 取博各写作建议\n  4. 是否可以训练出一套模板，应用到 capture\, snippet 中。\n要多使用 AI 获取灵感能够给你很多想法建议
+ 。\n\n总结上面需要的做的工作\n• ☐ 训练 prompt 整理自己的角色，在 capture 中和 快捷中都可以使用的效果\n• ☐ 配置 o
+ rg-super-agenda 践行要事第一的原则，每天执行二象限思维
+CATEGORIES:???
+URL:org-protocol://gdt?id=
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230921T095121Z
+UID:TS1-766ba9ad-b969-4fe9-a140-caa79027e118
+DTSTART:20230921T064800
+DTEND:20230921T084800
+SUMMARY:早起的时光不错
+DESCRIPTION:<2023-09-21 周Thu 06:48>现在想通过快速笔记的方式，尝试在早上晨操的地方，\n作笔记，把口语和作笔记结合起
+ 来，一起发挥作用，使用灵感工具，搜集早上的\n灵感，就像开会时，做笔录一样，增强头脑风暴的效果。不知道这样的方式行不\n行，现在尝试在这种场景下，执
+ 行一次试一试效果。\n\n之前的的晨练口语的方式的缺点在与什么，为什么想起来和 emacs 工具结合了\n呢？在口语表达上，确实是一项值得坚持的习惯
+ ，能够通过口语表达的强势气势，\n激活心中内在的想法和灵感，比如现在非常享受的就是激活了积极主动的习惯，\n能够通过口语的快速表达的特点，不再优柔寡
+ 断了，有了更多的自信心。\n\n在每次录制之后，需要转入文本，把音频导入到电脑，再通过电脑把语音转为文\n本，在转入之后，整理几个小时的语音文本，工
+ 作量也是非常惊人的，在考虑这\n个过程需要消耗太多精力，就尝试在这个头脑风暴的过程中，借助 pad 第一时\n间记录关键点，随时整理想法，分析想法。
+ 从想法到任务的过程也是一直没有成\n功，现在可以借助早上的强势，演练这个过程。\n\n早起的感想晚上睡觉该加被子了。天气变凉了，昨天因为盖的空调被，
+ 早上冻醒\n了，肚子着凉之后，早上肠胃就难受，昨天拉肚子也是这个原因。昨天买的藿香\n正气也正好到，喝了一瓶之后，效果很好的缓解了肠胃的状况。如果有
+ 一点不健\n康就会导致身体的不舒服，就会影响早起的心情，动力。昨天加厚了被子之后，\n睡觉很香，早上醒来有一种暖意，肠胃也明显感觉舒服，有点饥肠辘辘
+ 的健康。\n也有了想早起煮玉米的欲望，有了欲望，起床的动力就大了很多，在闹钟第二次\n想起，就很块做起来，脑子中已经想好去公园晨练的准备，快速的洗漱
+ ，穿上适\n度的衣服和鞋子，简单的洗漱就可以出发了。\n\n今天出门的打算是能够在公园充分使用 pad ，温习昨天的笔记内容，这样就激\n活了在公园
+ 里尝试 emacs 工具中积累的一些很难执行的工作流，可以借助早上\n晨练的气势，推进这些工作流的执行。今天的主题可以以 emacs 中有哪些需要\
+ n掌握的工作流，应用到生活中的，可以罗列一下，借助晨练进行一次头脑风暴，\n重新定义这些工作流，梳理工作流中的难点和应用场景，为每一个场景做一次心\
+ n灵演练，写一个愿景，目标和下一步行动，并情感确认下工作流带来哪些好处，\n能够协助自己改善工作流。我现在注重的工作流有：\n1. 免打扰时间，清空
+ 大脑需要做的事情有哪些，如何放空大脑，把想法转为具\n   体可执行任务。法\n2. 使用 calibre 记录阅读笔记，搭建知识体系的工作流程，演
+ 练一下这个流程，\n   查漏补缺看还有那些需要练习，概念不明确的知识点，在通过阅读搭建知识\n   体系过程有哪些不足，在晨练中，能够重新演练自查
+ 有哪些没有注意的内容。\n3. 整理收集箱的工作流，在采集灵感之后，收集箱挤压不断增多，怎么清空收\n   集箱，找到重要的点子，永远说不，清空不重
+ 要的想法。\n4. 归档的流程，有哪些归档的方式，归档的条件都有那些：清空大脑，清空收\n   集箱，\n5. 今天在蹲坑的时候写了一首诗，心情慢慢
+ 好转，有了专注的心态。\n6. 帮周娜分析电脑登录不上的问题，讨论了一下解决登录的问题，借助知乎，\n   扩展眼界，了解一些问题真的存在，不要困在
+ 自己的认知范围内，去职责别\n   人的操作，要先从自身出发，信任她说的话，把这问题看作自己遇到的问题，\n   像对待自己问题一样来找方法，切身帮
+ 助别人。
+CATEGORIES:???
+URL:org-protocol://gdt?id=
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230921T095121Z
+UID:SC-b2d11dbd-642b-4c07-a6e5-05e9ddf0b2c1
+DTSTART:20230809T090000
+DTEND:20230809T110000
+SUMMARY:S: 撰写愿景
+DESCRIPTION:愿景和使命原则
+CATEGORIES:???
+URL:org-protocol://gdt?id=
+END:VEVENT
 END:VCALENDAR

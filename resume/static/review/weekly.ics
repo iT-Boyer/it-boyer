@@ -5,46 +5,4 @@ PRODID:-//iTBoyer//Emacs with Org mode//EN
 X-WR-TIMEZONE:CST
 X-WR-CALDESC:
 CALSCALE:GREGORIAN
-BEGIN:VTODO
-UID:TODO-d12e4e82-935a-4b59-b11d-4be51ae1e557
-DTSTAMP:20230804T012649Z
-DTSTART:20230804T092600
-SUMMARY:使用 elfeed 作为阅读器，订阅日常感兴趣的主题 [0/2]
-DESCRIPTION:如何通过 emacs 阅读最新消息，在阅读中，能够随时作笔记，收集灵感。发挥\nemacs 中创作的欲望。\n\nelfeed
-  是 RSS 工具，能够同个订阅感兴趣的内容，获取到最新社会焦点，博客\n状态，还支持 podcasts 播客，订阅商家活动等。\n\n更多感兴趣的
- 主题，可以在 RSSHub 服务中，找到自己喜欢的频道，RSSHub 支\n持搭建自己的服务，避开爬取规则。\n\n按需订阅自己感兴趣的频道，推荐活
- 跃的平台：\n\n• ☐ github 支持订阅 issues ，个人动态，主题等。\n• ☐ 订阅媒体：财经，社会动态\n• ☐ 订阅自媒体： b
- ili 话题\n• ☐ 订阅播客：\n• ☐ 订阅阅读：\n• ☐ 订阅活动：
-CATEGORIES:project,???
-SEQUENCE:1
-PRIORITY:1
-STATUS:NEEDS-ACTION
-END:VTODO
-BEGIN:VTODO
-UID:TODO-4d988c22-0141-4a9b-a912-0134ff6ab73f
-DTSTAMP:20230804T012649Z
-DTSTART:20230804T092600
-SUMMARY:按照个人角色训练 AI 模板优化工作流 [0/2]
-DESCRIPTION:主要关注的工作流有，几个专注模式：阅读，个人，工作，开发，餐饮，运动，\n游戏。\n\n个人主要包含七个习惯的养成，日常的时间
- 管理，任务进度管理，复盘等。要熟\n练应用 agenda ，capture ，做好 modd 自动化配置，搭建自己的知识体系。在\nAI 方面，和 
- Auto-GPT 集成，训练成角色分明，使命明确，关注影响圈，在自\n我领导方面，要充分挖掘 AI 潜能，作出高质量可行的行动计划。做到自我管理。\
- n\n开发，订阅要学习的开发语言，现在主要关注的是 elisp ，swift ，python 。\n写几篇入门的教程，发布几个插件库。整理 awes
- omes 库和搭建技能树。在 AI\n方面，编写自己的 gptel 插件，掌握现有的 AI 插件的用法，重构代码，代码\n注释，代码转换等，prom
- pt 。掌握 Alfred ， snippet ，chatfred 插件，掌\n握 shortcut 的开发。在这些插件的加持下，提升编程效率。\n
- \n餐饮：健康的饮食习惯，做饭，菜谱。在餐桌上的礼仪，培养个人的修养，接物\n待人的习惯。陪聊，模拟餐桌场景，问答可能遇到的问题，设定 AI 为一个
- 打火\n机，等角色。在用餐中问答即可。\n\n运动：养成坚持锻炼，在运动中可以听播客和 AI 对话。在运动中寻找灵感。运\n动中，能强身健体，能提升
- 精神状态。要挖掘的习惯：VR 运动，跑步文章，采\n风视频剪辑，轮滑教程和视频剪辑。在 AI 方面，主要是及时收集灵感，陪聊，\n反思回顾，在运动中
- ，拓宽思路。\n\n阅读：在阅读中，使用 RIA 模板，将阅读的内容拆为己用，产出知识点。在 AI\n方面，需要训练自己的模型，例如：空雨伞，RIA
-  等思维模式，写出自己的 AI\n模板。写作：按照感兴趣的主题，在 elfeed / calibre 阅读中收集的内容，投\n喂给 AI 写博客。现
- 有的 prompt 提供建议，写出博客大纲。复盘：写一个\nprompt 将一天的任务投喂给 AI ，复盘反思，调整任务。可以参考 Auto-GPT
- \nplanner 插件的用法。\n\n在上面描述几个关注的场景，如何扮演好这些场景的角色，列出原则和期望至关\n重要。在学习 Auto-gpt 的
- 提示技巧中学习到，可以将角色设置为模板，提升\nAI 回答的准确度。\n\n在养成习惯过程中，七个习惯中最重要的观念就是，以终为始，所以定义角色和\
- n指定角色职责任务，撰写自己的使命宣言，是同一个道理。\n\n结合这两个点，借助七个习惯的原则，优化 Auto-GPT 模板。在养成习惯上，有\n了
-  AI 在以终为始自我领导的环节，发挥心灵演练和自我领导的角色，协助自己\n明确影响圈，在扩大影响圈中的难题和场景推演，作出可行的目标计划任务。\n
- \n训练方法：\n• ☐ 先设定 AI 角色模板，明确角色，使命，职责。\n• ☐ 选择角色，提出周目标，制定周计划和任务。
-CATEGORIES:project,???
-SEQUENCE:1
-PRIORITY:1
-STATUS:NEEDS-ACTION
-END:VTODO
 END:VCALENDAR

@@ -15,7 +15,8 @@
 <td valign="top" width="50%">
 
 <!-- dairy starts -->
-🚩今日毕🎉🎉🎉
+ 🚩今日毕
+ - [ ] 阅读一本书的第一章
 <!-- dairy ends -->
 
 </td>
@@ -54,7 +55,7 @@
  Other items
  - [ ] 使用个人模板训练 ChatGPT 提升效能
  - [ ] 撰写愿景
- - [ ] 如何过好美好的一天，生活中有哪些不知道的阻碍
+ - [ ] 早起的时光不错
 <!-- habit ends -->
 
 </td>
