@@ -6,7 +6,7 @@ X-WR-TIMEZONE:CST
 X-WR-CALDESC:
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230928T231626Z
+DTSTAMP:20231001T095807Z
 UID:SC-20f8c335-feb0-43d0-8a08-c737ef406f6d
 DTSTART:20230927T060000
 DTEND:20230927T080000
@@ -19,8 +19,8 @@ CATEGORIES:???
 URL:org-protocol://gdt?id=20f8c335-feb0-43d0-8a08-c737ef406f6d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230928T231626Z
-UID:SC-21b64597-f605-4d50-92a9-2e2a61a85d2a
+DTSTAMP:20231001T095807Z
+UID:SC-ba53f959-2fd2-40ee-868a-451c6cd51ebd
 DTSTART;VALUE=DATE:20230531
 DTEND;VALUE=DATE:20230601
 SUMMARY:S: 使用个人模板训练 ChatGPT 提升效能
@@ -38,6 +38,17 @@ DESCRIPTION:模板的思考\n\n使用 cupture 采集灵感，采集之后在执�
  取博各写作建议\n  4. 是否可以训练出一套模板，应用到 capture\, snippet 中。\n要多使用 AI 获取灵感能够给你很多想法建议
  。\n\n总结上面需要的做的工作\n• ☐ 训练 prompt 整理自己的角色，在 capture 中和 快捷中都可以使用的效果\n• ☐ 配置 o
  rg-super-agenda 践行要事第一的原则，每天执行二象限思维
+CATEGORIES:???
+URL:org-protocol://gdt?id=
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231001T095807Z
+UID:TS1-77b38a25-2c23-47e3-ba8c-136284ee5209
+DTSTART:20231001T072000
+DTEND:20231001T092000
+SUMMARY:国庆节激活社交达人，发现资源渠道，扩大影响圈
+DESCRIPTION:<2023-10-01 周Sun 07:20>普天同庆的节日，该怎么祝福安康得到更多的同理心\n和认同，价值观的认同\n\n有
+ 哪些资源渠道，扩大影响圈
 CATEGORIES:???
 URL:org-protocol://gdt?id=
 END:VEVENT
