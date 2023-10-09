@@ -60,14 +60,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 October 2023 - To: 08 October 2023
+From: 02 October 2023 - To: 09 October 2023
 
-Total Time: 6 hrs 34 mins
+Total Time: 12 hrs 14 mins
 
-Org     3 hrs 37 mins   █████████████▓░░░░░░░░░░░   55.07 %
-Other   2 hrs 56 mins   ███████████▒░░░░░░░░░░░░░   44.76 %
-Swift   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-Git     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Other         6 hrs 33 mins   █████████████▒░░░░░░░░░░░   53.66 %
+Org           5 hrs 32 mins   ███████████▒░░░░░░░░░░░░░   45.27 %
+Git           4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+Image (png)   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+Emacs Lisp    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
