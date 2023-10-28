@@ -60,15 +60,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 October 2023 - To: 27 October 2023
+From: 21 October 2023 - To: 28 October 2023
 
-Total Time: 5 hrs 8 mins
+Total Time: 4 hrs 36 mins
 
-Other            3 hrs 14 mins   ███████████████▓░░░░░░░░░   63.10 %
-Org              1 hr 13 mins    ██████░░░░░░░░░░░░░░░░░░░   23.93 %
-Python           12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
-ca65 assembler   8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
-Bash             4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+Org              2 hrs 42 mins   ██████████████▓░░░░░░░░░░   58.74 %
+Other            1 hr 36 mins    ████████▓░░░░░░░░░░░░░░░░   34.81 %
+ca65 assembler   8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
+Markdown         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+Lua              2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
 ```
 
 <!--END_SECTION:waka-->
