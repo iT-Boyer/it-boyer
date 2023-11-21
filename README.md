@@ -64,11 +64,7 @@ From: 13 November 2023 - To: 20 November 2023
 
 Total Time: 37 hrs 58 mins
 
-Emacs Lisp   10 hrs 1 min    ██████▓░░░░░░░░░░░░░░░░░░   26.41 %
-Markdown     9 hrs 1 min     ██████░░░░░░░░░░░░░░░░░░░   23.78 %
-Org          8 hrs 55 mins   ██████░░░░░░░░░░░░░░░░░░░   23.50 %
-Other        8 hrs 42 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.94 %
-YAML         29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
