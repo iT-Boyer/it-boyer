@@ -43,11 +43,11 @@
 <!-- habit starts -->
  🚀充电中
  - [ ] 头脑风暴：演练角色，fc 记录熟练度 [2/3]
- - [ ] 我的七天生活
+ - [ ] 四级：影响圈（可控制的）
 
  Other items
- - [ ] 使用个人模板训练 ChatGPT 提升效能
- - [ ] 国庆节激活社交达人，发现资源渠道，扩大影响圈
+ - [ ] 爆款短视频学习:@项目总结:
+ - [ ] kjkkk
 <!-- habit ends -->
 
 </td>
@@ -76,15 +76,15 @@ Emacs Lisp   7 mins          ▓░░░░░░░░░░░░░░░░
 #### 🤾‍♂️ <a href="https://it-boyer-github.io" target="_blank">动态</a>
 
 <!-- blog starts -->
-[通过 emms 定制 mpv 播放器的案例](http://it-boyer.github.io/post/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/emms%E9%85%8D%E7%BD%AE%E4%B8%80%E4%B8%AAmpv%E7%9A%84%E6%A1%88%E4%BE%8B/)   
-[编辑音频标签和文件名称](http://it-boyer.github.io/post/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E7%BC%96%E8%BE%91%E9%9F%B3%E9%A2%91%E6%96%87%E4%BB%B6%E5%85%83%E6%95%B0%E6%8D%AE/)   
-[使用EMMS管理多媒体播放列表](http://it-boyer.github.io/post/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/emms%E7%AE%A1%E7%90%86%E6%92%AD%E6%94%BE%E5%88%97%E8%A1%A8/)   
-[配置emmsFM平台和个人音频流媒体](http://it-boyer.github.io/post/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E9%85%8D%E7%BD%AEemmsFM%E5%B9%B3%E5%8F%B0%E5%92%8C%E4%B8%AA%E4%BA%BA%E9%9F%B3%E9%A2%91%E6%B5%81%E5%AA%92%E4%BD%93/)   
-[在emacs中如何配置emms新播放器](http://it-boyer.github.io/post/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/emms%E9%85%8D%E7%BD%AE%E6%96%B0%E6%92%AD%E6%94%BE%E5%99%A8/)   
-[设置音频播放状态在modeline上的展示样式](http://it-boyer.github.io/post/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E8%AE%BE%E7%BD%AEmodeline%E6%92%AD%E6%94%BE%E7%8A%B6%E6%80%81/)   
-[QuickAdd 插件实现 ObsidianAI 工作流助手](http://it-boyer.github.io/post/%E6%97%A5%E5%BF%97%E9%9A%8F%E7%AC%94/ObsidianAI%E5%B7%A5%E4%BD%9C%E6%B5%81%E5%AE%9E%E7%8E%B0%E5%8A%A9%E6%89%8B/)   
-[org-roam新手入门](http://it-boyer.github.io/post/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/roam/org-roam%E6%96%B0%E6%89%8B%E5%85%A5%E9%97%A8/)   
-[org-roam文档翻译](http://it-boyer.github.io/post/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/roam/org-roam%E6%96%87%E6%A1%A3%E7%BF%BB%E8%AF%91/)   
-[在 osx 终端如何移动大文件？](http://it-boyer.github.io/post/%E6%97%A5%E5%BF%97%E9%9A%8F%E7%AC%94/%E5%A6%82%E4%BD%95%E5%9C%A8osx%E6%8B%B7%E8%B4%9D%E5%A4%A7%E6%96%87%E4%BB%B6/)   
+[重新定义知识库：临场发挥，不要局限于经验，要善用AI大数据](http://it-boyer.github.io/post/%E6%97%A5%E5%BF%97%E9%9A%8F%E7%AC%94/%E9%87%8D%E6%96%B0%E5%AE%9A%E4%B9%89%E7%9F%A5%E8%AF%86%E5%BA%93/)   
+[爆款视频的底层逻辑](http://it-boyer.github.io/post/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E7%9F%AD%E8%A7%86%E9%A2%91%E7%9A%84%E5%BA%95%E5%B1%82%E9%80%BB%E8%BE%91/)   
+[怎么持续产出高质量的短视频?](http://it-boyer.github.io/post/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E6%8C%81%E7%BB%AD%E4%BA%A7%E5%87%BA%E9%AB%98%E8%B4%A8%E9%87%8F%E7%9A%84%E7%9F%AD%E8%A7%86%E9%A2%91/)   
+[拍短视频可以给我们带来什么?](http://it-boyer.github.io/post/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E6%8B%8D%E7%9F%AD%E8%A7%86%E9%A2%91%E7%9A%84%E5%A5%BD%E5%A4%84/)   
+[老年迪斯科慢动作口令](http://it-boyer.github.io/post/%E6%97%A5%E5%BF%97%E9%9A%8F%E7%AC%94/%E8%BF%AA%E6%96%AF%E7%A7%91%E8%88%9E%E6%AD%A5/)   
+[重新定义晨练：开篇诗以角色为主题，激活心灵演练设计愿景](http://it-boyer.github.io/post/%E6%97%A5%E5%BF%97%E9%9A%8F%E7%AC%94/%E9%87%8D%E6%96%B0%E5%AE%9A%E4%B9%89%E6%99%A8%E7%BB%83/)   
+[截止时间](http://it-boyer.github.io/post/%E6%97%A5%E5%BF%97%E9%9A%8F%E7%AC%94/%E6%88%AA%E6%AD%A2%E6%97%B6%E9%97%B4/)   
+[水上舞台](http://it-boyer.github.io/post/%E6%97%A5%E5%BF%97%E9%9A%8F%E7%AC%94/%E6%B0%B4%E4%B8%8A%E8%88%9E%E5%8F%B0/)   
+[演练人生](http://it-boyer.github.io/post/%E6%97%A5%E5%BF%97%E9%9A%8F%E7%AC%94/%E6%BC%94%E7%BB%83%E4%BA%BA%E7%94%9F/)   
+[秋风凉](http://it-boyer.github.io/post/%E6%97%A5%E5%BF%97%E9%9A%8F%E7%AC%94/%E7%A7%8B%E9%A3%8E%E5%87%89/)   
 
 <!-- blog ends -->
