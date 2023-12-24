@@ -60,15 +60,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 December 2023 - To: 23 December 2023
+From: 17 December 2023 - To: 24 December 2023
 
-Total Time: 5 hrs 42 mins
+Total Time: 7 hrs 49 mins
 
-Org          4 hrs 16 mins   ██████████████████▓░░░░░░   74.94 %
-Swift        36 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.60 %
-Other        23 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
-Markdown     11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
-Emacs Lisp   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+Org          4 hrs 43 mins   ███████████████░░░░░░░░░░   60.36 %
+Other        2 hrs 12 mins   ███████░░░░░░░░░░░░░░░░░░   28.24 %
+Swift        17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
+Markdown     16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
+Emacs Lisp   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
 ```
 
 <!--END_SECTION:waka-->
