@@ -60,15 +60,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 December 2023 - To: 31 December 2023
+From: 25 December 2023 - To: 01 January 2024
 
-Total Time: 21 hrs 19 mins
+Total Time: 25 hrs 26 mins
 
-Other        11 hrs 49 mins  ██████████████░░░░░░░░░░░   55.46 %
-Org          4 hrs 21 mins   █████░░░░░░░░░░░░░░░░░░░░   20.42 %
-Emacs Lisp   3 hrs 37 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.00 %
-Bash         45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
-Git          16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+Other        14 hrs 25 mins  ██████████████▒░░░░░░░░░░   56.74 %
+Org          4 hrs 17 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.90 %
+Emacs Lisp   3 hrs 49 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.04 %
+Bash         1 hr 40 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
+SSH Config   22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
 ```
 
 <!--END_SECTION:waka-->
