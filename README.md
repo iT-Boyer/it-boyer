@@ -60,15 +60,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 December 2023 - To: 07 January 2024
+From: 01 January 2024 - To: 08 January 2024
 
-Total Time: 28 hrs 32 mins
+Total Time: 26 hrs 24 mins
 
-Other              15 hrs 26 mins  █████████████▓░░░░░░░░░░░   54.08 %
-Emacs Lisp         4 hrs 39 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.31 %
-Org                3 hrs 11 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.19 %
-YAML               1 hr 23 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
-Bash               1 hr 21 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
+Other              14 hrs          █████████████▒░░░░░░░░░░░   53.07 %
+Emacs Lisp         4 hrs 34 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.31 %
+Org                3 hrs 36 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.64 %
+YAML               1 hr 23 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
+Lua                55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
 ```
 
 <!--END_SECTION:waka-->
