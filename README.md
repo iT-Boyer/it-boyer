@@ -60,15 +60,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 January 2024 - To: 12 January 2024
+From: 06 January 2024 - To: 13 January 2024
 
-Total Time: 16 hrs 14 mins
+Total Time: 11 hrs 30 mins
 
-Emacs Lisp   7 hrs 22 mins   ███████████▒░░░░░░░░░░░░░   45.42 %
-Other        6 hrs 40 mins   ██████████▒░░░░░░░░░░░░░░   41.14 %
-Org          1 hr 22 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 %
-Git          23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
-Swift        15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+Emacs Lisp   7 hrs 19 mins   ████████████████░░░░░░░░░   63.64 %
+Other        2 hrs 10 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.93 %
+Org          1 hr 11 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.39 %
+Git          23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
+Swift        15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
 ```
 
 <!--END_SECTION:waka-->
