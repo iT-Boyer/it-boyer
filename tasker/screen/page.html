@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="autotoolsfunctions.js"></script>
+    <link rel="stylesheet" type="text/css" href="autotoolsstyle.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta name="autotoolswebscreen" type="variablejs" id="pageTitle" label="Page Title" description="Title to display on the page" defaultValue="Super Title!" />
+    <meta name="autotoolswebscreen" type="variablejs" id="title" label="Titles" description="A list of comma seperated titles" defaultValue="Title 1,Title 2,Title 3"/>
+    <meta name="autotoolswebscreen" type="variablejs" id="text" label="Texts" description="A list of comma seperated texts" defaultValue="text 1,text 2,text 3"/>
+    <meta name="autotoolswebscreen" type="variablejs" id="checked" label="Checked" description="A list of comma seperated true or false values" defaultValue="true,false,true"/>
+</head>
+    <body>
+        <h2>Placeholder Title</h2>
+        <div id="items"></div>
+        <div class="item">
+            <h3 class="title">Sample Title</h3>
+            <input type="checkbox" class="checked"></input>
+            <div class="text">Sample Text</div>
+        </div>
+    </body>
+    <script type="text/javascript">
+     var pageTitle = "Super Title!";
+     var titleElement = document.querySelector("h2");
+     if(AutoTools.isSet("pageTitle")){
+         titleElement.innerText = pageTitle;
+     }else{
+         AutoTools.hide(titleElement);
+     }
+     AutoTools.setDefaultValues({
+         "title":"Title 1,Title 2,Title 3",
+         "text":"text 1,text 2,text 3",
+         "checked":"true,false,true",
+     });
+     AutoTools.variablesToElements(["title", "text", "checked"], "items","item",{
+         "onclick":item=>{
+             if(!item){
+                 return;
+             }
+             console.log(item);
+             AutoTools.sendCommand(item.text);
+             AutoTools.say(item.text);
+             AutoTools.hapticFeedback();
+         },
+         "events":[{
+             "name":"change",
+             "query":".checked",
+             "handler":element=>console.log(element.checked)
+         }],
+         "item": item => {
+             if(item.title.value.indexOf("1")>=0){
+                 item.title.element.innerText+=" This is the first!!";
+             }
+         }
+     });
+    </script>
+</html>
