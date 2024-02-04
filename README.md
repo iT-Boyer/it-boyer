@@ -60,13 +60,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 January 2024 - To: 03 February 2024
+From: 28 January 2024 - To: 04 February 2024
 
-Total Time: 3 hrs 42 mins
+Total Time: 9 hrs 1 min
 
-Org     3 hrs 41 mins   ████████████████████████▓   99.28 %
-Git     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+Org        8 hrs 55 mins   ████████████████████████▓   98.82 %
+Markdown   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+Git        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
