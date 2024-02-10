@@ -60,12 +60,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 February 2024 - To: 09 February 2024
+From: 03 February 2024 - To: 10 February 2024
 
-Total Time: 8 hrs 49 mins
+Total Time: 6 hrs 32 mins
 
-Org        8 hrs 45 mins   ████████████████████████▓   99.10 %
-Markdown   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+Org        6 hrs 27 mins   ████████████████████████▓   98.79 %
+Markdown   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
 ```
 
 <!--END_SECTION:waka-->
