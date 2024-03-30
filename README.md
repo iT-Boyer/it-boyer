@@ -60,11 +60,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 March 2024 - To: 29 March 2024
+From: 23 March 2024 - To: 30 March 2024
 
-Total Time: 1 hr 42 mins
+Total Time: 2 hrs 40 mins
 
-Other   1 hr 42 mins    █████████████████████████   100.00 %
+Other   1 hr 42 mins    ████████████████░░░░░░░░░   63.73 %
+Org     58 mins         █████████░░░░░░░░░░░░░░░░   36.27 %
 ```
 
 <!--END_SECTION:waka-->
