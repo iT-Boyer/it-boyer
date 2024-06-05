@@ -60,12 +60,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 May 2024 - To: 04 June 2024
+From: 29 May 2024 - To: 05 June 2024
 
-Total Time: 2 hrs 41 mins
+Total Time: 3 hrs 17 mins
 
-Other      2 hrs 38 mins   ████████████████████████▒   97.94 %
-Markdown   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
+Other      3 hrs 14 mins   ████████████████████████▓   98.31 %
+Markdown   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
 ```
 
 <!--END_SECTION:waka-->
