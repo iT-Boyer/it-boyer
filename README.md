@@ -60,12 +60,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 June 2024 - To: 08 June 2024
+From: 02 June 2024 - To: 09 June 2024
 
-Total Time: 5 hrs 32 mins
+Total Time: 5 hrs 24 mins
 
-Other      5 hrs 28 mins   ████████████████████████▓   98.99 %
-Markdown   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+Other   5 hrs 24 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
