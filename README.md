@@ -60,12 +60,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 July 2024 - To: 09 July 2024
+From: 03 July 2024 - To: 10 July 2024
 
-Total Time: 2 hrs 28 mins
+Total Time: 3 hrs 16 mins
 
-Other        2 hrs 18 mins   ███████████████████████▒░   93.07 %
-Emacs Lisp   10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 %
+Other        2 hrs 54 mins   ██████████████████████░░░   88.57 %
+Emacs Lisp   19 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.72 %
+Org          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
 ```
 
 <!--END_SECTION:waka-->
