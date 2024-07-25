@@ -60,15 +60,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 July 2024 - To: 24 July 2024
+From: 18 July 2024 - To: 25 July 2024
 
-Total Time: 8 hrs
+Total Time: 6 hrs 51 mins
 
-Other          5 hrs 45 mins   ██████████████████░░░░░░░   71.84 %
-Org            1 hr 3 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.16 %
-HTTP Request   52 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.91 %
-Swift          15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
-Makefile       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+Other          4 hrs 35 mins   ████████████████▓░░░░░░░░   66.95 %
+Org            1 hr 3 mins     ████░░░░░░░░░░░░░░░░░░░░░   15.52 %
+HTTP Request   52 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.75 %
+Swift          15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
+Makefile       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
 ```
 
 <!--END_SECTION:waka-->
