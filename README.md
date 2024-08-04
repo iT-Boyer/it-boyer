@@ -60,15 +60,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 July 2024 - To: 03 August 2024
+From: 28 July 2024 - To: 04 August 2024
 
-Total Time: 10 hrs 34 mins
+Total Time: 6 hrs 57 mins
 
-Other          9 hrs 15 mins   ██████████████████████░░░   87.67 %
-Org            27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
-Emacs Lisp     20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
-Markdown       12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
-Swift          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+Other        6 hrs 18 mins   ██████████████████████▓░░   90.74 %
+Org          27 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.62 %
+Swift        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
+Emacs Lisp   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+Git          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 ```
 
 <!--END_SECTION:waka-->
