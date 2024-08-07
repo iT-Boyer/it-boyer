@@ -60,12 +60,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 July 2024 - To: 06 August 2024
+From: 31 July 2024 - To: 07 August 2024
 
-Total Time: 6 hrs 43 mins
+Total Time: 6 hrs 47 mins
 
-Other        5 hrs 58 mins   ██████████████████████▒░░   88.84 %
-Org          39 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.71 %
+Other        5 hrs 55 mins   █████████████████████▓░░░   87.25 %
+Org          46 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.32 %
 Emacs Lisp   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
 Swift        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 Git          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
