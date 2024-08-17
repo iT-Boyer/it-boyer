@@ -60,12 +60,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 August 2024 - To: 16 August 2024
+From: 10 August 2024 - To: 17 August 2024
 
-Total Time: 7 hrs 40 mins
+Total Time: 7 hrs 33 mins
 
-Other   7 hrs 18 mins   ████████████████████████░   95.34 %
-Org     21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
+Other   7 hrs 11 mins   ███████████████████████▓░   95.27 %
+Org     21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
 Git     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
