@@ -60,12 +60,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 August 2024 - To: 19 August 2024
+From: 13 August 2024 - To: 20 August 2024
 
-Total Time: 6 hrs 40 mins
+Total Time: 5 hrs 49 mins
 
-Other   6 hrs 35 mins   ████████████████████████▓   98.70 %
-Org     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
+Other   5 hrs 44 mins   ████████████████████████▓   98.51 %
+Org     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
 ```
 
 <!--END_SECTION:waka-->
