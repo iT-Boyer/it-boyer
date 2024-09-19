@@ -60,14 +60,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 September 2024 - To: 18 September 2024
+From: 12 September 2024 - To: 19 September 2024
 
-Total Time: 6 hrs 14 mins
+Total Time: 4 hrs 6 mins
 
-Other      5 hrs 45 mins   ███████████████████████░░   92.23 %
-Markdown   20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
-Org        7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
-Swift      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Other        3 hrs 31 mins   █████████████████████▒░░░   85.93 %
+Markdown     21 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.93 %
+Org          9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
+Emacs Lisp   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+Swift        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
