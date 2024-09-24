@@ -60,15 +60,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 September 2024 - To: 23 September 2024
+From: 17 September 2024 - To: 24 September 2024
 
-Total Time: 7 hrs 16 mins
+Total Time: 10 hrs 17 mins
 
-Other        4 hrs 27 mins   ███████████████▒░░░░░░░░░   61.31 %
-Org          1 hr 31 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.85 %
-Emacs Lisp   56 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.99 %
-D            9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
-SSH Config   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+Other        6 hrs 29 mins   ███████████████▓░░░░░░░░░   63.16 %
+Org          2 hrs 23 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.32 %
+Emacs Lisp   56 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.20 %
+D            9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+Bash         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
 ```
 
 <!--END_SECTION:waka-->
