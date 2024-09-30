@@ -60,15 +60,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 September 2024 - To: 29 September 2024
+From: 23 September 2024 - To: 30 September 2024
 
-Total Time: 11 hrs 50 mins
+Total Time: 9 hrs 6 mins
 
-Other         4 hrs 59 mins   ██████████▓░░░░░░░░░░░░░░   42.21 %
-Swift         2 hrs 20 mins   █████░░░░░░░░░░░░░░░░░░░░   19.75 %
-Org           1 hr 45 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.93 %
-Objective-C   1 hr 35 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.48 %
-C++           22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
+Other         3 hrs 33 mins   █████████▓░░░░░░░░░░░░░░░   39.05 %
+Swift         2 hrs 20 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.69 %
+Objective-C   1 hr 35 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.53 %
+Org           52 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.68 %
+C++           22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
 ```
 
 <!--END_SECTION:waka-->
