@@ -60,15 +60,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 October 2024 - To: 24 October 2024
+From: 18 October 2024 - To: 25 October 2024
 
-Total Time: 5 hrs 10 mins
+Total Time: 6 hrs 2 mins
 
-Other         4 hrs 16 mins   ████████████████████▓░░░░   82.44 %
-Objective-C   27 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.80 %
-D             12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
-Emacs Lisp    4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
-Swift         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+Other         5 hrs 2 mins    █████████████████████░░░░   83.48 %
+Objective-C   27 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 %
+D             12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
+INI           6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+Emacs Lisp    4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
 ```
 
 <!--END_SECTION:waka-->
