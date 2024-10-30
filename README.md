@@ -60,15 +60,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 October 2024 - To: 29 October 2024
+From: 23 October 2024 - To: 30 October 2024
 
-Total Time: 8 hrs 7 mins
+Total Time: 6 hrs 9 mins
 
-Other         6 hrs 37 mins   ████████████████████▒░░░░   81.60 %
-Objective-C   45 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.33 %
-INI           14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
-D             12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
-Org           6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+Other         5 hrs 8 mins    █████████████████████░░░░   83.48 %
+Objective-C   31 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 %
+INI           14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
+D             11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
+Org           3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
 ```
 
 <!--END_SECTION:waka-->
