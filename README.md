@@ -60,15 +60,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 October 2024 - To: 01 November 2024
+From: 26 October 2024 - To: 02 November 2024
 
-Total Time: 2 hrs 51 mins
+Total Time: 46 mins
 
-Other         2 hrs 5 mins    ██████████████████▒░░░░░░   73.26 %
-Objective-C   31 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.19 %
-INI           8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
-Org           5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
-Bash          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Other        38 mins         ████████████████████▓░░░░   83.11 %
+Org          7 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.36 %
+SSH Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
 ```
 
 <!--END_SECTION:waka-->
