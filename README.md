@@ -60,13 +60,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 November 2024 - To: 16 November 2024
+From: 10 November 2024 - To: 17 November 2024
 
-Total Time: 6 hrs 29 mins
+Total Time: 6 hrs 23 mins
 
-Other   4 hrs 57 mins   ███████████████████░░░░░░   76.33 %
-C#      51 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.30 %
-Org     40 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.37 %
+Other   4 hrs 53 mins   ███████████████████▒░░░░░   76.72 %
+C#      51 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.52 %
+Org     37 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.76 %
 ```
 
 <!--END_SECTION:waka-->
