@@ -60,15 +60,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 November 2024 - To: 25 November 2024
+From: 19 November 2024 - To: 26 November 2024
 
-Total Time: 5 hrs 56 mins
+Total Time: 5 hrs 50 mins
 
-Other        4 hrs 26 mins   ██████████████████▓░░░░░░   74.84 %
-Emacs Lisp   1 hr 21 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.85 %
-Org          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
-C#           3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
-SSH Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Other        3 hrs 53 mins   ████████████████▓░░░░░░░░   66.75 %
+Emacs Lisp   1 hr 32 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.57 %
+Org          20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.94 %
+Markdown     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
 ```
 
 <!--END_SECTION:waka-->
