@@ -60,15 +60,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 November 2024 - To: 04 December 2024
+From: 28 November 2024 - To: 05 December 2024
 
-Total Time: 10 hrs 41 mins
+Total Time: 9 hrs 34 mins
 
-Other        7 hrs 7 mins    ████████████████▓░░░░░░░░   66.68 %
-Emacs Lisp   1 hr 32 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.44 %
-Org          1 hr 8 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.70 %
-Bash         38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
-Markdown     13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
+Other        6 hrs 48 mins   █████████████████▓░░░░░░░   71.10 %
+Org          1 hr 13 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.84 %
+Emacs Lisp   39 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 %
+Bash         38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.71 %
+Markdown     13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
 ```
 
 <!--END_SECTION:waka-->
