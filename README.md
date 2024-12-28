@@ -60,15 +60,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 December 2024 - To: 27 December 2024
+From: 21 December 2024 - To: 28 December 2024
 
-Total Time: 60 hrs 41 mins
+Total Time: 55 hrs 2 mins
 
-Other              38 hrs 17 mins  ███████████████▓░░░░░░░░░   63.10 %
-Emacs Lisp         4 hrs 26 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.33 %
-Python             4 hrs 19 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.13 %
-Markdown           3 hrs 15 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
-Bash               2 hrs 45 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
+Other              34 hrs 22 mins  ███████████████▓░░░░░░░░░   62.46 %
+Python             5 hrs 20 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.71 %
+Emacs Lisp         3 hrs 35 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 %
+Markdown           2 hrs 54 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
+Bash               2 hrs 4 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
 ```
 
 <!--END_SECTION:waka-->
