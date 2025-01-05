@@ -60,15 +60,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 December 2024 - To: 04 January 2025
+From: 29 December 2024 - To: 05 January 2025
 
-Total Time: 11 hrs 52 mins
+Total Time: 10 hrs 58 mins
 
-Other              6 hrs 31 mins   █████████████▓░░░░░░░░░░░   54.99 %
-Rich Text Format   3 hrs 58 mins   ████████▒░░░░░░░░░░░░░░░░   33.53 %
-Markdown           1 hr 7 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.49 %
-Org                11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
-TOML               2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+Other              6 hrs 13 mins   ██████████████▒░░░░░░░░░░   56.70 %
+Rich Text Format   3 hrs 59 mins   █████████░░░░░░░░░░░░░░░░   36.34 %
+Markdown           34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 %
+Org                11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
 ```
 
 <!--END_SECTION:waka-->
