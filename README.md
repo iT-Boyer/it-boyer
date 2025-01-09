@@ -60,15 +60,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 January 2025 - To: 08 January 2025
+From: 02 January 2025 - To: 09 January 2025
 
-Total Time: 14 hrs 26 mins
+Total Time: 16 hrs 52 mins
 
-Other              9 hrs 47 mins   █████████████████░░░░░░░░   67.84 %
-Rich Text Format   3 hrs 24 mins   ██████░░░░░░░░░░░░░░░░░░░   23.58 %
-Groff              34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
-Org                34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
-Swift              4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+Other              11 hrs 30 mins  █████████████████░░░░░░░░   68.20 %
+Rich Text Format   2 hrs 41 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.99 %
+Org                1 hr 41 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.04 %
+Groff              53 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
+Swift              4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
 ```
 
 <!--END_SECTION:waka-->
