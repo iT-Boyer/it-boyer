@@ -60,12 +60,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 January 2025 - To: 19 January 2025
+From: 13 January 2025 - To: 20 January 2025
 
-Total Time: 5 hrs 11 mins
+Total Time: 3 hrs 43 mins
 
-Other   3 hrs 34 mins   █████████████████▒░░░░░░░   68.89 %
-Org     1 hr 36 mins    ███████▓░░░░░░░░░░░░░░░░░   31.11 %
+Other   2 hrs 40 mins   ██████████████████░░░░░░░   71.48 %
+Org     1 hr 3 mins     ███████░░░░░░░░░░░░░░░░░░   28.52 %
 ```
 
 <!--END_SECTION:waka-->
