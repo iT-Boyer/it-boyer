@@ -60,15 +60,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 February 2025 - To: 12 February 2025
+From: 06 February 2025 - To: 13 February 2025
 
-Total Time: 27 hrs 50 mins
+Total Time: 28 hrs 47 mins
 
-Other        13 hrs 33 mins  ████████████▒░░░░░░░░░░░░   48.68 %
-Org          5 hrs 2 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.11 %
-Markdown     4 hrs 28 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.08 %
-Emacs Lisp   3 hrs 51 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.89 %
-JSON         50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
+Other        10 hrs 55 mins  █████████▒░░░░░░░░░░░░░░░   37.92 %
+Org          8 hrs 34 mins   ███████▒░░░░░░░░░░░░░░░░░   29.78 %
+Emacs Lisp   4 hrs 34 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.89 %
+Markdown     3 hrs 48 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.25 %
+JSON         50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
 ```
 
 <!--END_SECTION:waka-->
