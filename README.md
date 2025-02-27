@@ -60,15 +60,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 February 2025 - To: 26 February 2025
+From: 20 February 2025 - To: 27 February 2025
 
-Total Time: 18 hrs 50 mins
+Total Time: 20 hrs 58 mins
 
-Other        14 hrs 45 mins  ███████████████████▓░░░░░   78.36 %
-Org          3 hrs 28 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.41 %
-Markdown     32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
-YAML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-Text         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Other        15 hrs 42 mins  ██████████████████▓░░░░░░   74.87 %
+Org          4 hrs 39 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.24 %
+Markdown     32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+YAML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Text         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
