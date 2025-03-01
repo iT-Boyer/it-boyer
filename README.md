@@ -60,15 +60,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 February 2025 - To: 28 February 2025
+From: 22 February 2025 - To: 01 March 2025
 
-Total Time: 17 hrs 59 mins
+Total Time: 20 hrs 23 mins
 
-Other        14 hrs 11 mins  ███████████████████▓░░░░░   78.94 %
-Org          3 hrs 44 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.77 %
-YAML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
-Text         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-Emacs Lisp   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Other   14 hrs 21 mins  █████████████████▓░░░░░░░   70.40 %
+Org     6 hrs 2 mins    ███████▒░░░░░░░░░░░░░░░░░   29.60 %
 ```
 
 <!--END_SECTION:waka-->
