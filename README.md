@@ -60,15 +60,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 March 2025 - To: 17 March 2025
+From: 11 March 2025 - To: 18 March 2025
 
-Total Time: 45 hrs 36 mins
+Total Time: 51 hrs 48 mins
 
-Other        26 hrs 49 mins  ██████████████▓░░░░░░░░░░   58.82 %
-Emacs Lisp   7 hrs 58 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.47 %
-Org          5 hrs 17 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.61 %
-TOML         2 hrs 4 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
-Git          1 hr 1 min      ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+Other        29 hrs 6 mins   ██████████████░░░░░░░░░░░   56.20 %
+Emacs Lisp   11 hrs 26 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.09 %
+Org          7 hrs 16 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.05 %
+TOML         1 hr 5 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
+Git          1 hr 1 min      ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
 ```
 
 <!--END_SECTION:waka-->
