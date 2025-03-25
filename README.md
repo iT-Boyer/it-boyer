@@ -60,15 +60,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 March 2025 - To: 24 March 2025
+From: 18 March 2025 - To: 25 March 2025
 
-Total Time: 42 hrs 40 mins
+Total Time: 39 hrs 27 mins
 
-Other              25 hrs 29 mins  ███████████████░░░░░░░░░░   59.71 %
-Org                7 hrs 50 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.35 %
-Emacs Lisp         5 hrs 37 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.16 %
-TypeScript         1 hr 15 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
-PHP                57 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
+Other              25 hrs 9 mins   ████████████████░░░░░░░░░   63.74 %
+Org                6 hrs 27 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.37 %
+Emacs Lisp         2 hrs 9 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
+Markdown           1 hr 41 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
+TypeScript         1 hr 29 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
 ```
 
 <!--END_SECTION:waka-->
