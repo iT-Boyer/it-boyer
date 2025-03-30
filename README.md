@@ -60,15 +60,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 March 2025 - To: 29 March 2025
+From: 23 March 2025 - To: 30 March 2025
 
-Total Time: 35 hrs 8 mins
+Total Time: 34 hrs 7 mins
 
-Other        22 hrs 40 mins  ████████████████░░░░░░░░░   64.53 %
-Python       4 hrs 16 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.15 %
-Go           2 hrs 58 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 %
-Markdown     1 hr 40 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
-HTML         1 hr 23 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
+Other        21 hrs 9 mins   ███████████████▓░░░░░░░░░   62.02 %
+Python       4 hrs 16 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.51 %
+Go           3 hrs 26 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.08 %
+Markdown     1 hr 46 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
+HTML         1 hr 23 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
 ```
 
 <!--END_SECTION:waka-->
