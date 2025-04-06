@@ -60,15 +60,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 March 2025 - To: 05 April 2025
+From: 30 March 2025 - To: 06 April 2025
 
-Total Time: 22 hrs 36 mins
+Total Time: 21 hrs 15 mins
 
-Other        14 hrs 38 mins  ████████████████▒░░░░░░░░   64.78 %
-HTML         5 hrs           █████▓░░░░░░░░░░░░░░░░░░░   22.18 %
-Emacs Lisp   1 hr 9 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
-Org          1 hr 6 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
-Go           28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
+Other        14 hrs 20 mins  █████████████████░░░░░░░░   67.46 %
+HTML         5 hrs           ██████░░░░░░░░░░░░░░░░░░░   23.59 %
+Emacs Lisp   1 hr 9 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
+Org          41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
+INI          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
