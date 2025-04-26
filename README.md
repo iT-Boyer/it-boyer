@@ -60,12 +60,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 April 2025 - To: 25 April 2025
+From: 19 April 2025 - To: 26 April 2025
 
-Total Time: 2 hrs 33 mins
+Total Time: 3 hrs
 
-Other         2 hrs 11 mins   █████████████████████▒░░░   85.61 %
-Image (svg)   22 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.39 %
+Other         2 hrs 25 mins   ████████████████████░░░░░   80.53 %
+Image (svg)   35 mins         █████░░░░░░░░░░░░░░░░░░░░   19.47 %
 ```
 
 <!--END_SECTION:waka-->
