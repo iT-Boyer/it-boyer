@@ -60,13 +60,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 April 2025 - To: 03 May 2025
+From: 27 April 2025 - To: 04 May 2025
 
-Total Time: 6 hrs 23 mins
+Total Time: 6 hrs 4 mins
 
-Other         3 hrs 29 mins   █████████████▓░░░░░░░░░░░   54.54 %
-Org           1 hr 35 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.76 %
-Image (svg)   1 hr 19 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.70 %
+Other         3 hrs 9 mins    █████████████░░░░░░░░░░░░   52.08 %
+Org           1 hr 35 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.10 %
+Image (svg)   1 hr 19 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.82 %
 ```
 
 <!--END_SECTION:waka-->
