@@ -60,15 +60,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 May 2025 - To: 15 May 2025
+From: 09 May 2025 - To: 16 May 2025
 
-Total Time: 4 hrs 55 mins
+Total Time: 7 hrs 9 mins
 
-Other         2 hrs 53 mins   ██████████████▓░░░░░░░░░░   58.53 %
-Org           1 hr 1 min      █████▒░░░░░░░░░░░░░░░░░░░   20.79 %
-Emacs Lisp    1 hr            █████░░░░░░░░░░░░░░░░░░░░   20.42 %
-INI           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-Image (svg)   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Other         3 hrs 39 mins   ████████████▓░░░░░░░░░░░░   51.21 %
+Emacs Lisp    1 hr 44 mins    ██████░░░░░░░░░░░░░░░░░░░   24.42 %
+Org           1 hr 33 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.83 %
+Bash          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+INI           5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
 ```
 
 <!--END_SECTION:waka-->
