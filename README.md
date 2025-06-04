@@ -60,12 +60,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 May 2025 - To: 03 June 2025
+From: 28 May 2025 - To: 04 June 2025
 
-Total Time: 1 hr 28 mins
+Total Time: 1 hr 55 mins
 
-Other   1 hr 27 mins    █████████████████████████   99.55 %
-INI     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+Other   1 hr 54 mins    █████████████████████████   99.65 %
+INI     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 ```
 
 <!--END_SECTION:waka-->
