@@ -60,15 +60,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 June 2025 - To: 11 June 2025
+From: 05 June 2025 - To: 12 June 2025
 
-Total Time: 7 hrs 20 mins
+Total Time: 9 hrs 6 mins
 
-Other        6 hrs 17 mins   █████████████████████▒░░░   85.52 %
-INI          52 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.02 %
-Org          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
-Emacs Lisp   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
-D            2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+Other        8 hrs 2 mins    ██████████████████████░░░   88.32 %
+INI          52 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.70 %
+Org          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+Emacs Lisp   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+D            2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
 ```
 
 <!--END_SECTION:waka-->
