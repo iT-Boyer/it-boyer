@@ -60,12 +60,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 June 2025 - To: 29 June 2025
+From: 23 June 2025 - To: 30 June 2025
 
-Total Time: 5 hrs 23 mins
+Total Time: 5 hrs 59 mins
 
-Other   3 hrs 19 mins   ███████████████▒░░░░░░░░░   61.89 %
-Org     2 hrs 3 mins    █████████▓░░░░░░░░░░░░░░░   38.11 %
+Other   3 hrs 44 mins   ███████████████▓░░░░░░░░░   62.29 %
+Org     2 hrs 15 mins   █████████▒░░░░░░░░░░░░░░░   37.71 %
 ```
 
 <!--END_SECTION:waka-->
