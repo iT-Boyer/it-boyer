@@ -60,12 +60,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 July 2025 - To: 17 July 2025
+From: 11 July 2025 - To: 18 July 2025
 
-Total Time: 7 hrs 4 mins
+Total Time: 9 hrs 54 mins
 
-Other   4 hrs 25 mins   ███████████████▓░░░░░░░░░   62.40 %
-Org     2 hrs 39 mins   █████████▒░░░░░░░░░░░░░░░   37.60 %
+Other   5 hrs 55 mins   ███████████████░░░░░░░░░░   59.91 %
+Org     3 hrs 58 mins   ██████████░░░░░░░░░░░░░░░   40.09 %
 ```
 
 <!--END_SECTION:waka-->
