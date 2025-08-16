@@ -60,14 +60,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 August 2025 - To: 15 August 2025
+From: 09 August 2025 - To: 16 August 2025
 
-Total Time: 28 hrs 13 mins
+Total Time: 29 hrs 44 mins
 
-Other        23 hrs 57 mins  █████████████████████▒░░░   84.92 %
-Org          2 hrs 57 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.46 %
-Swift        1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 %
-Emacs Lisp   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Other        23 hrs 42 mins  ████████████████████░░░░░   79.71 %
+Org          4 hrs 43 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.90 %
+Swift        1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 %
+Emacs Lisp   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
