@@ -34,11 +34,12 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         if: github.ref == 'refs/heads/main'
         with:
-          # 再gh-page发布库设置－deploy中
-          # 添加ssh公钥
-          #      github_token: ${{ secrets.GITHUB_TOKEN }}
-          #      博客源码库中secret－action中
-          #      添加ssh私钥，名称ACTIONS_DEPLOY_KEY
+          #  在终端生成密钥：ssh-keygen -t ed25519 -C "it-boyer@qq.com"
+          #
+          # 1. 在gh-page发布库中，添加终端生成的ssh公钥， 公钥名称随意
+          # 例如：it-boyer.github.io  设置位置：https://github.com/iT-Boyer/iT-Boyer.github.io/settings/keys
+          # 2. 在博客源码库的设置中secret－action中,添加ssh私钥, 私钥名称DEPLOY_TO_GH_PAGES
+          #  例如：it-boyer 源码库 action 操作，设置位置：https://github.com/iT-Boyer/it-boyer/settings/secrets/actions
           deploy_key: ${{ secrets.DEPLOY_TO_GH_PAGES }}
           publish_dir: ./public # 对应config.toml配置publish_dir
           external_repository: it-boyer/it-boyer.github.io
