@@ -37,6 +37,8 @@ rssLimit = 10
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+[markup.goldmark.parser]
+      autoHeadingID = false # 设置为false以完全禁用自动生成ID
 
 [params.author]                  # essential                     # 必需
 name = "iTBoyer"
