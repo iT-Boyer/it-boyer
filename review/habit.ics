@@ -1,0 +1,55 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+X-WR-CALNAME:OrgMode
+PRODID:-//iTBoyer//Emacs with Org mode//EN
+X-WR-TIMEZONE:CST
+X-WR-CALDESC:
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20231001T095807Z
+UID:SC-20f8c335-feb0-43d0-8a08-c737ef406f6d
+DTSTART:20230927T060000
+DTEND:20230927T080000
+RRULE:FREQ=DAILY;INTERVAL=1
+SUMMARY:S: 头脑风暴：演练角色，fc 记录熟练度 [2/3]
+DESCRIPTION:每天演练以原则为中心，重新定义知识体系结构，由内而外转换思维的新思想。\n借助提案笔记工具，按照两次创造，发挥想象力，激活知识
+ 体系和经验才能，设\n计出个人愿景，实现自我领导原则。\n\n进行每天头脑风暴，重新定义，更新每个角色的愿景，使命宣言，知识循环，激\n活经验。\n
+ \n在头脑风暴中，如何保证在 emacs 中进行，怎么在 emacs 中应用提案笔记的问\n题。
+CATEGORIES:???
+URL:org-protocol://gdt?id=20f8c335-feb0-43d0-8a08-c737ef406f6d
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231001T095807Z
+UID:SC-ba53f959-2fd2-40ee-868a-451c6cd51ebd
+DTSTART;VALUE=DATE:20230531
+DTEND;VALUE=DATE:20230601
+SUMMARY:S: 使用个人模板训练 ChatGPT 提升效能
+DESCRIPTION:模板的思考\n\n使用 cupture 采集灵感，采集之后在执行 AI 命令，实现分析选择 AI 的\nprompt 模板，例
+ 如： 翻译，总结等。学习扩展 org-ai 插件，尝试编写自己的\n方法，传入 capture 内容，直接执行 org-ai 功能。\n\n捷径相关
+ 的灵感\n\n结合 RIAI 捷径中的操作，现在支持分步分析内容，尝试提供一套模板和用户输\n入内容，组合之后，请求 AI第一种使用 claude 
+ 对话，第二种使用 ssh\nemacsclient 命令，使用 cupture 特性，和 org-ai 结合使用\n\n预期效果：发挥捷径的特点，对
+ 话模式实现不同模板，灵感来源 obsidian 中的\nQuickAdd 模板替换的文本。在对话完成之后，产出完成的 prompt ，然后发送\nC
+ laude 或调动 ssh 命令，执行 AI 操作。\n\ncupture 执行命令org-ai 扩展命令auto-gpt emacs 插件捷径支持
+  QuickAdd 模\n板，使用 ssh 命令对接 cupture ，或使用 org-ai 命令。\n\n\n• ☐ 接下来要做的就是如何丰富 p
+ rompt 的库，找到自己的常用的角色，功能。\n\n  现在通过 swift 脚本收集在 prompt.org 中，需要进一步管理，扩展几个\n 
+  角色。\n  1. emacs 开发\n  2. 项目管理\n  3. 时间管理\n  4. swift 开发\n  5. 空雨伞模板\n  6.
+  拆为己用模板\n  要针对这几个方面训练 prompt ，在网上收集内容，提取关键点，打造输入\n  自己的 prompt 模板的训练\n\n  
+ 现在有的，给出标题，让：chatgpt 给出意见\n  1. 给出内容，作总结\n  2. 给出日程安排，狱取管理建议\n  3. 给出问谈笔记，获
+ 取博各写作建议\n  4. 是否可以训练出一套模板，应用到 capture\, snippet 中。\n要多使用 AI 获取灵感能够给你很多想法建议
+ 。\n\n总结上面需要的做的工作\n• ☐ 训练 prompt 整理自己的角色，在 capture 中和 快捷中都可以使用的效果\n• ☐ 配置 o
+ rg-super-agenda 践行要事第一的原则，每天执行二象限思维
+CATEGORIES:???
+URL:org-protocol://gdt?id=
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231001T095807Z
+UID:TS1-77b38a25-2c23-47e3-ba8c-136284ee5209
+DTSTART:20231001T072000
+DTEND:20231001T092000
+SUMMARY:国庆节激活社交达人，发现资源渠道，扩大影响圈
+DESCRIPTION:<2023-10-01 周Sun 07:20>普天同庆的节日，该怎么祝福安康得到更多的同理心\n和认同，价值观的认同\n\n有
+ 哪些资源渠道，扩大影响圈
+CATEGORIES:???
+URL:org-protocol://gdt?id=
+END:VEVENT
+END:VCALENDAR
