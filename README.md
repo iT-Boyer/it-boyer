@@ -60,14 +60,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 September 2025 - To: 22 September 2025
+From: 16 September 2025 - To: 23 September 2025
 
-Total Time: 16 hrs 15 mins
+Total Time: 16 hrs 14 mins
 
-Other   8 hrs 21 mins   █████████████░░░░░░░░░░░░   51.45 %
-Bash    7 hrs 19 mins   ███████████▒░░░░░░░░░░░░░   45.06 %
-Org     33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
-Swift   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Other        8 hrs 1 min     ████████████▒░░░░░░░░░░░░   49.38 %
+Bash         7 hrs 26 mins   ███████████▒░░░░░░░░░░░░░   45.82 %
+Markdown     30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
+Org          14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+Emacs Lisp   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
