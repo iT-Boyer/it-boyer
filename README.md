@@ -60,12 +60,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 October 2025 - To: 16 October 2025
+From: 10 October 2025 - To: 17 October 2025
 
-Total Time: 2 hrs 16 mins
+Total Time: 5 hrs 37 mins
 
-Other      2 hrs 13 mins   ████████████████████████▒   97.50 %
-Markdown   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
+Other      5 hrs 18 mins   ███████████████████████▓░   94.37 %
+Markdown   18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
 ```
 
 <!--END_SECTION:waka-->
