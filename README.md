@@ -60,15 +60,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 November 2025 - To: 12 November 2025
+From: 06 November 2025 - To: 13 November 2025
 
-Total Time: 24 hrs 25 mins
+Total Time: 23 hrs 28 mins
 
-Other                      13 hrs 5 mins   █████████████▒░░░░░░░░░░░   53.56 %
-Markdown                   7 hrs 29 mins   ███████▓░░░░░░░░░░░░░░░░░   30.64 %
-Bash                       2 hrs 55 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.00 %
-Org                        34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
-Emacs Lisp                 13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+Other                      13 hrs 23 mins  ██████████████▒░░░░░░░░░░   57.01 %
+Markdown                   7 hrs 43 mins   ████████▒░░░░░░░░░░░░░░░░   32.91 %
+Bash                       1 hr 26 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.11 %
+Org                        34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+Emacs Lisp                 13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
 ```
 
 <!--END_SECTION:waka-->
