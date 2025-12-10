@@ -1,0 +1,34 @@
+周回顾
+
+ 今日毕
+
+  TODO 阅读一本书的第一章  today                  :@Inbox:project:
+  TODO 整理 blink 文档和 shortcut 开发文档        :@项目总结:project:
+  TODO 早操演练  60d ago                          :@周报:project:
+
+ 周计划
+  TODO 我的经历是什么？  60d ago                  :@周报:project:
+
+ 充电中
+  七个习惯
+  TODO [#B] 睡眠模式  34d ago                     :habit:
+  TODO [#A] 复盘达人 [0/0]  in 1d                 :habit:
+  TODO [#B] 学习达人  60d ago                     :habit:
+  TODO [#B] 饭桌礼仪  7d ago                      :habit:
+  TODO [#B] 社交达人  60d ago                     :habit:
+  TODO [#B] 资产达人  34d ago                     :habit:
+
+ Other items
+  TODO 诚信原则
+  TODO 成长原则
+  TODO 自我管理原则
+  TODO 健康达人 [0/0]  3d ago                     :habit:
+  TODO [#A] 卫生                                  :habit:
+  TODO [#A] 餐饮 [0/2]                            :habit:
+  TODO cowuoshi                                   :@周报:
+  TODO 开始计划                                   :@周报:
+  TODO 明天到家                                   :@周报:
+  TODO 演练明天要做的事情                         :@周报:
+  TODO 多线程学习                                 :@周报:
+  TODO 抖音博客                                   :@周报:
+  TODO [#A] hackingWithSwift  706d ago

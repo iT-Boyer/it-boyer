@@ -1,0 +1,110 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+X-WR-CALNAME:OrgMode
+PRODID:-//iTBoyer//Emacs with Org mode//EN
+X-WR-TIMEZONE:CST
+X-WR-CALDESC:
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20230921T114913Z
+UID:DL-0db0a04f-0f81-4b69-aea2-a0c93d14e0c9
+DTSTART:20230921T200000
+DTEND:20230921T220000
+SUMMARY:DL: 阅读一本书的第一章
+DESCRIPTION:验证在日历钟，普通的任务怎么设置时长安排。
+CATEGORIES:???
+URL:org-protocol://gdt?id=
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230921T114913Z
+UID:SC-0db0a04f-0f81-4b69-aea2-a0c93d14e0c9
+DTSTART:20230921T192000
+DTEND:20230921T212000
+SUMMARY:S: 阅读一本书的第一章
+DESCRIPTION:验证在日历钟，普通的任务怎么设置时长安排。
+CATEGORIES:???
+URL:org-protocol://gdt?id=
+END:VEVENT
+BEGIN:VTODO
+UID:TODO-0db0a04f-0f81-4b69-aea2-a0c93d14e0c9
+DTSTAMP:20230921T114913Z
+DTSTART:20230921T192000
+DUE:20230921T200000
+SUMMARY:阅读一本书的第一章
+DESCRIPTION:验证在日历钟，普通的任务怎么设置时长安排。
+CATEGORIES:???
+SEQUENCE:1
+PRIORITY:2
+STATUS:NEEDS-ACTION
+END:VTODO
+BEGIN:VEVENT
+DTSTAMP:20230921T114913Z
+UID:SC-ecc0f57f-b59a-4f71-8003-009bc30d2fcc
+DTSTART:20230723T140000
+DTEND:20230723T160000
+SUMMARY:S: 我的经历是什么？
+DESCRIPTION:从上一次，使用 emacs 已经过了一个月了。当时是什么导致了一下子没有了坚\n持的动力。\n\n先看看，在这几步中用了哪些技
+ 术。agenda 时间管理工具同步到 README 的机\n功能。hugo 发布等\n\nmodd 工具方格笔记的方式记录思维转换七个习惯没有第一时
+ 间应用到现实生活\n中来。现在结合七个习惯，整理 emacs agenda github shortcut 等方式。
+CATEGORIES:???
+URL:org-protocol://gdt?id=
+END:VEVENT
+BEGIN:VTODO
+UID:TODO-ecc0f57f-b59a-4f71-8003-009bc30d2fcc
+DTSTAMP:20230921T114913Z
+DTSTART:20230723T140000
+SUMMARY:我的经历是什么？
+DESCRIPTION:从上一次，使用 emacs 已经过了一个月了。当时是什么导致了一下子没有了坚\n持的动力。\n\n先看看，在这几步中用了哪些技
+ 术。agenda 时间管理工具同步到 README 的机\n功能。hugo 发布等\n\nmodd 工具方格笔记的方式记录思维转换七个习惯没有第一时
+ 间应用到现实生活\n中来。现在结合七个习惯，整理 emacs agenda github shortcut 等方式。
+CATEGORIES:???
+SEQUENCE:1
+PRIORITY:2
+STATUS:NEEDS-ACTION
+END:VTODO
+BEGIN:VEVENT
+DTSTAMP:20230921T114913Z
+UID:SC-2813ee7b-6bd0-4a10-9bf2-5a724b815c61
+DTSTART:20230723T190000
+DTEND:20230723T210000
+SUMMARY:S: 早操演练
+DESCRIPTION:洗澡是一个很好的心态调节的作用。要把洗澡的时间表列出来，要把这个\n好习惯轨道身心健康的重要事件中。\n\n现在身心健康主要有
+ 两个方面，一个是早起健身，个人卫生健康，要注重\n仪表。VR 健身，AI 对话聊天。个人卫生，洗脸刷牙，运动之后，每天冲\n澡。\n\n早上跑步有哪
+ 些选择：路线，是先卫生，还是先运动。6 点到7 点，输入\n小范围运动，还需要在运动之后，有清醒的头脑之后，还需要坐在电脑前，\n开始二项限思维的修
+ 炼，到8 半，然后，就可以出门到图书馆学习。\n\n这是在达到心灵演练，形成一个思维转换，改变行为。这个最重要的步骤。\n要充分使用空雨伞的方法，整
+ 理要做的事情，充分演练，就不信我罗嗦的\n内容没有一处可以记录到原则中的。\n\n早餐的问题，现在有微波炉，有电饭煲，和快餐盒。怎么使用这工具，改\
+ n变现在的行为。\n\n晚上煮水饺，在冰箱中保存，一次两顿的量。第二天早餐使用电饭煲做。\n\n煮粥和鸡蛋，一碗粥，两个鸡蛋。\n\n跑步不仅仅是为
+ 了锻炼身体，更重要的是有一个清醒的头脑，为把事情搞\n明白。避免抑郁的出现。\n\n餐饮先有这些：晚饭煮水饺，早餐使用电饭煲煮粥和鸡蛋。
+CATEGORIES:???
+URL:org-protocol://gdt?id=
+END:VEVENT
+BEGIN:VTODO
+UID:TODO-2813ee7b-6bd0-4a10-9bf2-5a724b815c61
+DTSTAMP:20230921T114913Z
+DTSTART:20230723T190000
+SUMMARY:早操演练
+DESCRIPTION:洗澡是一个很好的心态调节的作用。要把洗澡的时间表列出来，要把这个\n好习惯轨道身心健康的重要事件中。\n\n现在身心健康主要有
+ 两个方面，一个是早起健身，个人卫生健康，要注重\n仪表。VR 健身，AI 对话聊天。个人卫生，洗脸刷牙，运动之后，每天冲\n澡。\n\n早上跑步有哪
+ 些选择：路线，是先卫生，还是先运动。6 点到7 点，输入\n小范围运动，还需要在运动之后，有清醒的头脑之后，还需要坐在电脑前，\n开始二项限思维的修
+ 炼，到8 半，然后，就可以出门到图书馆学习。\n\n这是在达到心灵演练，形成一个思维转换，改变行为。这个最重要的步骤。\n要充分使用空雨伞的方法，整
+ 理要做的事情，充分演练，就不信我罗嗦的\n内容没有一处可以记录到原则中的。\n\n早餐的问题，现在有微波炉，有电饭煲，和快餐盒。怎么使用这工具，改\
+ n变现在的行为。\n\n晚上煮水饺，在冰箱中保存，一次两顿的量。第二天早餐使用电饭煲做。\n\n煮粥和鸡蛋，一碗粥，两个鸡蛋。\n\n跑步不仅仅是为
+ 了锻炼身体，更重要的是有一个清醒的头脑，为把事情搞\n明白。避免抑郁的出现。\n\n餐饮先有这些：晚饭煮水饺，早餐使用电饭煲煮粥和鸡蛋。
+CATEGORIES:???
+SEQUENCE:1
+PRIORITY:2
+STATUS:NEEDS-ACTION
+END:VTODO
+BEGIN:VTODO
+UID:TODO-9a764ca8-9ec3-45b8-9a9f-06720bf7bb77
+DTSTAMP:20230921T114913Z
+DTSTART:20230921T194900
+SUMMARY:整理 blink 文档和 shortcut 开发文档
+DESCRIPTION:blink 文档通过翻译，了解 blink 的代码框架和知识体系。目的，将 whisper\n功能集成到 blink\, 并新
+ 增类似于 facecam 命令一样，浮动在界面上，展示录\n入状态。在转入文本之后，将内容返回给 shortcut 。执行 emacs 相关操作。
+CATEGORIES:???
+SEQUENCE:1
+PRIORITY:2
+STATUS:NEEDS-ACTION
+END:VTODO
+END:VCALENDAR

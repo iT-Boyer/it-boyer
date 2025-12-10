@@ -1,0 +1,13 @@
+日回顾
+
+ 今日要事
+
+  TODO 阅读一本书的第一章  today                  :@Inbox:project:
+
+ Scheduled earlier
+
+  TODO 我的经历是什么？  60d ago                  :@周报:project:
+  TODO 早操演练  60d ago                          :@周报:project:
+
+ Other items
+  TODO 整理 blink 文档和 shortcut 开发文档        :@项目总结:project:
