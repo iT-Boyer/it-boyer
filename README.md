@@ -60,12 +60,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 December 2025 - To: 04 January 2026
+From: 29 December 2025 - To: 05 January 2026
 
-Total Time: 4 hrs 46 mins
+Total Time: 6 hrs 15 mins
 
-Other   4 hrs 18 mins   ██████████████████████▓░░   90.30 %
-Org     27 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.70 %
+Other        5 hrs 27 mins   █████████████████████▓░░░   87.09 %
+Org          41 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.13 %
+Emacs Lisp   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
 ```
 
 <!--END_SECTION:waka-->
