@@ -60,13 +60,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 January 2026 - To: 13 January 2026
+From: 07 January 2026 - To: 14 January 2026
 
-Total Time: 3 hrs 5 mins
+Total Time: 2 hrs 41 mins
 
-Other        3 hrs 5 mins    █████████████████████████   99.64 %
-Emacs Lisp   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Other   2 hrs 41 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
