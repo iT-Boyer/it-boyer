@@ -60,15 +60,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 January 2026 - To: 24 January 2026
+From: 18 January 2026 - To: 25 January 2026
 
-Total Time: 26 hrs 14 mins
+Total Time: 22 hrs 43 mins
 
-Other        18 hrs 27 mins  █████████████████▓░░░░░░░   70.39 %
-Org          5 hrs 37 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.41 %
-Emacs Lisp   1 hr 49 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.97 %
-JSON         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
-Git          5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+Other        15 hrs 38 mins  █████████████████▒░░░░░░░   68.81 %
+Org          5 hrs 31 mins   ██████░░░░░░░░░░░░░░░░░░░   24.29 %
+Emacs Lisp   1 hr 28 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.51 %
+Git          5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
 ```
 
 <!--END_SECTION:waka-->
