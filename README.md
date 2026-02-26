@@ -60,11 +60,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 February 2026 - To: 25 February 2026
+From: 19 February 2026 - To: 26 February 2026
 
-Total Time: 2 hrs 36 mins
+Total Time: 2 hrs 51 mins
 
-Other   2 hrs 36 mins         █████████████████████████   100.00 %
+Other   1 hr 50 mins          ████████████████░░░░░░░░░   64.65 %
+JSON    1 hr                  ████████▓░░░░░░░░░░░░░░░░   35.04 %
+YAML    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 ```
 
 <!--END_SECTION:waka-->
