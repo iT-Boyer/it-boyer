@@ -60,15 +60,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 February 2026 - To: 04 March 2026
+From: 26 February 2026 - To: 05 March 2026
 
-Total Time: 22 hrs 53 mins
+Total Time: 21 hrs 39 mins
 
-Other        15 hrs 2 mins         ████████████████▒░░░░░░░░   65.72 %
-Swift        2 hrs 28 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.80 %
-Shell        1 hr 42 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 %
-Text         1 hr 32 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.72 %
-Org          1 hr 5 mins           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
+Other        14 hrs 48 mins        █████████████████░░░░░░░░   68.36 %
+Swift        2 hrs 28 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.41 %
+Shell        1 hr 42 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 %
+Text         1 hr 32 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.10 %
+Org          1 hr 6 mins           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
 ```
 
 <!--END_SECTION:waka-->
