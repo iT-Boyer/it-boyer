@@ -60,15 +60,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 March 2026 - To: 18 March 2026
+From: 12 March 2026 - To: 19 March 2026
 
-Total Time: 22 hrs 53 mins
+Total Time: 17 hrs 43 mins
 
-Other        7 hrs 47 mins         ████████▓░░░░░░░░░░░░░░░░   34.00 %
-Emacs Lisp   7 hrs 24 mins         ████████░░░░░░░░░░░░░░░░░   32.38 %
-Org          5 hrs 29 mins         ██████░░░░░░░░░░░░░░░░░░░   23.99 %
-JSON         42 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
-Bash         25 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+Emacs Lisp   6 hrs 47 mins         █████████▓░░░░░░░░░░░░░░░   38.27 %
+Other        5 hrs 45 mins         ████████░░░░░░░░░░░░░░░░░   32.49 %
+Org          3 hrs 51 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.79 %
+JSON         45 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
+Markdown     14 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
 ```
 
 <!--END_SECTION:waka-->
