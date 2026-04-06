@@ -60,15 +60,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 March 2026 - To: 05 April 2026
+From: 30 March 2026 - To: 06 April 2026
 
-Total Time: 35 hrs 28 mins
+Total Time: 29 hrs 47 mins
 
-Other        30 hrs 45 mins        █████████████████████▓░░░   86.71 %
-Emacs Lisp   2 hrs 55 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 %
-Bash         34 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
-TOML         33 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
-Org          28 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+Other        25 hrs 37 mins        █████████████████████▓░░░   86.02 %
+Emacs Lisp   2 hrs 38 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.87 %
+TOML         33 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
+Bash         25 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+Org          23 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
 ```
 
 <!--END_SECTION:waka-->
