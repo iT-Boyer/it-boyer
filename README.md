@@ -60,15 +60,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 July 2026 - To: 23 July 2026
+From: 17 July 2026 - To: 24 July 2026
 
-Total Time: 6 hrs 41 mins
+Total Time: 1 hr 6 mins
 
-Other        6 hrs                 ██████████████████████▒░░   89.78 %
-D            18 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
-Markdown     18 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
-Emacs Lisp   2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
-Org          1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+Other      1 hr 4 mins           ████████████████████████▓   98.03 %
+Markdown   1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
 ```
 
 <!--END_SECTION:waka-->
