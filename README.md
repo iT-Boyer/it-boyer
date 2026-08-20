@@ -60,15 +60,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 August 2026 - To: 19 August 2026
+From: 13 August 2026 - To: 20 August 2026
 
-Total Time: 17 hrs 15 mins
+Total Time: 13 hrs 51 mins
 
-Other        14 hrs 29 mins        █████████████████████░░░░   83.96 %
-Emacs Lisp   1 hr                  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
-D            50 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
-Org          46 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
-Groff        6 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+Other        11 hrs 48 mins        █████████████████████▒░░░   85.18 %
+Emacs Lisp   52 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 %
+D            50 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.07 %
+Org          13 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+Groff        5 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
 ```
 
 <!--END_SECTION:waka-->
