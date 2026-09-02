@@ -60,13 +60,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 August 2026 - To: 01 September 2026
+From: 26 August 2026 - To: 02 September 2026
 
-Total Time: 13 hrs 15 mins
+Total Time: 18 hrs 50 mins
 
-Other        13 hrs 10 mins        █████████████████████████   99.37 %
-Emacs Lisp   4 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
-Markdown     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Other         18 hrs 47 mins        █████████████████████████   99.80 %
+Standard ML   1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Emacs Lisp    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Markdown      0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
