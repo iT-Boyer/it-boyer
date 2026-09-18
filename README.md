@@ -60,12 +60,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 September 2026 - To: 17 September 2026
+From: 11 September 2026 - To: 18 September 2026
 
-Total Time: 43 hrs 41 mins
+Total Time: 41 hrs 56 mins
 
-Other         43 hrs 36 mins        █████████████████████████   99.81 %
-Standard ML   4 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Other         41 hrs 51 mins        █████████████████████████   99.80 %
+Standard ML   4 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
 <!--END_SECTION:waka-->
